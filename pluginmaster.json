@@ -27,6 +27,41 @@
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.1/RotationSolver.zip",
         "AssemblyVersion": "4.0.0.1",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.1/RotationSolver.zip"
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.1/RotationSolver.zip",
+        "DownloadCount": 235
+    },
+    {
+        "Author": "The CombatReborn Team",
+        "Name": "BossMod Reborn",
+        "InternalName": "BossMod",
+        "Description": "A bunch of utilities to simplify boss mechanics",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "combat",
+            "boss",
+            "dodge",
+            "mechanics",
+            "pve",
+            "raids",
+            "trials"
+        ],
+        "DalamudApiLevel": 9,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/icon.png",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "AcceptsFeedback": true,
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image1.png",
+            "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
+            "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.0/BossMod.zip",
+        "AssemblyVersion": "1.0.0.0",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.0/BossMod.zip",
+        "DownloadCount": 2
     }
 ]

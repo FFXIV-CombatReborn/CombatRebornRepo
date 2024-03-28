@@ -43,6 +43,19 @@ def append_manifest(manifest, latest_release, latest_pre_release):
         manifest["TestingAssemblyVersion"] = latest_pre_release["tag_name"]
     return manifest
 
+def append_download_count(manifest, repo):
+    url = f"https://api.github.com/repos/{repo}/releases"
+    response = requests.get(url)
+    response.raise_for_status()
+    releases = response.json()
+
+    download_count = 0
+    for release in releases:
+        download_count += release["assets"][0]["download_count"]
+
+    manifest["DownloadCount"] = download_count
+    return manifest
+
 def main():
     # Get repositories from repos.txt
     with open('repos.txt', 'r') as f:
@@ -56,6 +69,7 @@ def main():
             latest_pre_release = None
         manifest = fetch_manifest(repo)
         manifest = append_manifest(manifest, latest_release, latest_pre_release)
+        manifest = append_download_count(manifest, repo)
         combined_manifests.append(manifest)
         print(f"{repo}: {latest_release['tag_name']} {latest_pre_release['tag_name'] if latest_pre_release else ''}")
     
