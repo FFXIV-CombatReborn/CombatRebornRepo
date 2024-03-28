@@ -1,1 +1,2 @@
 FFXIV-CombatReborn/RotationSolverReborn
+FFXIV-CombatReborn/BossModReborn
