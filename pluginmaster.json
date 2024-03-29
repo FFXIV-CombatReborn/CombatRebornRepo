@@ -28,7 +28,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.4/RotationSolver.zip",
         "AssemblyVersion": "4.0.0.4",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.4/RotationSolver.zip",
-        "DownloadCount": 621
+        "DownloadCount": 635
     },
     {
         "Author": "The CombatReborn Team",
@@ -59,9 +59,9 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.1/BossMod.zip",
-        "AssemblyVersion": "1.0.0.1",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.1/BossMod.zip",
-        "DownloadCount": 259
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.2/BossMod.zip",
+        "AssemblyVersion": "1.0.0.2",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.2/BossMod.zip",
+        "DownloadCount": 272
     }
 ]
