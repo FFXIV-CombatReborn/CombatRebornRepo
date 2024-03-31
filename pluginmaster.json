@@ -25,10 +25,10 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.10/RotationSolver.zip",
-        "AssemblyVersion": "4.0.0.10",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.10/RotationSolver.zip",
-        "DownloadCount": 1259
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.11/RotationSolver.zip",
+        "AssemblyVersion": "4.0.0.11",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.11/RotationSolver.zip",
+        "DownloadCount": 1283
     },
     {
         "Author": "The CombatReborn Team",
