@@ -33,6 +33,10 @@ def fetch_manifest(repo):
     response.raise_for_status()
     return response.json()
 
+def append_changelog(manifest, latest_release):
+    manifest["Changelog"] = latest_release["body"]
+    return manifest
+
 def append_manifest(manifest, latest_release, latest_pre_release):
     if latest_release:
         manifest["DownloadLinkInstall"] = latest_release["assets"][0]["browser_download_url"]
@@ -70,6 +74,7 @@ def main():
         manifest = fetch_manifest(repo)
         manifest = append_manifest(manifest, latest_release, latest_pre_release)
         manifest = append_download_count(manifest, repo)
+        manifest = append_changelog(manifest, latest_release)
         combined_manifests.append(manifest)
         print(f"{repo}: {latest_release['tag_name']} {latest_pre_release['tag_name'] if latest_pre_release else ''}")
     
