@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.24/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.18/RotationSolver.zip",
         "TestingAssemblyVersion": "4.0.0.18",
-        "DownloadCount": 3145,
+        "DownloadCount": 3171,
         "Changelog": "## What's Changed\r\n* Knockback detection and anti-knockback autouse by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/66\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.0.23...4.0.0.24"
     },
     {
@@ -62,10 +62,10 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.8/BossMod.zip",
-        "AssemblyVersion": "1.0.0.8",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.8/BossMod.zip",
-        "DownloadCount": 1626,
-        "Changelog": "## What's Changed\r\n* Thaleia Llymlaen update by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/29\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.7...1.0.0.8"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.9/BossMod.zip",
+        "AssemblyVersion": "1.0.0.9",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.9/BossMod.zip",
+        "DownloadCount": 1627,
+        "Changelog": "## What's Changed\r\n* Base Merge by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/31\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.8...1.0.0.9"
     }
 ]
