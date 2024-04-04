@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.23/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.18/RotationSolver.zip",
         "TestingAssemblyVersion": "4.0.0.18",
-        "DownloadCount": 3029,
+        "DownloadCount": 3045,
         "Changelog": "## What's Changed\r\n* Major UI updates by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/62\r\n* Fix clipboard buttons and list draws. by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/63\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.0.22...4.0.0.23"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.8/BossMod.zip",
         "AssemblyVersion": "1.0.0.8",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.8/BossMod.zip",
-        "DownloadCount": 1494,
+        "DownloadCount": 1513,
         "Changelog": "## What's Changed\r\n* Thaleia Llymlaen update by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/29\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.7...1.0.0.8"
     }
 ]
