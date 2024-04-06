@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.25/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.18/RotationSolver.zip",
         "TestingAssemblyVersion": "4.0.0.18",
-        "DownloadCount": 3681,
+        "DownloadCount": 3688,
         "Changelog": "## What's Changed\r\n* Added toggle for anti-knockback usage by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/67\r\n* Update Configs.cs by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/68\r\n* fixes for variant actions, duty actions, and drawing gcd target in window by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/69\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.0.24...4.0.0.25"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.10/BossMod.zip",
         "AssemblyVersion": "1.0.0.10",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.10/BossMod.zip",
-        "DownloadCount": 2072,
+        "DownloadCount": 2076,
         "Changelog": "## What's Changed\r\n* Thaleia Oschon + Trash Pack 2&3 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/32\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.9...1.0.0.10"
     }
 ]
