@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.26/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.18/RotationSolver.zip",
         "TestingAssemblyVersion": "4.0.0.18",
-        "DownloadCount": 4009,
+        "DownloadCount": 4023,
         "Changelog": "## What's Changed\r\n* Cherry picked relevant archi fixes regarding duty actions, variant actions, a crash on exiting variant dungeons, etc by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/71\r\n* add statuses to NascentFlash base by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/72\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.0.25...4.0.0.26"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.11/BossMod.zip",
         "AssemblyVersion": "1.0.0.11",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.11/BossMod.zip",
-        "DownloadCount": 2246,
+        "DownloadCount": 2257,
         "Changelog": "## What's Changed\r\n* FF16 collab bugfix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/33\r\n* Thaleia - Eulogia by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/34\r\n* Module Maturity stuff from official repo\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.10...1.0.0.11"
     }
 ]
