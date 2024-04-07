@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.1.2/RotationSolver.zip",
-        "AssemblyVersion": "4.0.1.2",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.1.2/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.1.3/RotationSolver.zip",
+        "AssemblyVersion": "4.0.1.3",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.1.3/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.18/RotationSolver.zip",
         "TestingAssemblyVersion": "4.0.0.18",
-        "DownloadCount": 3988,
-        "Changelog": "## What's Changed\r\n* Remove check for value on settings toggle by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/74\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.1.1...4.0.1.2"
+        "DownloadCount": 3828,
+        "Changelog": "## What's Changed\r\n* Removed incorrect naming (Sorry Archi) by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/75\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.1.2...4.0.1.3"
     },
     {
         "Author": "The CombatReborn Team",
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.14/BossMod.zip",
         "AssemblyVersion": "1.0.0.14",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.14/BossMod.zip",
-        "DownloadCount": 2449,
+        "DownloadCount": 2462,
         "Changelog": "Build fixes\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.13...1.0.0.14"
     },
     {
