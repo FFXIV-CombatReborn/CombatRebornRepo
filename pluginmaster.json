@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.2.0/RotationSolver.zip",
-        "AssemblyVersion": "4.0.2.0",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.2.0/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.2.1/RotationSolver.zip",
+        "AssemblyVersion": "4.0.2.1",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.2.1/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.18/RotationSolver.zip",
         "TestingAssemblyVersion": "4.0.0.18",
-        "DownloadCount": 4216,
-        "Changelog": "## What's Changed\r\n* Removed all action timings by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/76\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.1.3...4.0.2.0"
+        "DownloadCount": 4180,
+        "Changelog": "## What's Changed\r\n* MCH TTK Update by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/77\r\n* the return of actionahead setting by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/78\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.2.0...4.0.2.1"
     },
     {
         "Author": "The CombatReborn Team",
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.14/BossMod.zip",
         "AssemblyVersion": "1.0.0.14",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.14/BossMod.zip",
-        "DownloadCount": 2590,
+        "DownloadCount": 2595,
         "Changelog": "Build fixes\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.13...1.0.0.14"
     },
     {
@@ -95,7 +95,7 @@
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.1/ActionTimelineReborn.zip",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.1/ActionTimelineReborn.zip",
-        "DownloadCount": 70,
+        "DownloadCount": 71,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.0...1.3.6.1"
     }
 ]
