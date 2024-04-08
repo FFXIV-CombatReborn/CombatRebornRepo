@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.2.2/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.18/RotationSolver.zip",
         "TestingAssemblyVersion": "4.0.0.18",
-        "DownloadCount": 4049,
+        "DownloadCount": 4066,
         "Changelog": "## What's Changed\r\n* Reworked timing system to be more compliant with the pentazole phenomena by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/79\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.2.1...4.0.2.2"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.14/BossMod.zip",
         "AssemblyVersion": "1.0.0.14",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.14/BossMod.zip",
-        "DownloadCount": 2617,
+        "DownloadCount": 2621,
         "Changelog": "Build fixes\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.13...1.0.0.14"
     },
     {
