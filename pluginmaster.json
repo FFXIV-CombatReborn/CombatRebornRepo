@@ -28,9 +28,9 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.2.4/RotationSolver.zip",
         "AssemblyVersion": "4.0.2.4",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.2.4/RotationSolver.zip",
-        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.0.18/RotationSolver.zip",
-        "TestingAssemblyVersion": "4.0.0.18",
-        "DownloadCount": 4677,
+        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.2.5/RotationSolver.zip",
+        "TestingAssemblyVersion": "4.0.2.5",
+        "DownloadCount": 4480,
         "Changelog": "## What's Changed\r\n* Rook TTK Fix by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/83\r\n* .1f actionahead and various text fixes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/84\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.2.3...4.0.2.4"
     },
     {
