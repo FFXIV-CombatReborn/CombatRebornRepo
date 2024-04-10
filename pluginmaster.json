@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.3.0/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.2.6/RotationSolver.zip",
         "TestingAssemblyVersion": "4.0.2.6",
-        "DownloadCount": 4541,
+        "DownloadCount": 4555,
         "Changelog": "## What's Changed\r\n* Enhanced timing detection to fix GCD clipping by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/86\r\n* More timing improvements, reduced clipping and improved weaving even more by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/88\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.2.4...4.0.3.0"
     },
     {
