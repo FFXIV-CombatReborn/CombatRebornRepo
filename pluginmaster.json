@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.3.0/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.2.6/RotationSolver.zip",
         "TestingAssemblyVersion": "4.0.2.6",
-        "DownloadCount": 5094,
+        "DownloadCount": 5101,
         "Changelog": "## What's Changed\r\n* Enhanced timing detection to fix GCD clipping by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/86\r\n* More timing improvements, reduced clipping and improved weaving even more by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/88\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.2.4...4.0.3.0"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.14/BossMod.zip",
         "AssemblyVersion": "1.0.0.14",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.14/BossMod.zip",
-        "DownloadCount": 2773,
+        "DownloadCount": 2774,
         "Changelog": "Build fixes\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.13...1.0.0.14"
     },
     {
