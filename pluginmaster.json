@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.3.0/RotationSolver.zip",
-        "AssemblyVersion": "4.0.3.0",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.3.0/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.4.0/RotationSolver.zip",
+        "AssemblyVersion": "4.0.4.0",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.4.0/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.3.2/RotationSolver.zip",
         "TestingAssemblyVersion": "4.0.3.2",
-        "DownloadCount": 5176,
-        "Changelog": "## What's Changed\r\n* Enhanced timing detection to fix GCD clipping by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/86\r\n* More timing improvements, reduced clipping and improved weaving even more by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/88\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.2.4...4.0.3.0"
+        "DownloadCount": 5135,
+        "Changelog": "## What's Changed\r\n* Added nextGCD to all oGCD rotation calls by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/89\r\n* Corrected single target aoes in manual mode by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/90\r\n* Timeline override toggle and interrupt toggle fixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/91\r\n* Added back skipAoeCheck by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/92\r\n* Update ECommons by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/93\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.3.0...4.0.4.0"
     },
     {
         "Author": "The CombatReborn Team",
