@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.4.0/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.3.2/RotationSolver.zip",
         "TestingAssemblyVersion": "4.0.3.2",
-        "DownloadCount": 5163,
+        "DownloadCount": 5209,
         "Changelog": "## What's Changed\r\n* Added nextGCD to all oGCD rotation calls by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/89\r\n* Corrected single target aoes in manual mode by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/90\r\n* Timeline override toggle and interrupt toggle fixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/91\r\n* Added back skipAoeCheck by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/92\r\n* Update ECommons by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/93\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.3.0...4.0.4.0"
     },
     {
