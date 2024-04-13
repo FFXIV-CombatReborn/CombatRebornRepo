@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.4.0/RotationSolver.zip",
-        "AssemblyVersion": "4.0.4.0",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.4.0/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.4.1/RotationSolver.zip",
+        "AssemblyVersion": "4.0.4.1",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.4.1/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.3.2/RotationSolver.zip",
         "TestingAssemblyVersion": "4.0.3.2",
-        "DownloadCount": 5311,
-        "Changelog": "## What's Changed\r\n* Added nextGCD to all oGCD rotation calls by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/89\r\n* Corrected single target aoes in manual mode by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/90\r\n* Timeline override toggle and interrupt toggle fixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/91\r\n* Added back skipAoeCheck by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/92\r\n* Update ECommons by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/93\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.3.0...4.0.4.0"
+        "DownloadCount": 5028,
+        "Changelog": "## What's Changed\r\n* Deleting player hash check by @spaceelysian in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/94\r\n* AOE Manual Fix Revert by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/95\r\n\r\n## New Contributors\r\n* @spaceelysian made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/94\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.4.0...4.0.4.1"
     },
     {
         "Author": "The CombatReborn Team",
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.14/BossMod.zip",
         "AssemblyVersion": "1.0.0.14",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.14/BossMod.zip",
-        "DownloadCount": 2801,
+        "DownloadCount": 2804,
         "Changelog": "Build fixes\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.13...1.0.0.14"
     },
     {
@@ -95,7 +95,7 @@
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.1/ActionTimelineReborn.zip",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.1/ActionTimelineReborn.zip",
-        "DownloadCount": 115,
+        "DownloadCount": 116,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.0...1.3.6.1"
     }
 ]
