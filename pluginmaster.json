@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.4.3/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.4.4/RotationSolver.zip",
         "TestingAssemblyVersion": "4.0.4.4",
-        "DownloadCount": 5566,
+        "DownloadCount": 5576,
         "Changelog": "## What's Changed\r\n* F**k am I an idiot... (Forgot to make a class public) by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/97\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.4.2...4.0.4.3"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.17/BossMod.zip",
         "AssemblyVersion": "1.0.0.17",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.17/BossMod.zip",
-        "DownloadCount": 3365,
+        "DownloadCount": 3368,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.017...1.0.0.17"
     },
     {
