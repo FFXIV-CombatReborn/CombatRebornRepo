@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.0/RotationSolver.zip",
-        "AssemblyVersion": "4.1.0.0",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.0/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.1/RotationSolver.zip",
+        "AssemblyVersion": "4.1.0.1",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.1/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.5.6/RotationSolver.zip",
         "TestingAssemblyVersion": "4.0.5.6",
-        "DownloadCount": 6083,
-        "Changelog": "## What's Changed\r\n* Added config migration by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/106\r\n* Added in-game changelog window by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/107\r\n* Reworked AoE into a three way system: On/Full/Cleave by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/108\r\n* Action queuing overhaul by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/110\r\n* Added a much prettier and way more functional changelog window by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/111\r\n* Fixed a bug that could prevent new installs from seeing recent changes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/112\r\n* Added alias so that \"/rotation cancel\" works as \"/rotation off\" by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/114\r\n* Added AoEType to the config menu under Auto > Action Usage by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/115\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.0.5.3...4.1.0.0"
+        "DownloadCount": 5752,
+        "Changelog": "## What's Changed\r\n* Changed auto-targeting defaults to low hp and high hp by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/116\r\n* AoEs that don't require a target now work in manual mode by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/117\r\n* Disable migrations until a better solution can be found by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/118\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.0.0...4.1.0.1"
     },
     {
         "Author": "The CombatReborn Team",
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.19/BossMod.zip",
         "AssemblyVersion": "1.0.0.19",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.19/BossMod.zip",
-        "DownloadCount": 3848,
+        "DownloadCount": 3849,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.18...1.0.0.19"
     },
     {
