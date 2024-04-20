@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.1/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.0.5.6/RotationSolver.zip",
         "TestingAssemblyVersion": "4.0.5.6",
-        "DownloadCount": 6063,
+        "DownloadCount": 6102,
         "Changelog": "## What's Changed\r\n* Changed auto-targeting defaults to low hp and high hp by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/116\r\n* AoEs that don't require a target now work in manual mode by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/117\r\n* Disable migrations until a better solution can be found by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/118\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.0.0...4.1.0.1"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.19/BossMod.zip",
         "AssemblyVersion": "1.0.0.19",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.19/BossMod.zip",
-        "DownloadCount": 3862,
+        "DownloadCount": 3864,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.18...1.0.0.19"
     },
     {
