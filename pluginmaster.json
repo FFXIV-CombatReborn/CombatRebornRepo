@@ -62,11 +62,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.24/BossMod.zip",
-        "AssemblyVersion": "1.0.0.24",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.24/BossMod.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.25/BossMod.zip",
+        "AssemblyVersion": "1.0.0.25",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.25/BossMod.zip",
         "DownloadCount": 4609,
-        "Changelog": "## What's Changed\r\n* General DRN fixes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/51\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.23...1.0.0.24"
+        "Changelog": "## What's Changed\r\n* Ozma arena union by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/52\r\n* ArenaBoundsDifference, AOE caching, hydaelyn improvements by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/53\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.24...1.0.0.25"
     },
     {
         "Author": "The Combat Reborn Team",
