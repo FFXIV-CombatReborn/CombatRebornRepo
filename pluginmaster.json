@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.1/RotationSolver.zip",
-        "AssemblyVersion": "4.1.0.1",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.1/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.4/RotationSolver.zip",
+        "AssemblyVersion": "4.1.0.4",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.4/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.3/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.0.3",
-        "DownloadCount": 6735,
-        "Changelog": "## What's Changed\r\n* Changed auto-targeting defaults to low hp and high hp by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/116\r\n* AoEs that don't require a target now work in manual mode by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/117\r\n* Disable migrations until a better solution can be found by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/118\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.0.0...4.1.0.1"
+        "DownloadCount": 6722,
+        "Changelog": "## What's Changed\r\n* Reworked changelog window into welcome window so we can show first ti\u2026 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/123\r\n* Overhauled how rotations load. All rotations are now opt-in. Please see the rotations tab in the /rotations window for more details. by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/122\r\n* Revert \"Adds check to prevent spamming of unlearned abilities\" by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/124\r\n* Ecommons update by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/126\r\n* Corrected slidecast calculation on next action window by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/127\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.0.1...4.1.0.4"
     },
     {
         "Author": "The CombatReborn Team",
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.29/BossMod.zip",
         "AssemblyVersion": "1.0.0.29",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.29/BossMod.zip",
-        "DownloadCount": 6082,
+        "DownloadCount": 6096,
         "Changelog": "## What's Changed\r\n* Return to Ivalice enums and arenas by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/57\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.28...1.0.0.29"
     },
     {
