@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.4/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.3/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.0.3",
-        "DownloadCount": 7121,
+        "DownloadCount": 7146,
         "Changelog": "## What's Changed\r\n* Reworked changelog window into welcome window so we can show first ti\u2026 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/123\r\n* Overhauled how rotations load. All rotations are now opt-in. Please see the rotations tab in the /rotations window for more details. by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/122\r\n* Revert \"Adds check to prevent spamming of unlearned abilities\" by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/124\r\n* Ecommons update by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/126\r\n* Corrected slidecast calculation on next action window by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/127\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.0.1...4.1.0.4"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.30/BossMod.zip",
         "AssemblyVersion": "1.0.0.30",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.30/BossMod.zip",
-        "DownloadCount": 6341,
+        "DownloadCount": 6360,
         "Changelog": "## What's Changed\r\n* arena corrections, shapes and sizes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/58\r\n* Masked Carnivale 31+32 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/59\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.29...1.0.0.30"
     },
     {
