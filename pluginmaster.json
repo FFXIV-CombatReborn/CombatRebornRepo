@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.31/BossMod.zip",
         "AssemblyVersion": "1.0.0.31",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.31/BossMod.zip",
-        "DownloadCount": 6930,
+        "DownloadCount": 6933,
         "Changelog": "## What's Changed\r\n* orbornne arena corrections and new SIDs by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/60\r\n* first pass at The Vault by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/61\r\n* first pass at rightside routes for Sildihn Sub by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/62\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.30...1.0.0.31"
     },
     {
@@ -95,7 +95,7 @@
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.1/ActionTimelineReborn.zip",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.1/ActionTimelineReborn.zip",
-        "DownloadCount": 193,
+        "DownloadCount": 194,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.0...1.3.6.1"
     }
 ]
