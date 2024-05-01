@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.5/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.3/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.0.3",
-        "DownloadCount": 7896,
+        "DownloadCount": 7938,
         "Changelog": "## What's Changed\r\n* Status list update (resolves Zot clone boss) by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/129\r\n* Added \"dummy\" rotations for debugging by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/130\r\n* Changed build target to x64 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/131\r\n* Incompatible plugin list now checks to see if plugins are installed by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/132\r\n* fixed ground target hostile abilities by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/133\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.0.4...4.1.0.5"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.33/BossMod.zip",
         "AssemblyVersion": "1.0.0.33",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.33/BossMod.zip",
-        "DownloadCount": 7444,
+        "DownloadCount": 7468,
         "Changelog": "## What's Changed\r\n* Crystal Tower raid series basic support by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/65\r\n* Void Ark raid series support, Crystal Towerfixes, etc by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/66\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.32...1.0.0.33"
     },
     {
