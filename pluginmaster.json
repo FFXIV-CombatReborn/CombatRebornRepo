@@ -62,11 +62,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.34/BossMod.zip",
-        "AssemblyVersion": "1.0.0.34",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.34/BossMod.zip",
-        "DownloadCount": 7711,
-        "Changelog": "## What's Changed\r\n* Various improvements to Dun Scaith by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/67\r\n* arena corrections for Geryon and misc improvements to Sil'dihn Subterrane by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/68\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.33...1.0.0.34"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.35/BossMod.zip",
+        "AssemblyVersion": "1.0.0.35",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.35/BossMod.zip",
+        "DownloadCount": 7601,
+        "Changelog": "## What's Changed\r\n* Silhdan Subterrene improvements by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/69\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.34...1.0.0.35"
     },
     {
         "Author": "The Combat Reborn Team",
