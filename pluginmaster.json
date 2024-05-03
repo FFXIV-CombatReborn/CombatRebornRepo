@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.6/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.3/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.0.3",
-        "DownloadCount": 9340,
+        "DownloadCount": 9353,
         "Changelog": "## What's Changed\r\n* Fixed enums in rotation configs by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/135\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.0.5...4.1.0.6"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.38/BossMod.zip",
         "AssemblyVersion": "1.0.0.38",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.38/BossMod.zip",
-        "DownloadCount": 7609,
+        "DownloadCount": 7640,
         "Changelog": "## What's Changed\r\n* Void Ark arena improvements by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/72\r\n* removed useless knockbacks from certain albitites in Void Ark by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/73\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.37...1.0.0.38"
     },
     {
