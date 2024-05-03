@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.6/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.3/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.0.3",
-        "DownloadCount": 9223,
+        "DownloadCount": 9252,
         "Changelog": "## What's Changed\r\n* Fixed enums in rotation configs by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/135\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.0.5...4.1.0.6"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.37/BossMod.zip",
         "AssemblyVersion": "1.0.0.37",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.37/BossMod.zip",
-        "DownloadCount": 7701,
+        "DownloadCount": 7707,
         "Changelog": "## What's Changed\r\n* The Sil'dihn Subterrane fully enumerated and mostly finished by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/71\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.36...1.0.0.37"
     },
     {
@@ -95,7 +95,7 @@
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.1/ActionTimelineReborn.zip",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.1/ActionTimelineReborn.zip",
-        "DownloadCount": 212,
+        "DownloadCount": 213,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.0...1.3.6.1"
     }
 ]
