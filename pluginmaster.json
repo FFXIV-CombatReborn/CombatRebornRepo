@@ -22,16 +22,16 @@
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "IsTestingExclusive": false,
-        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.6/RotationSolver.zip",
-        "AssemblyVersion": "4.1.0.6",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.6/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.7/RotationSolver.zip",
+        "AssemblyVersion": "4.1.0.7",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.7/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.3/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.0.3",
-        "DownloadCount": 9396,
-        "Changelog": "## What's Changed\r\n* Fixed enums in rotation configs by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/135\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.0.5...4.1.0.6"
+        "DownloadCount": 9293,
+        "Changelog": "## What's Changed\r\nNew Icon!\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.0.6...4.1.0.7"
     },
     {
         "Author": "The CombatReborn Team",
@@ -54,7 +54,7 @@
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "IsTestingExclusive": false,
-        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
         "Punchline": "Don't fail at raid mechanics anymore",
         "AcceptsFeedback": true,
         "ImageUrls": [
@@ -62,17 +62,17 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.38/BossMod.zip",
-        "AssemblyVersion": "1.0.0.38",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.38/BossMod.zip",
-        "DownloadCount": 7755,
-        "Changelog": "## What's Changed\r\n* Void Ark arena improvements by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/72\r\n* removed useless knockbacks from certain albitites in Void Ark by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/73\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.37...1.0.0.38"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.39/BossMod.zip",
+        "AssemblyVersion": "1.0.0.39",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.39/BossMod.zip",
+        "DownloadCount": 7644,
+        "Changelog": "## What's Changed\r\n* New Icon!\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.38...1.0.0.39"
     },
     {
         "Author": "The Combat Reborn Team",
         "Name": "ActionTimeline Reborn",
         "InternalName": "ActionTimelineEx",
-        "AssemblyVersion": "1.3.6.1",
+        "AssemblyVersion": "1.3.6.2",
         "Description": "Configurable timeline display of all the actions you use.",
         "ApplicableVersion": "any",
         "Tags": [
@@ -87,15 +87,15 @@
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "IsTestingExclusive": false,
-        "IconUrl": "https://xivapi.com/i/000000/000073_hr1.png",
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/ATR_Icon.png",
         "Punchline": "Show your actions in real-time.",
         "ImageUrls": [
             "https://raw.githubusercontent.com/ArchiDog1998/ActionTimelineEx/main/Images/example.gif"
         ],
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.1/ActionTimelineReborn.zip",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.1/ActionTimelineReborn.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.2/ActionTimelineReborn.zip",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.2/ActionTimelineReborn.zip",
         "DownloadCount": 215,
-        "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.0...1.3.6.1"
+        "Changelog": "## What's Changed\r\n* New Icon!\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.1...1.3.6.2"
     }
 ]
