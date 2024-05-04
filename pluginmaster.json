@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.7/RotationSolver.zip",
-        "AssemblyVersion": "4.1.0.7",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.7/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.8/RotationSolver.zip",
+        "AssemblyVersion": "4.1.0.8",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.8/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.3/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.0.3",
-        "DownloadCount": 9832,
-        "Changelog": "## What's Changed\r\nNew Icon!\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.0.6...4.1.0.7"
+        "DownloadCount": 9522,
+        "Changelog": "## What's Changed\r\n* Updated icon that appears in UI by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/140\r\n* UI Updates by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/142\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.0.7...4.1.0.8"
     },
     {
         "Author": "The CombatReborn Team",
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.39/BossMod.zip",
         "AssemblyVersion": "1.0.0.39",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.39/BossMod.zip",
-        "DownloadCount": 7992,
+        "DownloadCount": 7993,
         "Changelog": "## What's Changed\r\n* New Icon!\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.38...1.0.0.39"
     },
     {
