@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.41/BossMod.zip",
         "AssemblyVersion": "1.0.0.41",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.41/BossMod.zip",
-        "DownloadCount": 8977,
+        "DownloadCount": 8984,
         "Changelog": "## What's Changed\r\n* Random DRN fixes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/79\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.40...1.0.0.41"
     },
     {
