@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.9/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.0.3/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.0.3",
-        "DownloadCount": 11845,
+        "DownloadCount": 11856,
         "Changelog": "## What's Changed\r\n* Added an option to disable targeting striking dummies by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/143\r\n* Cooldown fixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/144\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.0.8...4.1.0.9"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.41/BossMod.zip",
         "AssemblyVersion": "1.0.0.41",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.41/BossMod.zip",
-        "DownloadCount": 9223,
+        "DownloadCount": 9232,
         "Changelog": "## What's Changed\r\n* Random DRN fixes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/79\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.40...1.0.0.41"
     },
     {
