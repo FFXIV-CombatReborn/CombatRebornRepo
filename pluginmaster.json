@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.5/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.1/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.1.1",
-        "DownloadCount": 11634,
+        "DownloadCount": 11657,
         "Changelog": "## What's Changed\r\n* Added a null check to StatusList during IsTopPriorityHostile to try a\u2026 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/154\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.4...4.1.1.5"
     },
     {
@@ -62,11 +62,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.43/BossMod.zip",
-        "AssemblyVersion": "1.0.0.43",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.43/BossMod.zip",
-        "DownloadCount": 9462,
-        "Changelog": "## What's Changed\r\n* Fixed Floor 90 Admin Bounds (sorry bout that) by @LeontopodiumNivale14 in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/81\r\n*  Orthos Floor 90 Boss Complete by @LeontopodiumNivale14 in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/80\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.41...1.0.0.43"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.45/BossMod.zip",
+        "AssemblyVersion": "1.0.0.45",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.45/BossMod.zip",
+        "DownloadCount": 9159,
+        "Changelog": "## What's Changed\r\n* Ktisis final boss improvments by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/82\r\n* All Stormblood trials frameworked and Seiryu supported by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/83\r\n* First pass at Aetherochemical dungeon support by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/84\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.43...1.0.0.45"
     },
     {
         "Author": "The Combat Reborn Team",
