@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.4/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.1/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.1.1",
-        "DownloadCount": 11806,
+        "DownloadCount": 11847,
         "Changelog": "## What's Changed\r\n* Added a toggle to turn off recording knockback actions by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/150\r\n* Added default file for knockback list by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/151\r\n* Ipc provider by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/152\r\n* Better filtering for the Ignore Target Dummies config option by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/153\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.3...4.1.1.4"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.43/BossMod.zip",
         "AssemblyVersion": "1.0.0.43",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.43/BossMod.zip",
-        "DownloadCount": 9366,
+        "DownloadCount": 9371,
         "Changelog": "## What's Changed\r\n* Fixed Floor 90 Admin Bounds (sorry bout that) by @LeontopodiumNivale14 in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/81\r\n*  Orthos Floor 90 Boss Complete by @LeontopodiumNivale14 in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/80\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.41...1.0.0.43"
     },
     {
