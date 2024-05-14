@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.45/BossMod.zip",
         "AssemblyVersion": "1.0.0.45",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.45/BossMod.zip",
-        "DownloadCount": 9159,
+        "DownloadCount": 9160,
         "Changelog": "## What's Changed\r\n* Ktisis final boss improvments by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/82\r\n* All Stormblood trials frameworked and Seiryu supported by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/83\r\n* First pass at Aetherochemical dungeon support by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/84\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.43...1.0.0.45"
     },
     {
