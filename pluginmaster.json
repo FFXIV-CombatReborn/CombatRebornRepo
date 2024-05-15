@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.5/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.1/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.1.1",
-        "DownloadCount": 11807,
+        "DownloadCount": 11832,
         "Changelog": "## What's Changed\r\n* Added a null check to StatusList during IsTopPriorityHostile to try a\u2026 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/154\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.4...4.1.1.5"
     },
     {
@@ -62,11 +62,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.45/BossMod.zip",
-        "AssemblyVersion": "1.0.0.45",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.45/BossMod.zip",
-        "DownloadCount": 9374,
-        "Changelog": "## What's Changed\r\n* Ktisis final boss improvments by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/82\r\n* All Stormblood trials frameworked and Seiryu supported by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/83\r\n* First pass at Aetherochemical dungeon support by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/84\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.43...1.0.0.45"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.46/BossMod.zip",
+        "AssemblyVersion": "1.0.0.46",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.46/BossMod.zip",
+        "DownloadCount": 9218,
+        "Changelog": "## What's Changed\r\n* first pass at Dalriada by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/85\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.45...1.0.0.46"
     },
     {
         "Author": "The Combat Reborn Team",
