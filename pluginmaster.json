@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.6/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.1/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.1.1",
-        "DownloadCount": 12968,
+        "DownloadCount": 12985,
         "Changelog": "## What's Changed\r\n* Sprint Penalty Fix for Deep Dungeon by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/156\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.5...4.1.1.6"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.46/BossMod.zip",
         "AssemblyVersion": "1.0.0.46",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.46/BossMod.zip",
-        "DownloadCount": 9923,
+        "DownloadCount": 9928,
         "Changelog": "## What's Changed\r\n* first pass at Dalriada by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/85\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.45...1.0.0.46"
     },
     {
