@@ -34,7 +34,8 @@ def fetch_manifest(repo):
     return response.json()
 
 def append_changelog(manifest, latest_release):
-    manifest["Changelog"] = latest_release["body"]
+    if latest_release:
+        manifest["Changelog"] = latest_release["body"]
     return manifest
 
 def append_manifest(manifest, latest_release, latest_pre_release):
@@ -70,14 +71,17 @@ def main():
     
     for repo in repos:
         latest_release, latest_pre_release = get_latest_and_latest_pre_release(repo)
-        if (latest_pre_release is None or latest_release["tag_name"] == latest_pre_release["tag_name"]):
+        if (latest_pre_release is None and latest_release is not None) or (latest_release is not None and latest_pre_release is not None and latest_release["tag_name"] == latest_pre_release["tag_name"]):
             latest_pre_release = None
+        if (latest_release is None and latest_pre_release is None):
+            print(f"Skipping {repo} as there are no releases")
+            continue
         manifest = fetch_manifest(repo)
         manifest = append_manifest(manifest, latest_release, latest_pre_release)
         manifest = append_download_count(manifest, repo)
         manifest = append_changelog(manifest, latest_release)
         combined_manifests.append(manifest)
-        print(f"{repo}: {latest_release['tag_name']} {latest_pre_release['tag_name'] if latest_pre_release else ''}")
+        print(f"{repo}: {latest_release['tag_name'] if latest_release else 'Testing Only'} {latest_pre_release['tag_name'] if latest_pre_release else ''}")
     
     with open('pluginmaster.json', 'w') as f:
         json.dump(combined_manifests, f, indent=4)
