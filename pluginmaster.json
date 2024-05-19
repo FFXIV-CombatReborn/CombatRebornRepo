@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.7/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.1/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.1.1",
-        "DownloadCount": 14040,
+        "DownloadCount": 14067,
         "Changelog": "## What's Changed\r\n* Revert \"Sprint Penalty Fix for Deep Dungeon\" by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/157\r\n* Reorganized healing condition options by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/158\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.6...4.1.1.7"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.57/BossMod.zip",
         "AssemblyVersion": "1.0.0.57",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.57/BossMod.zip",
-        "DownloadCount": 10488,
+        "DownloadCount": 10533,
         "Changelog": "## What's Changed\r\n* hopefully the last code analyzer fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/92\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.56...1.0.0.57"
     },
     {
@@ -125,6 +125,6 @@
         "TestingAssemblyVersion": "0.0.0.2",
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/UntitledGatheringPlugin/releases/download/0.0.0.2/UntitledGatheringPlugin.zip",
         "AssemblyVersion": "0.0.0.2",
-        "DownloadCount": 33
+        "DownloadCount": 35
     }
 ]
