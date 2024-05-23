@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.7/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.1/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.1.1",
-        "DownloadCount": 14904,
+        "DownloadCount": 14907,
         "Changelog": "## What's Changed\r\n* Revert \"Sprint Penalty Fix for Deep Dungeon\" by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/157\r\n* Reorganized healing condition options by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/158\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.6...4.1.1.7"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.66/BossMod.zip",
         "AssemblyVersion": "1.0.0.66",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.66/BossMod.zip",
-        "DownloadCount": 11174,
+        "DownloadCount": 11207,
         "Changelog": "## What's Changed\r\n* The Jade Stoa and Hells Kier first passes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/101\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.65...1.0.0.66"
     },
     {
@@ -99,32 +99,33 @@
         "Changelog": "## What's Changed\r\n* New Icon!\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.1...1.3.6.2"
     },
     {
-        "Author": "NostraThomas",
-        "Name": "Untitled Gathering Plugin",
-        "InternalName": "UntitledGatheringPlugin",
-        "Description": "Honk-squee!!",
+        "Author": "The Combat Reborn Team",
+        "Name": "GatherBuddy Reborn",
+        "InternalName": "Gatherbuddy",
+        "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
-        "Punchline": "The jankest auto-gather money can buy!",
-        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/UntitledGatheringPlugin/master/Resources/Logo.png",
-        "CategoryTags": [
-            "Gathering",
-            "Utility"
-        ],
-        "IsTestingExclusive": true,
         "Tags": [
             "Gathering",
-            "Utility",
-            "Testing",
-            "Experimental",
-            "Jankey",
-            "Honk",
-            "Automatic"
+            "Fishing",
+            "Mining",
+            "Botany",
+            "Weather",
+            "Alarms",
+            "Automatic",
+            "Forager"
         ],
-        "DownloadLinkTesting": "https://github.com/NostraThomas99/UntitledGatheringPlugin/releases/download/0.0.0.2/UntitledGatheringPlugin.zip",
-        "TestingAssemblyVersion": "0.0.0.2",
-        "DownloadLinkInstall": "https://github.com/NostraThomas99/UntitledGatheringPlugin/releases/download/0.0.0.2/UntitledGatheringPlugin.zip",
-        "AssemblyVersion": "0.0.0.2",
-        "DownloadCount": 125
+        "CategoryTags": [
+            "Jobs",
+            "Utility"
+        ],
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
+        "Punchline": "Simplify Gathering and Fishing to the extreme.",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.0/GatherbuddyReborn.zip",
+        "AssemblyVersion": "6.58.2.0",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.0/GatherbuddyReborn.zip",
+        "DownloadCount": 0,
+        "Changelog": "## What's Changed\r\n* Added basic navigation support by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/1\r\n* Navigation and auto-gather mode by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/2\r\n* Navigation by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/3\r\n* Navigation by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/4\r\n* Navigation by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/5\r\n* Navigation by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/6\r\n* Updated world_locations.json by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/7\r\n\r\n## New Contributors\r\n* @NostraThomas99 made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/1\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/commits/6.58.2.0"
     }
 ]
