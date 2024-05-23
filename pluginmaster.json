@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.7/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.1/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.1.1",
-        "DownloadCount": 14871,
+        "DownloadCount": 14873,
         "Changelog": "## What's Changed\r\n* Revert \"Sprint Penalty Fix for Deep Dungeon\" by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/157\r\n* Reorganized healing condition options by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/158\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.6...4.1.1.7"
     },
     {
@@ -62,11 +62,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.64/BossMod.zip",
-        "AssemblyVersion": "1.0.0.64",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.64/BossMod.zip",
-        "DownloadCount": 11202,
-        "Changelog": "## What's Changed\r\n* code analyzer fixes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/98\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.63...1.0.0.64"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.65/BossMod.zip",
+        "AssemblyVersion": "1.0.0.65",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.65/BossMod.zip",
+        "DownloadCount": 11040,
+        "Changelog": "## What's Changed\r\n* Puppets Bunker arenas set up properly and most abilities added by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/99\r\n* Orbonne Monastery arenas and first pass at abilities  by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/100\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.64...1.0.0.65"
     },
     {
         "Author": "The Combat Reborn Team",
