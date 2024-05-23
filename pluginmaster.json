@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.7/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.1/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.1.1",
-        "DownloadCount": 14920,
+        "DownloadCount": 14938,
         "Changelog": "## What's Changed\r\n* Revert \"Sprint Penalty Fix for Deep Dungeon\" by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/157\r\n* Reorganized healing condition options by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/158\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.6...4.1.1.7"
     },
     {
@@ -62,11 +62,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.66/BossMod.zip",
-        "AssemblyVersion": "1.0.0.66",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.66/BossMod.zip",
-        "DownloadCount": 11297,
-        "Changelog": "## What's Changed\r\n* The Jade Stoa and Hells Kier first passes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/101\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.65...1.0.0.66"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.67/BossMod.zip",
+        "AssemblyVersion": "1.0.0.67",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.67/BossMod.zip",
+        "DownloadCount": 11024,
+        "Changelog": "## What's Changed\r\n* Follow slot instead of leader by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/102\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.66...1.0.0.67"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -95,7 +95,7 @@
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.2/ActionTimelineReborn.zip",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.2/ActionTimelineReborn.zip",
-        "DownloadCount": 537,
+        "DownloadCount": 544,
         "Changelog": "## What's Changed\r\n* New Icon!\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.1...1.3.6.2"
     },
     {
@@ -125,7 +125,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.3/GatherbuddyReborn.zip",
         "AssemblyVersion": "6.58.2.3",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.3/GatherbuddyReborn.zip",
-        "DownloadCount": 105,
+        "DownloadCount": 134,
         "Changelog": "## What's Changed\r\n* Don't reload navmesh if mesh is building by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.2...6.58.2.3"
     }
 ]
