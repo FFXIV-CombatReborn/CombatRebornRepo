@@ -1,4 +1,4 @@
 FFXIV-CombatReborn/RotationSolverReborn
 FFXIV-CombatReborn/BossModReborn
 FFXIV-CombatReborn/ActionTimelineReborn
-FFXIV-CombatReborn/UntitledGatheringPlugin
+FFXIV-CombatReborn/GatherBuddyReborn
