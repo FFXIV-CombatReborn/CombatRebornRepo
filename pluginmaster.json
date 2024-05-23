@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.7/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.1/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.1.1",
-        "DownloadCount": 14908,
+        "DownloadCount": 14910,
         "Changelog": "## What's Changed\r\n* Revert \"Sprint Penalty Fix for Deep Dungeon\" by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/157\r\n* Reorganized healing condition options by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/158\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.6...4.1.1.7"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.66/BossMod.zip",
         "AssemblyVersion": "1.0.0.66",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.0.66/BossMod.zip",
-        "DownloadCount": 11213,
+        "DownloadCount": 11219,
         "Changelog": "## What's Changed\r\n* The Jade Stoa and Hells Kier first passes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/101\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.65...1.0.0.66"
     },
     {
@@ -122,10 +122,10 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
         "Punchline": "Simplify Gathering and Fishing to the extreme.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.0/GatherbuddyReborn.zip",
-        "AssemblyVersion": "6.58.2.0",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.0/GatherbuddyReborn.zip",
-        "DownloadCount": 0,
-        "Changelog": "## What's Changed\r\n* Added basic navigation support by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/1\r\n* Navigation and auto-gather mode by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/2\r\n* Navigation by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/3\r\n* Navigation by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/4\r\n* Navigation by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/5\r\n* Navigation by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/6\r\n* Updated world_locations.json by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/7\r\n\r\n## New Contributors\r\n* @NostraThomas99 made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/1\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/commits/6.58.2.0"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.1/GatherbuddyReborn.zip",
+        "AssemblyVersion": "6.58.2.1",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.1/GatherbuddyReborn.zip",
+        "DownloadCount": 3,
+        "Changelog": "## What's Changed\r\n* Change Internal Name by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.0...6.58.2.1"
     }
 ]
