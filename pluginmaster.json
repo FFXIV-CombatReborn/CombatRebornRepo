@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.7/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.1/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.1.1",
-        "DownloadCount": 15138,
+        "DownloadCount": 15144,
         "Changelog": "## What's Changed\r\n* Revert \"Sprint Penalty Fix for Deep Dungeon\" by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/157\r\n* Reorganized healing condition options by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/158\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.6...4.1.1.7"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.1.0/BossMod.zip",
         "AssemblyVersion": "1.0.1.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.1.0/BossMod.zip",
-        "DownloadCount": 11160,
+        "DownloadCount": 11176,
         "Changelog": "## What's Changed\r\n* slash commands for AI follow slot by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/105\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.69...1.0.1.0"
     },
     {
@@ -125,7 +125,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.8/GatherbuddyReborn.zip",
         "AssemblyVersion": "6.58.2.8",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.8/GatherbuddyReborn.zip",
-        "DownloadCount": 794,
+        "DownloadCount": 806,
         "Changelog": "## What's Changed\r\n* Allow debug tab in release builds by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/19\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.7...6.58.2.8"
     }
 ]
