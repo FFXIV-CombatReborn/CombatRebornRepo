@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.1.0/BossMod.zip",
         "AssemblyVersion": "1.0.1.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.1.0/BossMod.zip",
-        "DownloadCount": 11085,
+        "DownloadCount": 11087,
         "Changelog": "## What's Changed\r\n* slash commands for AI follow slot by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/105\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.0.69...1.0.1.0"
     },
     {
@@ -122,10 +122,10 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
         "Punchline": "Simplify Gathering and Fishing to the extreme.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.7/GatherbuddyReborn.zip",
-        "AssemblyVersion": "6.58.2.7",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.7/GatherbuddyReborn.zip",
-        "DownloadCount": 576,
-        "Changelog": "## What's Changed\r\n* Refactor by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/16\r\n* Added nav only mode by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/17\r\n* Update Interface.ConfigTab.cs by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/18\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.6...6.58.2.7"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.8/GatherbuddyReborn.zip",
+        "AssemblyVersion": "6.58.2.8",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.8/GatherbuddyReborn.zip",
+        "DownloadCount": 589,
+        "Changelog": "## What's Changed\r\n* Allow debug tab in release builds by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/19\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.7...6.58.2.8"
     }
 ]
