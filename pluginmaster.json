@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.9/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.1/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.1.1",
-        "DownloadCount": 16480,
+        "DownloadCount": 16528,
         "Changelog": "## What's Changed\r\n* Improve error handling and value parsing in RSCommands_OtherCommand.cs by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/163\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.8...4.1.1.9"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.1.1/BossMod.zip",
         "AssemblyVersion": "1.0.1.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.1.1/BossMod.zip",
-        "DownloadCount": 11529,
+        "DownloadCount": 11560,
         "Changelog": "## What's Changed\r\n* Ridorana lighthouse arena corrections and first pass at abilities by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/106\r\n* Malikahs Well dungeon by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/107\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.1.0...1.0.1.1"
     },
     {
@@ -125,7 +125,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.12/GatherbuddyReborn.zip",
         "AssemblyVersion": "6.58.2.12",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.12/GatherbuddyReborn.zip",
-        "DownloadCount": 1684,
+        "DownloadCount": 1698,
         "Changelog": "## What's Changed\r\n* Night3 hotfixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/25\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.11...6.58.2.12"
     }
 ]
