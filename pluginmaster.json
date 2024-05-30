@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.9/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.1/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.1.1",
-        "DownloadCount": 17212,
+        "DownloadCount": 17216,
         "Changelog": "## What's Changed\r\n* Improve error handling and value parsing in RSCommands_OtherCommand.cs by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/163\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.8...4.1.1.9"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.1.7/BossMod.zip",
         "AssemblyVersion": "1.0.1.7",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.1.7/BossMod.zip",
-        "DownloadCount": 11481,
+        "DownloadCount": 11522,
         "Changelog": "## What's Changed\r\n* Lunar Subterrane modules verified by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/113\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.1.6...1.0.1.7"
     },
     {
@@ -125,7 +125,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.13/GatherbuddyReborn.zip",
         "AssemblyVersion": "6.58.2.13",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.13/GatherbuddyReborn.zip",
-        "DownloadCount": 2143,
+        "DownloadCount": 2147,
         "Changelog": "## What's Changed\r\n* More hotfixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/26\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.12...6.58.2.13"
     }
 ]
