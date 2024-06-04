@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.9/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.11/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.1.11",
-        "DownloadCount": 18099,
+        "DownloadCount": 18105,
         "Changelog": "## What's Changed\r\n* Improve error handling and value parsing in RSCommands_OtherCommand.cs by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/163\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.8...4.1.1.9"
     },
     {
@@ -67,7 +67,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.1.8/BossMod.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.1.9/BossMod.zip",
         "TestingAssemblyVersion": "1.0.1.9",
-        "DownloadCount": 13068,
+        "DownloadCount": 13070,
         "Changelog": "## What's Changed\r\n* lunar subterrane and mt gulg fixes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/114\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.1.7...1.0.1.8"
     },
     {
@@ -129,7 +129,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.14/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.16/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.16",
-        "DownloadCount": 2917,
+        "DownloadCount": 2923,
         "Changelog": "## What's Changed\r\n* More hotfixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/27\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.13...6.58.2.14"
     }
 ]
