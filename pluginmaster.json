@@ -67,7 +67,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.3.2/BossModReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
         "TestingAssemblyVersion": "1.0.2.1",
-        "DownloadCount": 10935,
+        "DownloadCount": 10951,
         "Changelog": "## What's Changed\r\n* sync with vbm 0.0.0.164 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/127\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.3...1.0.3.2"
     },
     {
