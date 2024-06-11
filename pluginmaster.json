@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.9/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.13/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.1.13",
-        "DownloadCount": 17568,
+        "DownloadCount": 17570,
         "Changelog": "## What's Changed\r\n* Improve error handling and value parsing in RSCommands_OtherCommand.cs by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/163\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.8...4.1.1.9"
     },
     {
@@ -67,7 +67,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.4.1/BossModReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
         "TestingAssemblyVersion": "1.0.2.1",
-        "DownloadCount": 11342,
+        "DownloadCount": 11344,
         "Changelog": "## What's Changed\r\n* codeanalyzer fixes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/129\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.4.0...1.0.4.1"
     },
     {
