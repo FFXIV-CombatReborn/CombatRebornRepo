@@ -67,7 +67,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.5.1/BossModReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
         "TestingAssemblyVersion": "1.0.2.1",
-        "DownloadCount": 10825,
+        "DownloadCount": 10832,
         "Changelog": "## What's Changed\r\n* maturity level fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/131\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.5.0...1.0.5.1"
     },
     {
