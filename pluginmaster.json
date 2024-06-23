@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.9/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.14/RotationSolver.zip",
         "TestingAssemblyVersion": "4.1.1.14",
-        "DownloadCount": 18724,
+        "DownloadCount": 18730,
         "Changelog": "## What's Changed\r\n* Improve error handling and value parsing in RSCommands_OtherCommand.cs by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/163\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.8...4.1.1.9"
     },
     {
@@ -67,7 +67,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.7.2/BossModReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
         "TestingAssemblyVersion": "1.0.2.1",
-        "DownloadCount": 13572,
+        "DownloadCount": 13573,
         "Changelog": "## What's Changed\r\n* performance improvements by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/137\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.7.1...1.0.7.2"
     },
     {
@@ -97,7 +97,7 @@
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.2/ActionTimelineReborn.zip",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.2/ActionTimelineReborn.zip",
-        "DownloadCount": 864,
+        "DownloadCount": 865,
         "Changelog": "## What's Changed\r\n* New Icon!\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.1...1.3.6.2"
     },
     {
@@ -129,7 +129,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.19/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 5083,
+        "DownloadCount": 5085,
         "Changelog": "## What's Changed\r\n* Add filter to only gather items matching job type by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/35\r\n* Crash fix by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/39\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.18...6.58.2.19"
     }
 ]
