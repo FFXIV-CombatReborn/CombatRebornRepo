@@ -67,7 +67,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.8.3/BossModReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
         "TestingAssemblyVersion": "1.0.2.1",
-        "DownloadCount": 14099,
+        "DownloadCount": 14100,
         "Changelog": "## What's Changed\r\n* pragma warning disable by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/143\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.0.8.2...1.0.8.3"
     },
     {
@@ -129,7 +129,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.19/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 5355,
+        "DownloadCount": 5359,
         "Changelog": "## What's Changed\r\n* Add filter to only gather items matching job type by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/35\r\n* Crash fix by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/39\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.18...6.58.2.19"
     }
 ]
