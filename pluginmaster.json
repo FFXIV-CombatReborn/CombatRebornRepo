@@ -16,7 +16,7 @@
         "CategoryTags": [
             "jobs"
         ],
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
@@ -28,9 +28,9 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.9/RotationSolver.zip",
         "AssemblyVersion": "4.1.1.9",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.9/RotationSolver.zip",
-        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/4.1.1.14/RotationSolver.zip",
-        "TestingAssemblyVersion": "4.1.1.14",
-        "DownloadCount": 19017,
+        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.0/RotationSolver.zip",
+        "TestingAssemblyVersion": "7.0.0.0",
+        "DownloadCount": 18906,
         "Changelog": "## What's Changed\r\n* Improve error handling and value parsing in RSCommands_OtherCommand.cs by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/163\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/4.1.1.8...4.1.1.9"
     },
     {
@@ -67,14 +67,13 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.1.0.3/BossModReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
         "TestingAssemblyVersion": "1.0.2.1",
-        "DownloadCount": 14115,
+        "DownloadCount": 14123,
         "Changelog": "## What's Changed\r\n* pragma warning disable by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/146\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.1.0.2...1.1.0.3"
     },
     {
         "Author": "The Combat Reborn Team",
         "Name": "ActionTimeline Reborn",
         "InternalName": "ActionTimelineEx",
-        "AssemblyVersion": "1.3.6.2",
         "Description": "Configurable timeline display of all the actions you use.",
         "ApplicableVersion": "any",
         "Tags": [
@@ -83,7 +82,7 @@
         "CategoryTags": [
             "UI"
         ],
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
@@ -96,6 +95,7 @@
         ],
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.2/ActionTimelineReborn.zip",
+        "AssemblyVersion": "1.3.6.2",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/1.3.6.2/ActionTimelineReborn.zip",
         "DownloadCount": 893,
         "Changelog": "## What's Changed\r\n* New Icon!\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.1...1.3.6.2"
@@ -129,7 +129,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.19/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 5406,
+        "DownloadCount": 5452,
         "Changelog": "## What's Changed\r\n* Add filter to only gather items matching job type by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/35\r\n* Crash fix by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/39\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.18...6.58.2.19"
     }
 ]
