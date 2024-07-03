@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.9/RotationSolver.zip",
-        "AssemblyVersion": "7.0.0.9",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.9/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.12/RotationSolver.zip",
+        "AssemblyVersion": "7.0.0.12",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.12/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 15592,
-        "Changelog": "## What's Changed\r\n* Corrected for a change in FFXIVClientStructs that would stop rotation\u2026 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/186\r\n* Minor improvements to enhance the user experience by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/187\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.0.8...7.0.0.9"
+        "DownloadCount": 15555,
+        "Changelog": "## What's Changed\r\n* DT Reaper Fix & Lumina Bump by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/191\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.0.11...7.0.0.12"
     },
     {
         "Author": "The CombatReborn Team",
@@ -67,7 +67,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.1.0.8/BossModReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
         "TestingAssemblyVersion": "1.0.2.1",
-        "DownloadCount": 13226,
+        "DownloadCount": 13250,
         "Changelog": "## What's Changed\r\n* The feat of brotherhood module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/151\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.1.0.7...1.1.0.8"
     },
     {
