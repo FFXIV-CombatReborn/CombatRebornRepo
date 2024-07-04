@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.13/RotationSolver.zip",
-        "AssemblyVersion": "7.0.0.13",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.13/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.14/RotationSolver.zip",
+        "AssemblyVersion": "7.0.0.14",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.14/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 15958,
-        "Changelog": "## What's Changed\r\n* Dancer - Last Dance fix by @Ants1988 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/188\r\n\r\n## New Contributors\r\n* @Ants1988 made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/188\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.0.12...7.0.0.13"
+        "DownloadCount": 14574,
+        "Changelog": "## What's Changed\r\n* Dt more base fixes by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/193\r\n* DT NIN Base Fixes by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/194\r\n* Fix some \"Sequence contains no elements\" errors by @SuspiciousActivity in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/192\r\n\r\n## New Contributors\r\n* @SuspiciousActivity made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/192\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.0.13...7.0.0.14"
     },
     {
         "Author": "The CombatReborn Team",
@@ -67,7 +67,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.1.0.8/BossModReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
         "TestingAssemblyVersion": "1.0.2.1",
-        "DownloadCount": 13968,
+        "DownloadCount": 13969,
         "Changelog": "## What's Changed\r\n* The feat of brotherhood module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/151\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.1.0.7...1.1.0.8"
     },
     {
@@ -97,7 +97,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
-        "DownloadCount": 1094,
+        "DownloadCount": 1095,
         "Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/3\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.2...7.0.0.0"
     },
     {
@@ -129,7 +129,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.19/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 6515,
+        "DownloadCount": 6520,
         "Changelog": "## What's Changed\r\n* Add filter to only gather items matching job type by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/35\r\n* Crash fix by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/39\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.18...6.58.2.19"
     }
 ]
