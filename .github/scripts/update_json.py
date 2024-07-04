@@ -31,7 +31,9 @@ def fetch_manifest(repo):
     url = f"https://raw.githubusercontent.com/{repo}/main/manifest.json"
     response = requests.get(url)
     response.raise_for_status()
-    return response.json()
+    # Decode using 'utf-8-sig' to handle BOM
+    content = response.content.decode('utf-8-sig')
+    return json.loads(content)
 
 def append_changelog(manifest, latest_release):
     if latest_release:
