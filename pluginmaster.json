@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.14/RotationSolver.zip",
-        "AssemblyVersion": "7.0.0.14",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.14/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.15/RotationSolver.zip",
+        "AssemblyVersion": "7.0.0.15",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.15/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 14622,
-        "Changelog": "## What's Changed\r\n* Dt more base fixes by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/193\r\n* DT NIN Base Fixes by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/194\r\n* Fix some \"Sequence contains no elements\" errors by @SuspiciousActivity in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/192\r\n\r\n## New Contributors\r\n* @SuspiciousActivity made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/192\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.0.13...7.0.0.14"
+        "DownloadCount": 13580,
+        "Changelog": "## What's Changed\r\n* Nin Jobgauge fix by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/195\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.0.14...7.0.0.15"
     },
     {
         "Author": "The CombatReborn Team",
@@ -67,7 +67,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.1.0.8/BossModReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
         "TestingAssemblyVersion": "1.0.2.1",
-        "DownloadCount": 13972,
+        "DownloadCount": 13975,
         "Changelog": "## What's Changed\r\n* The feat of brotherhood module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/151\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.1.0.7...1.1.0.8"
     },
     {
