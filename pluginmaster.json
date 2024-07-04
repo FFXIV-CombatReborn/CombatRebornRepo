@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.16/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 14285,
+        "DownloadCount": 14296,
         "Changelog": "## What's Changed\r\n* DT Ninja Base Final Touches by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/197\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.0.15...7.0.0.16"
     },
     {
@@ -67,7 +67,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.1.0.8/BossModReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
         "TestingAssemblyVersion": "1.0.2.1",
-        "DownloadCount": 14036,
+        "DownloadCount": 14039,
         "Changelog": "## What's Changed\r\n* The feat of brotherhood module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/151\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/1.1.0.7...1.1.0.8"
     },
     {
@@ -129,7 +129,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.19/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 6636,
+        "DownloadCount": 6638,
         "Changelog": "## What's Changed\r\n* Add filter to only gather items matching job type by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/35\r\n* Crash fix by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/39\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.18...6.58.2.19"
     }
 ]
