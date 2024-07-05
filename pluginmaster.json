@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.17/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 15366,
+        "DownloadCount": 15435,
         "Changelog": "## What's Changed\r\n* correct author name for uniformity by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/198\r\n* add WHM DT statuses and ability changes by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/199\r\n* DT WHM Fixes by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/200\r\n* DT GNB Base Fixes by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/201\r\n* DT BLM Base Fixes by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/202\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.0.16...7.0.0.17"
     },
     {
@@ -67,7 +67,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.0.1/BossModReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
         "TestingAssemblyVersion": "1.0.2.1",
-        "DownloadCount": 13820,
+        "DownloadCount": 14007,
         "Changelog": "## What's Changed\r\n* build fixes for code analyzer  by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/154\r\n\r\n* Initial support pass for every Dawntrail dungeon by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/153\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.0.0...7.0.0.1"
     },
     {
@@ -97,7 +97,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
-        "DownloadCount": 1157,
+        "DownloadCount": 1159,
         "Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/3\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.2...7.0.0.0"
     },
     {
@@ -129,7 +129,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.19/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 6959,
+        "DownloadCount": 6981,
         "Changelog": "## What's Changed\r\n* Add filter to only gather items matching job type by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/35\r\n* Crash fix by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/39\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.18...6.58.2.19"
     },
     {
@@ -157,7 +157,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/1.0.0.7/EasyZoomReborn.zip",
         "AssemblyVersion": "1.0.0.7",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/1.0.0.7/EasyZoomReborn.zip",
-        "DownloadCount": 493,
+        "DownloadCount": 508,
         "Changelog": "## What's Changed\r\n* IcWa - Fixed nullable warnings, added height settings modified UI to be a little cleaner and added scale parameter to UI to avoid errors on little percentage UI by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.6...1.0.0.7"
     }
 ]
