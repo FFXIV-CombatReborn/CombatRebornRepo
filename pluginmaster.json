@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.18/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 17444,
+        "DownloadCount": 17445,
         "Changelog": "## What's Changed\r\n* Twintails in red by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/203\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.0.17...7.0.0.18"
     },
     {
@@ -67,7 +67,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.0.1/BossModReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
         "TestingAssemblyVersion": "1.0.2.1",
-        "DownloadCount": 15656,
+        "DownloadCount": 15658,
         "Changelog": "## What's Changed\r\n* build fixes for code analyzer  by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/154\r\n\r\n* Initial support pass for every Dawntrail dungeon by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/153\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.0.0...7.0.0.1"
     },
     {
