@@ -1,5 +1,4 @@
 FFXIV-CombatReborn/RotationSolverReborn
 FFXIV-CombatReborn/BossModReborn
 FFXIV-CombatReborn/ActionTimelineReborn
-FFXIV-CombatReborn/GatherBuddyReborn
 FFXIV-CombatReborn/EasyZoomReborn
