@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.1/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 20132,
+        "DownloadCount": 20155,
         "Changelog": "## What's Changed\r\n* DT Blm Base Fixes Thunderhead by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/204\r\n* Nin ast base fixes by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/206\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.0.18...7.0.1.1"
     },
     {
@@ -67,7 +67,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.2/BossModReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
         "TestingAssemblyVersion": "1.0.2.1",
-        "DownloadCount": 17192,
+        "DownloadCount": 17211,
         "Changelog": "## What's Changed\r\n* First pass at EX1 and EX2 WIP modules by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/156\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.1...7.0.1.2"
     },
     {
@@ -97,7 +97,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
-        "DownloadCount": 1446,
+        "DownloadCount": 1449,
         "Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/3\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.2...7.0.0.0"
     },
     {
@@ -125,7 +125,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.0.1.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
-        "DownloadCount": 1647,
+        "DownloadCount": 1666,
         "Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
     }
 ]
