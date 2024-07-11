@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.2/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 23598,
+        "DownloadCount": 23616,
         "Changelog": "## What's Changed\r\n* Temporary fix for aetherflags issue and correction around statusneed for some spells by @IncognitoWater in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/207\r\n* Fixed Manafication in base RDM by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/209\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.1...7.0.1.2"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.7/BossModReborn.zip",
         "AssemblyVersion": "7.0.1.7",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.7/BossModReborn.zip",
-        "DownloadCount": 25432,
+        "DownloadCount": 25541,
         "Changelog": "## What's Changed\r\n* Worqor Zormor modules updated by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/162\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.6...7.0.1.7"
     },
     {
