@@ -62,11 +62,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.9/BossModReborn.zip",
-        "AssemblyVersion": "7.0.1.9",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.9/BossModReborn.zip",
-        "DownloadCount": 25339,
-        "Changelog": "## What's Changed\r\n* fixed maturity status of Maulskull module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/164\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.8...7.0.1.9"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.12/BossModReborn.zip",
+        "AssemblyVersion": "7.0.1.12",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.12/BossModReborn.zip",
+        "DownloadCount": 25923,
+        "Changelog": "## What's Changed\r\n* Removed incorrect using by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/166\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.10...7.0.1.12"
     },
     {
         "Author": "The Combat Reborn Team",
