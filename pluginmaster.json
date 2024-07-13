@@ -62,11 +62,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.12/BossModReborn.zip",
-        "AssemblyVersion": "7.0.1.12",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.12/BossModReborn.zip",
-        "DownloadCount": 28044,
-        "Changelog": "## What's Changed\r\n* Removed incorrect using by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/166\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.10...7.0.1.12"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.13/BossModReborn.zip",
+        "AssemblyVersion": "7.0.1.13",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.13/BossModReborn.zip",
+        "DownloadCount": 27335,
+        "Changelog": "## What's Changed\r\n* sync vbm 0.0.0.178, Skydeep Cenote boss 2 AI improvement by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/168\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.12...7.0.1.13"
     },
     {
         "Author": "The Combat Reborn Team",
