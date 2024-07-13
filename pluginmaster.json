@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.6/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 22169,
+        "DownloadCount": 22390,
         "Changelog": "## What's Changed\r\n* Fixed pet summoning happening too quickly by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/222\r\n* Update SamuraiRotation.cs by @SonicZeHedgehog in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n## New Contributors\r\n* @SonicZeHedgehog made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.5...7.0.1.6"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.14/BossModReborn.zip",
         "AssemblyVersion": "7.0.1.14",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.14/BossModReborn.zip",
-        "DownloadCount": 28247,
+        "DownloadCount": 28510,
         "Changelog": "## What's Changed\r\n* Vanguard modules updated by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/169\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.13...7.0.1.14"
     },
     {
