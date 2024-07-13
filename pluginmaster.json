@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.5/RotationSolver.zip",
-        "AssemblyVersion": "7.0.1.5",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.5/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.6/RotationSolver.zip",
+        "AssemblyVersion": "7.0.1.6",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.6/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 22896,
-        "Changelog": "## What's Changed\r\n* Added new blocked conditions by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/218\r\n* Peloton fix by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/221\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.4...7.0.1.5"
+        "DownloadCount": 22046,
+        "Changelog": "## What's Changed\r\n* Fixed pet summoning happening too quickly by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/222\r\n* Update SamuraiRotation.cs by @SonicZeHedgehog in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n## New Contributors\r\n* @SonicZeHedgehog made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.5...7.0.1.6"
     },
     {
         "Author": "The CombatReborn Team",
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.13/BossModReborn.zip",
         "AssemblyVersion": "7.0.1.13",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.13/BossModReborn.zip",
-        "DownloadCount": 28834,
+        "DownloadCount": 28898,
         "Changelog": "## What's Changed\r\n* sync vbm 0.0.0.178, Skydeep Cenote boss 2 AI improvement by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/168\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.12...7.0.1.13"
     },
     {
@@ -123,7 +123,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.0.1.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
-        "DownloadCount": 2362,
+        "DownloadCount": 2364,
         "Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
     }
 ]
