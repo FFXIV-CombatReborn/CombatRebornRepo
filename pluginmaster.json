@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.6/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 22119,
+        "DownloadCount": 22169,
         "Changelog": "## What's Changed\r\n* Fixed pet summoning happening too quickly by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/222\r\n* Update SamuraiRotation.cs by @SonicZeHedgehog in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n## New Contributors\r\n* @SonicZeHedgehog made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.5...7.0.1.6"
     },
     {
@@ -62,11 +62,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.13/BossModReborn.zip",
-        "AssemblyVersion": "7.0.1.13",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.13/BossModReborn.zip",
-        "DownloadCount": 28929,
-        "Changelog": "## What's Changed\r\n* sync vbm 0.0.0.178, Skydeep Cenote boss 2 AI improvement by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/168\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.12...7.0.1.13"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.14/BossModReborn.zip",
+        "AssemblyVersion": "7.0.1.14",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.14/BossModReborn.zip",
+        "DownloadCount": 28247,
+        "Changelog": "## What's Changed\r\n* Vanguard modules updated by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/169\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.13...7.0.1.14"
     },
     {
         "Author": "The Combat Reborn Team",
