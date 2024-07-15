@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.6/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 25099,
+        "DownloadCount": 25114,
         "Changelog": "## What's Changed\r\n* Fixed pet summoning happening too quickly by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/222\r\n* Update SamuraiRotation.cs by @SonicZeHedgehog in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n## New Contributors\r\n* @SonicZeHedgehog made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.5...7.0.1.6"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.20/BossModReborn.zip",
         "AssemblyVersion": "7.0.1.20",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.20/BossModReborn.zip",
-        "DownloadCount": 33025,
+        "DownloadCount": 33062,
         "Changelog": "## What's Changed\r\n* Style fix for Alexandria B1 by @erdelf in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/175\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.19...7.0.1.20"
     },
     {
@@ -123,7 +123,39 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.0.1.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
-        "DownloadCount": 2479,
+        "DownloadCount": 2480,
         "Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
+    },
+    {
+        "Author": "The Combat Reborn Team",
+        "Name": "GatherBuddy Reborn",
+        "InternalName": "GatherbuddyReborn",
+        "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Gathering",
+            "Fishing",
+            "Mining",
+            "Botany",
+            "Weather",
+            "Alarms",
+            "Automatic",
+            "Forager"
+        ],
+        "CategoryTags": [
+            "Jobs",
+            "Utility"
+        ],
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
+        "Punchline": "Simplify Gathering and Fishing to the extreme.",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.0.1.1/GatherbuddyReborn.zip",
+        "AssemblyVersion": "7.0.1.1",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.0.1.1/GatherbuddyReborn.zip",
+        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
+        "TestingAssemblyVersion": "6.58.2.17",
+        "DownloadCount": 9429,
+        "Changelog": "## What's Changed\r\n* Patch 7.0 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/47\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/48\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/49\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.19...7.0.1.1"
     }
 ]
