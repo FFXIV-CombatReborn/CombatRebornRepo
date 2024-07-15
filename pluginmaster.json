@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.6/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 25572,
+        "DownloadCount": 25600,
         "Changelog": "## What's Changed\r\n* Fixed pet summoning happening too quickly by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/222\r\n* Update SamuraiRotation.cs by @SonicZeHedgehog in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n## New Contributors\r\n* @SonicZeHedgehog made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.5...7.0.1.6"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.23/BossModReborn.zip",
         "AssemblyVersion": "7.0.1.23",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.23/BossModReborn.zip",
-        "DownloadCount": 34721,
+        "DownloadCount": 34843,
         "Changelog": "## What's Changed\r\n* Origenics modules updated by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/177\r\n* Sync with vbm 0.0.0.183 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/178\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.21...7.0.1.23"
     },
     {
@@ -95,7 +95,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
-        "DownloadCount": 1852,
+        "DownloadCount": 1853,
         "Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/3\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.2...7.0.0.0"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.0.1.1/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 10958,
+        "DownloadCount": 11004,
         "Changelog": "## What's Changed\r\n* Patch 7.0 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/47\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/48\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/49\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.19...7.0.1.1"
     }
 ]
