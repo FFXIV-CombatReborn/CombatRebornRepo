@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.6/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 25114,
+        "DownloadCount": 25118,
         "Changelog": "## What's Changed\r\n* Fixed pet summoning happening too quickly by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/222\r\n* Update SamuraiRotation.cs by @SonicZeHedgehog in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n## New Contributors\r\n* @SonicZeHedgehog made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.5...7.0.1.6"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.20/BossModReborn.zip",
         "AssemblyVersion": "7.0.1.20",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.20/BossModReborn.zip",
-        "DownloadCount": 33062,
+        "DownloadCount": 33073,
         "Changelog": "## What's Changed\r\n* Style fix for Alexandria B1 by @erdelf in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/175\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.19...7.0.1.20"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.0.1.1/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 9429,
+        "DownloadCount": 9510,
         "Changelog": "## What's Changed\r\n* Patch 7.0 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/47\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/48\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/49\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.19...7.0.1.1"
     }
 ]
