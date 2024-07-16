@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.26/BossModReborn.zip",
         "AssemblyVersion": "7.0.1.26",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.26/BossModReborn.zip",
-        "DownloadCount": 34106,
+        "DownloadCount": 34107,
         "Changelog": "## What's Changed\r\n* Origenics update by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/181\r\n* Alexandria B2 and B3 updated by @erdelf in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/182\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.24...7.0.1.26"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.0.1.1/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 11221,
+        "DownloadCount": 11223,
         "Changelog": "## What's Changed\r\n* Patch 7.0 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/47\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/48\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/49\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.19...7.0.1.1"
     }
 ]
