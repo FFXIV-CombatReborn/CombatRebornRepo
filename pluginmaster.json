@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.6/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 25831,
+        "DownloadCount": 25834,
         "Changelog": "## What's Changed\r\n* Fixed pet summoning happening too quickly by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/222\r\n* Update SamuraiRotation.cs by @SonicZeHedgehog in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n## New Contributors\r\n* @SonicZeHedgehog made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.5...7.0.1.6"
     },
     {
@@ -62,11 +62,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.26/BossModReborn.zip",
-        "AssemblyVersion": "7.0.1.26",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.26/BossModReborn.zip",
-        "DownloadCount": 35730,
-        "Changelog": "## What's Changed\r\n* Origenics update by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/181\r\n* Alexandria B2 and B3 updated by @erdelf in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/182\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.24...7.0.1.26"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.01.0.2/BossModReborn.zip",
+        "AssemblyVersion": "7.01.0.2",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.01.0.2/BossModReborn.zip",
+        "DownloadCount": 34013,
+        "Changelog": "## What's Changed\r\n* M1N, M2N, M3N, and M4N WIP support by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/185\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.01.0.1...7.01.0.2"
     },
     {
         "Author": "The Combat Reborn Team",
