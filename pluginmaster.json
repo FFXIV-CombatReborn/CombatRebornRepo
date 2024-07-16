@@ -62,11 +62,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.24/BossModReborn.zip",
-        "AssemblyVersion": "7.0.1.24",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.24/BossModReborn.zip",
-        "DownloadCount": 35021,
-        "Changelog": "## What's Changed\r\n* sync with vbm 0.0.0.184, fixed Origenics maturity status by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/180\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.23...7.0.1.24"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.26/BossModReborn.zip",
+        "AssemblyVersion": "7.0.1.26",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.26/BossModReborn.zip",
+        "DownloadCount": 34102,
+        "Changelog": "## What's Changed\r\n* Origenics update by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/181\r\n* Alexandria B2 and B3 updated by @erdelf in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/182\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.24...7.0.1.26"
     },
     {
         "Author": "The Combat Reborn Team",
