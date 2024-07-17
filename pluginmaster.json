@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.7/RotationSolver.zip",
-        "AssemblyVersion": "7.0.1.7",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.7/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.8/RotationSolver.zip",
+        "AssemblyVersion": "7.0.1.8",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.8/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 22160,
-        "Changelog": "## What's Changed\r\n* RDM Base Typo by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/231\r\n* Various improvements to enhance the user experience by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/238\r\n* Add condition flags to HasPet check by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/239\r\n* Fixed Subtractive Palette on PCT not being usable with Subtractive Spectrum by @xCykrix in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/236\r\n* Update Monk Base Rotation by @SonicZeHedgehog in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/240\r\n\r\n## New Contributors\r\n* @xCykrix made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/236\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.6...7.0.1.7"
+        "DownloadCount": 22157,
+        "Changelog": "## What's Changed\r\n* DRG Base rotation rewrite by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/243\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.7...7.0.1.8"
     },
     {
         "Author": "The CombatReborn Team",
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.27/BossModReborn.zip",
         "AssemblyVersion": "7.0.1.27",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.27/BossModReborn.zip",
-        "DownloadCount": 34507,
+        "DownloadCount": 34572,
         "Changelog": "## What's Changed\r\n* Origenics improvements, sync vbm 0.0.0.185 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/187\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.01.0.2...7.0.1.27"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.01.0.1/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 12019,
+        "DownloadCount": 12126,
         "Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/53\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.0.1.1...7.01.0.1"
     }
 ]
