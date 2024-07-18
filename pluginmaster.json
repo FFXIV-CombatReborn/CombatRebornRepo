@@ -30,11 +30,11 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.12/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 23457,
+        "DownloadCount": 23476,
         "Changelog": "## What's Changed\r\n* removed statusneed to unbreak MNK combo by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/246\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.10...7.0.1.12"
     },
     {
-        "Author": "The CombatReborn Team",
+        "Author": "The Combat Reborn Team",
         "Name": "BossMod Reborn",
         "InternalName": "BossModReborn",
         "Description": "A bunch of utilities to simplify boss mechanics",
@@ -62,11 +62,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.28/BossModReborn.zip",
-        "AssemblyVersion": "7.0.1.28",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.28/BossModReborn.zip",
-        "DownloadCount": 34777,
-        "Changelog": "## What's Changed\r\n* M1N module updated by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/188\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.27...7.0.1.28"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.29/BossModReborn.zip",
+        "AssemblyVersion": "7.0.1.29",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.29/BossModReborn.zip",
+        "DownloadCount": 34715,
+        "Changelog": "## What's Changed\r\n* Update manifest.json by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/189\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.28...7.0.1.29"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.01.0.2/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 13830,
+        "DownloadCount": 13844,
         "Changelog": "## What's Changed\r\n* Code cleanup by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/54\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.01.0.1...7.01.0.2"
     }
 ]
