@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.12/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 24214,
+        "DownloadCount": 24251,
         "Changelog": "## What's Changed\r\n* removed statusneed to unbreak MNK combo by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/246\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.10...7.0.1.12"
     },
     {
@@ -62,11 +62,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.2/BossModReborn.zip",
-        "AssemblyVersion": "7.2.0.2",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.2/BossModReborn.zip",
-        "DownloadCount": 36157,
-        "Changelog": "## What's Changed\r\n* code analyzer fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/194\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.1...7.2.0.2"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.4/BossModReborn.zip",
+        "AssemblyVersion": "7.2.0.4",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.4/BossModReborn.zip",
+        "DownloadCount": 35839,
+        "Changelog": "## What's Changed\r\n* added ignoreImmunes flag to ElevateAndEviscerate by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/196\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.3...7.2.0.4"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -123,7 +123,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.0.1.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
-        "DownloadCount": 2684,
+        "DownloadCount": 2685,
         "Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.01.0.3/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 14279,
+        "DownloadCount": 14402,
         "Changelog": "## What's Changed\r\n* Try to sanity check during correct for mesh method by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/55\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.01.0.2...7.01.0.3"
     }
 ]
