@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.13/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.0.7",
-        "DownloadCount": 24712,
+        "DownloadCount": 24782,
         "Changelog": "## What's Changed\r\n* Fixed longstanding bug with rotation updater, now updates only when needed and does not delete rotation if new dll not available by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/250\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.12...7.0.1.13"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.4/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.4",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.4/BossModReborn.zip",
-        "DownloadCount": 38501,
+        "DownloadCount": 38523,
         "Changelog": "## What's Changed\r\n* added ignoreImmunes flag to ElevateAndEviscerate by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/196\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.3...7.2.0.4"
     },
     {
@@ -95,7 +95,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
-        "DownloadCount": 1987,
+        "DownloadCount": 1988,
         "Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/3\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.2...7.0.0.0"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.01.0.3/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 16043,
+        "DownloadCount": 16060,
         "Changelog": "## What's Changed\r\n* Try to sanity check during correct for mesh method by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/55\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.01.0.2...7.01.0.3"
     }
 ]
