@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.15/RotationSolver.zip",
-        "AssemblyVersion": "7.0.1.15",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.15/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.17/RotationSolver.zip",
+        "AssemblyVersion": "7.0.1.17",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.17/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.1.16",
-        "DownloadCount": 28368,
-        "Changelog": "## What's Changed\r\n* Minor changes to Monk base rotation by @SonicZeHedgehog in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/251\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.14...7.0.1.15"
+        "DownloadCount": 28342,
+        "Changelog": "## What's Changed\r\n* MNK GNB RDM Fixes by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/254\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.16...7.0.1.17"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.8/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.8",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.8/BossModReborn.zip",
-        "DownloadCount": 39822,
+        "DownloadCount": 39896,
         "Changelog": "## What's Changed\r\n* added safespot drawings for Origenics b2 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/200\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.7...7.2.0.8"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.01.0.3/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 17066,
+        "DownloadCount": 17071,
         "Changelog": "## What's Changed\r\n* Try to sanity check during correct for mesh method by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/55\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.01.0.2...7.01.0.3"
     }
 ]
