@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.18/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.1.16",
-        "DownloadCount": 32753,
+        "DownloadCount": 32778,
         "Changelog": "## What's Changed\r\n* MCH Bioblaster Status Check by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/257\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.17...7.0.1.18"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.12/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.12",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.12/BossModReborn.zip",
-        "DownloadCount": 43854,
+        "DownloadCount": 43888,
         "Changelog": "## What's Changed\r\n* M3 WIP, fixed fence in Vanguard again by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/205\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.11...7.2.0.12"
     },
     {
@@ -150,12 +150,12 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
         "Punchline": "Simplify Gathering and Fishing to the extreme.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.01.0.5/GatherbuddyReborn.zip",
-        "AssemblyVersion": "7.01.0.5",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.01.0.5/GatherbuddyReborn.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.01.0.6/GatherbuddyReborn.zip",
+        "AssemblyVersion": "7.01.0.6",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.01.0.6/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 19044,
-        "Changelog": "## What's Changed\r\n* Re-implement node blacklist check by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/66\r\n* Various collectible fixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/67\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.01.0.4...7.01.0.5"
+        "DownloadCount": 19064,
+        "Changelog": "## What's Changed\r\n* Re-implement timed node precog by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/68\r\n* Better timed nodes 2 electric boogaloo by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/74\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.01.0.5...7.01.0.6"
     }
 ]
