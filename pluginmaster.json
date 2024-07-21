@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.17/RotationSolver.zip",
-        "AssemblyVersion": "7.0.1.17",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.17/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.18/RotationSolver.zip",
+        "AssemblyVersion": "7.0.1.18",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.18/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.1.16",
-        "DownloadCount": 31136,
-        "Changelog": "## What's Changed\r\n* MNK GNB RDM Fixes by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/254\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.16...7.0.1.17"
+        "DownloadCount": 31103,
+        "Changelog": "## What's Changed\r\n* MCH Bioblaster Status Check by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/257\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.17...7.0.1.18"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.11/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.11",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.11/BossModReborn.zip",
-        "DownloadCount": 41697,
+        "DownloadCount": 41789,
         "Changelog": "## What's Changed\r\n* Create O3NHalicarnassus.cs by @VeraNala in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/204\r\n\r\n## New Contributors\r\n* @VeraNala made their first contribution in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/204\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.10...7.2.0.11"
     },
     {
@@ -95,7 +95,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
-        "DownloadCount": 2096,
+        "DownloadCount": 2097,
         "Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/3\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.2...7.0.0.0"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.01.0.3/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 17456,
+        "DownloadCount": 17457,
         "Changelog": "## What's Changed\r\n* Try to sanity check during correct for mesh method by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/55\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.01.0.2...7.01.0.3"
     }
 ]
