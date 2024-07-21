@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.18/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.1.16",
-        "DownloadCount": 31183,
+        "DownloadCount": 31302,
         "Changelog": "## What's Changed\r\n* MCH Bioblaster Status Check by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/257\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.17...7.0.1.18"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.11/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.11",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.11/BossModReborn.zip",
-        "DownloadCount": 41897,
+        "DownloadCount": 42004,
         "Changelog": "## What's Changed\r\n* Create O3NHalicarnassus.cs by @VeraNala in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/204\r\n\r\n## New Contributors\r\n* @VeraNala made their first contribution in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/204\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.10...7.2.0.11"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.01.0.4/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 17462,
+        "DownloadCount": 17532,
         "Changelog": "## What's Changed\r\n* Better timed nodes 2 electric boogaloo by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/65\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.01.0.3...7.01.0.4"
     }
 ]
