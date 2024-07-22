@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.18/RotationSolver.zip",
-        "AssemblyVersion": "7.0.1.18",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.18/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.19/RotationSolver.zip",
+        "AssemblyVersion": "7.0.1.19",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.19/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.1.16",
-        "DownloadCount": 33997,
-        "Changelog": "## What's Changed\r\n* MCH Bioblaster Status Check by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/257\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.17...7.0.1.18"
+        "DownloadCount": 33954,
+        "Changelog": "## What's Changed\r\n* PCT base fixes, fixes striking muse spam out of combat and binds some abilities properly by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/259\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.18...7.0.1.19"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.14/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.14",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.14/BossModReborn.zip",
-        "DownloadCount": 42462,
+        "DownloadCount": 42493,
         "Changelog": "## What's Changed\r\n* added option to flip map by 180\u00b0 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/207\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.13...7.2.0.14"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.01.0.8/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 21649,
+        "DownloadCount": 21678,
         "Changelog": "## What's Changed\r\n* Added collectible gathering on the last integrity point by @MayakoAelys in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/76\r\n* Fixed collectable actions not using config state by @C-Hat32 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/78\r\n\r\n## New Contributors\r\n* @MayakoAelys made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/76\r\n* @C-Hat32 made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/78\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.01.0.7...7.01.0.8"
     }
 ]
