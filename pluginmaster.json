@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.21/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.1.16",
-        "DownloadCount": 35558,
+        "DownloadCount": 35731,
         "Changelog": "## What's Changed\r\n* Another round of PCT fixes, no longer gets stuck trying to use Holy in White or other abilties that have restrictions on use by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/260\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.20...7.0.1.21"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.15/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.15",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.15/BossModReborn.zip",
-        "DownloadCount": 41406,
+        "DownloadCount": 41552,
         "Changelog": "## What's Changed\r\n* M3 module updated by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/208\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.14...7.2.0.15"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.01.0.8/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 22610,
+        "DownloadCount": 22668,
         "Changelog": "## What's Changed\r\n* Added collectible gathering on the last integrity point by @MayakoAelys in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/76\r\n* Fixed collectable actions not using config state by @C-Hat32 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/78\r\n\r\n## New Contributors\r\n* @MayakoAelys made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/76\r\n* @C-Hat32 made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/78\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.01.0.7...7.01.0.8"
     }
 ]
