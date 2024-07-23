@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.23/RotationSolver.zip",
-        "AssemblyVersion": "7.0.1.23",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.23/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.24/RotationSolver.zip",
+        "AssemblyVersion": "7.0.1.24",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.24/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.1.16",
-        "DownloadCount": 40645,
-        "Changelog": "## What's Changed\r\n* Added additional positional actions by @SonicZeHedgehog in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/264\r\n* Fixed Reign Combo Part 2 by @tomastzorta in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/265\r\n\r\n## New Contributors\r\n* @tomastzorta made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/265\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.22...7.0.1.23"
+        "DownloadCount": 40463,
+        "Changelog": "## What's Changed\r\n* AOE These Nuts by @tomastzorta in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/266\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.23...7.0.1.24"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.18/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.18",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.18/BossModReborn.zip",
-        "DownloadCount": 43972,
+        "DownloadCount": 44027,
         "Changelog": "## What's Changed\r\n* improved visual clarity in M4 module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/211\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.17...7.2.0.18"
     },
     {
@@ -123,7 +123,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.0.1.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
-        "DownloadCount": 2970,
+        "DownloadCount": 2971,
         "Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.0.2/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 27835,
+        "DownloadCount": 27866,
         "Changelog": "## What's Changed\r\n* Biiiiiiig changes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/92\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.0.1...7.2.0.2"
     }
 ]
