@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.22/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.1.16",
-        "DownloadCount": 39254,
+        "DownloadCount": 39310,
         "Changelog": "## What's Changed\r\n* GNB base update (tested to 90, no bricking anymore) by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/263\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.21...7.0.1.22"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.15/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.15",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.15/BossModReborn.zip",
-        "DownloadCount": 43955,
+        "DownloadCount": 43988,
         "Changelog": "## What's Changed\r\n* M3 module updated by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/208\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.14...7.2.0.15"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.0.2/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 25599,
+        "DownloadCount": 25748,
         "Changelog": "## What's Changed\r\n* Biiiiiiig changes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/92\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.0.1...7.2.0.2"
     }
 ]
