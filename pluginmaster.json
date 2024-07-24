@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.24/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.1.16",
-        "DownloadCount": 43613,
+        "DownloadCount": 43707,
         "Changelog": "## What's Changed\r\n* AOE These Nuts by @tomastzorta in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/266\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.23...7.0.1.24"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.21/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.21",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.21/BossModReborn.zip",
-        "DownloadCount": 43900,
+        "DownloadCount": 44118,
         "Changelog": "## What's Changed\r\n* added 2 attacks to SS rank archaethereater by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/215\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.20...7.2.0.21"
     },
     {
@@ -95,7 +95,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
-        "DownloadCount": 2243,
+        "DownloadCount": 2245,
         "Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/3\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.2...7.0.0.0"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.0.5/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 30183,
+        "DownloadCount": 30527,
         "Changelog": "## What's Changed\r\n* Added minimum GP for gathering collectables by @C-Hat32 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/94\r\n* Improved gather action queuing and waits by @C-Hat32 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/105\r\n* Added advanced unstuck feature by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/106\r\n* Far node fixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/107\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.0.4...7.2.0.5"
     }
 ]
