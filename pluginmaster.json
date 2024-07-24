@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.24/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.1.16",
-        "DownloadCount": 42779,
+        "DownloadCount": 42798,
         "Changelog": "## What's Changed\r\n* AOE These Nuts by @tomastzorta in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/266\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.23...7.0.1.24"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.21/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.21",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.21/BossModReborn.zip",
-        "DownloadCount": 42024,
+        "DownloadCount": 42109,
         "Changelog": "## What's Changed\r\n* added 2 attacks to SS rank archaethereater by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/215\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.20...7.2.0.21"
     },
     {
@@ -150,12 +150,12 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
         "Punchline": "Simplify Gathering and Fishing to the extreme.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.0.3/GatherbuddyReborn.zip",
-        "AssemblyVersion": "7.2.0.3",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.0.3/GatherbuddyReborn.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.0.4/GatherbuddyReborn.zip",
+        "AssemblyVersion": "7.2.0.4",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.0.4/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 28745,
-        "Changelog": "## What's Changed\r\n* Reworked the Collectables actions logic by @C-Hat32 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/97\r\n* Improved sanity checking on correct coordinates by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/100\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.0.2...7.2.0.3"
+        "DownloadCount": 28709,
+        "Changelog": "## What's Changed\r\n* Added consumables feature by @leothelion4953 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/102\r\n* Consumables fixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/104\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.0.3...7.2.0.4"
     }
 ]
