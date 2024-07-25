@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.26/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.1.16",
-        "DownloadCount": 46856,
+        "DownloadCount": 47146,
         "Changelog": "## What's Changed\r\n* SGE DT first pass by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/268\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.25...7.0.1.26"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.22/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.22",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.22/BossModReborn.zip",
-        "DownloadCount": 45370,
+        "DownloadCount": 45626,
         "Changelog": "## What's Changed\r\n* S rank sansheya module, DT ex1 improvements, replay path changeable, new AI slash commands by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/216\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.21...7.2.0.22"
     },
     {
@@ -95,7 +95,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
-        "DownloadCount": 2291,
+        "DownloadCount": 2294,
         "Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/3\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.2...7.0.0.0"
     },
     {
@@ -123,7 +123,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.0.1.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
-        "DownloadCount": 3059,
+        "DownloadCount": 3060,
         "Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
     },
     {
@@ -150,12 +150,12 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
         "Punchline": "Simplify Gathering and Fishing to the extreme.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.0.5/GatherbuddyReborn.zip",
-        "AssemblyVersion": "7.2.0.5",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.0.5/GatherbuddyReborn.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.0.6/GatherbuddyReborn.zip",
+        "AssemblyVersion": "7.2.0.6",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.0.6/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 32773,
-        "Changelog": "## What's Changed\r\n* Added minimum GP for gathering collectables by @C-Hat32 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/94\r\n* Improved gather action queuing and waits by @C-Hat32 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/105\r\n* Added advanced unstuck feature by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/106\r\n* Far node fixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/107\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.0.4...7.2.0.5"
+        "DownloadCount": 32577,
+        "Changelog": "## What's Changed\r\n* Fix minimap markers nav by @mnralmbj in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/108\r\n* Add materia extraction by @mnralmbj in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/118\r\n* Feature/solid age for gatherables by @C-Hat32 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/111\r\n\r\n## New Contributors\r\n* @mnralmbj made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/108\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.0.5...7.2.0.6"
     }
 ]
