@@ -25,13 +25,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.25/RotationSolver.zip",
-        "AssemblyVersion": "7.0.1.25",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.25/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.26/RotationSolver.zip",
+        "AssemblyVersion": "7.0.1.26",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.26/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.1.16",
-        "DownloadCount": 45909,
-        "Changelog": "## What's Changed\r\n* AST's cards fixed, post level 90 abilities added rudimentary by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/267\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.24...7.0.1.25"
+        "DownloadCount": 45940,
+        "Changelog": "## What's Changed\r\n* SGE DT first pass by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/268\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.25...7.0.1.26"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.22/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.22",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.22/BossModReborn.zip",
-        "DownloadCount": 44537,
+        "DownloadCount": 44617,
         "Changelog": "## What's Changed\r\n* S rank sansheya module, DT ex1 improvements, replay path changeable, new AI slash commands by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/216\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.21...7.2.0.22"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.0.5/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 32535,
+        "DownloadCount": 32560,
         "Changelog": "## What's Changed\r\n* Added minimum GP for gathering collectables by @C-Hat32 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/94\r\n* Improved gather action queuing and waits by @C-Hat32 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/105\r\n* Added advanced unstuck feature by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/106\r\n* Far node fixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/107\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.0.4...7.2.0.5"
     }
 ]
