@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.30/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.1.16",
-        "DownloadCount": 50781,
+        "DownloadCount": 50864,
         "Changelog": "## What's Changed\r\n* TLDR; UI pass for clarity and control, Dragoon base fix, new engage targeting mode, exposed TTK HP percentage to users, and finally Swiftcast Raising with healers should be fixed! by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/274\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.29...7.0.1.30"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.30/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.30",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.30/BossModReborn.zip",
-        "DownloadCount": 48484,
+        "DownloadCount": 48541,
         "Changelog": "## What's Changed\r\n* S Rank Atticus module added, Sansheya module updated, Batsquatch module updated by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/223\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.29...7.2.0.30"
     },
     {
@@ -123,7 +123,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.0.1.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
-        "DownloadCount": 3109,
+        "DownloadCount": 3110,
         "Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.0.8/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "6.58.2.17",
-        "DownloadCount": 37211,
+        "DownloadCount": 37250,
         "Changelog": "## What's Changed\r\n* Added a sound for when auto-gather completes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/124\r\n* Added navigate button to node debug by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/125\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.0.7...7.2.0.8"
     }
 ]
