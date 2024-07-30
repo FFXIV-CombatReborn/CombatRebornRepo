@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.40/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.1.16",
-        "DownloadCount": 51001,
+        "DownloadCount": 51087,
         "Changelog": "## What's Changed\r\n* WAR and NIN hotfixes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/286\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.39...7.0.1.40"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.35/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.35",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.35/BossModReborn.zip",
-        "DownloadCount": 54739,
+        "DownloadCount": 54768,
         "Changelog": "## What's Changed\r\n* Aitiascope modules updated, Hermes bug fixed by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/230\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.34...7.2.0.35"
     },
     {
@@ -157,7 +157,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.2/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.4/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.1.4",
-        "DownloadCount": 46305,
+        "DownloadCount": 46329,
         "Changelog": "## What's Changed\r\n* Allow \"Mount Roulette\" as a mount option by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/140\r\n* Correct item quantity calculation by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/141\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.1...7.2.1.2"
     }
 ]
