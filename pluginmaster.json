@@ -30,7 +30,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.2/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.1.16",
-        "DownloadCount": 50787,
+        "DownloadCount": 50914,
         "Changelog": "## What's Changed\r\n* SGE TTK Config Fixes by @Hazerre in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/289\r\n* SAM base fixes, on hold until the Dalamud gauge gets fixed by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/290\r\n\r\n## New Contributors\r\n* @Hazerre made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/289\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.1...7.0.5.2"
     },
     {
@@ -65,7 +65,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.43/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.43",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.43/BossModReborn.zip",
-        "DownloadCount": 57146,
+        "DownloadCount": 57205,
         "Changelog": "## What's Changed\r\n* 7.05 client struct update by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/237\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.42...7.2.0.43"
     },
     {
@@ -95,7 +95,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
-        "DownloadCount": 2532,
+        "DownloadCount": 2533,
         "Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/3\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.2...7.0.0.0"
     },
     {
@@ -157,7 +157,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.2/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.4/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.1.4",
-        "DownloadCount": 47047,
+        "DownloadCount": 47063,
         "Changelog": "## What's Changed\r\n* Allow \"Mount Roulette\" as a mount option by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/140\r\n* Correct item quantity calculation by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/141\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.1...7.2.1.2"
     }
 ]
