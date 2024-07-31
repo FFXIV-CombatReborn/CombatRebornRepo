@@ -28,7 +28,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.5/RotationSolver.zip",
         "AssemblyVersion": "7.0.5.5",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.5/RotationSolver.zip",
-        "DownloadCount": 52248,
+        "DownloadCount": 52288,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.4...7.0.5.5"
     },
     {
@@ -63,7 +63,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.46/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.46",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.46/BossModReborn.zip",
-        "DownloadCount": 62105,
+        "DownloadCount": 62136,
         "Changelog": "## What's Changed\r\n* added hidden toggle for anticheat by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/240\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.44...7.2.0.46"
     },
     {
@@ -155,7 +155,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.2/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.5/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.1.5",
-        "DownloadCount": 47551,
+        "DownloadCount": 47558,
         "Changelog": "## What's Changed\r\n* Allow \"Mount Roulette\" as a mount option by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/140\r\n* Correct item quantity calculation by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/141\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.1...7.2.1.2"
     }
 ]
