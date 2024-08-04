@@ -29,9 +29,9 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.6/RotationSolver.zip",
         "AssemblyVersion": "7.0.5.6",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.6/RotationSolver.zip",
-        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.15/RotationSolver.zip",
-        "TestingAssemblyVersion": "7.0.5.15",
-        "DownloadCount": 47889,
+        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
+        "TestingAssemblyVersion": "7.0.5.16",
+        "DownloadCount": 47338,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.4...7.0.5.6\r\n\r\n## What's Changed\r\n* Neuter RTU and attempted fix at the UI for rotation specific configs \u2026 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/294\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.5...7.0.5.6"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.49/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.49",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.49/BossModReborn.zip",
-        "DownloadCount": 69628,
+        "DownloadCount": 69641,
         "Changelog": "## What's Changed\r\n* S Rank Kirlirger the Abhorrent module, tried to improve Anima AI by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/247\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.48...7.2.0.49"
     },
     {
@@ -96,7 +96,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
-        "DownloadCount": 2747,
+        "DownloadCount": 2748,
         "Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/3\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.2...7.0.0.0"
     },
     {
@@ -158,7 +158,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.2/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.5/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.1.5",
-        "DownloadCount": 49318,
+        "DownloadCount": 49319,
         "Changelog": "## What's Changed\r\n* Allow \"Mount Roulette\" as a mount option by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/140\r\n* Correct item quantity calculation by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/141\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.1...7.2.1.2"
     }
 ]
