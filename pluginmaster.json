@@ -153,12 +153,12 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
         "Punchline": "Simplify Gathering and Fishing to the extreme.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.6/GatherbuddyReborn.zip",
-        "AssemblyVersion": "7.2.1.6",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.6/GatherbuddyReborn.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.7/GatherbuddyReborn.zip",
+        "AssemblyVersion": "7.2.1.7",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.7/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.5/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.1.5",
-        "DownloadCount": 52638,
-        "Changelog": "## What's Changed\r\n* 7.05 update by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/156\r\n* Added error message when presets fail to load by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/160\r\n* 7.05 update by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/162\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.5...7.2.1.6"
+        "DownloadCount": 52575,
+        "Changelog": "## What's Changed\r\n* Change color in gather window when item is complete by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/163\r\n* Materia extraction improvements and logic tree cleanup by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/167\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.6...7.2.1.7"
     }
 ]
