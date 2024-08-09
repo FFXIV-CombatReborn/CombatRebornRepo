@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.17/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.16",
-        "DownloadCount": 51460,
+        "DownloadCount": 51480,
         "Changelog": "## What's Changed\r\n* Hotfix for Macro window and fix for nullreferenceexception by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/311\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.14...7.0.5.17"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.60/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.60",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.60/BossModReborn.zip",
-        "DownloadCount": 78162,
+        "DownloadCount": 78359,
         "Changelog": "## What's Changed\r\n* fixed rare bug in M1N by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/261\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.59...7.2.0.60"
     },
     {
@@ -158,7 +158,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.7/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.5/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.1.5",
-        "DownloadCount": 57674,
+        "DownloadCount": 57691,
         "Changelog": "## What's Changed\r\n* Change color in gather window when item is complete by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/163\r\n* Materia extraction improvements and logic tree cleanup by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/167\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.6...7.2.1.7"
     }
 ]
