@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.19/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.16",
-        "DownloadCount": 59999,
+        "DownloadCount": 60000,
         "Changelog": "## What's Changed\r\n* Soft patch for SAM by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/317\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.18...7.0.5.19"
     },
     {
