@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.19/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.16",
-        "DownloadCount": 61695,
+        "DownloadCount": 61700,
         "Changelog": "## What's Changed\r\n* Soft patch for SAM by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/317\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.18...7.0.5.19"
     },
     {
@@ -63,11 +63,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.79/BossModReborn.zip",
-        "AssemblyVersion": "7.2.0.79",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.79/BossModReborn.zip",
-        "DownloadCount": 86296,
-        "Changelog": "## What's Changed\r\n* deleted duplicate line by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/284\r\n* mount rokkon improvements by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/285\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.78...7.2.0.79"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.80/BossModReborn.zip",
+        "AssemblyVersion": "7.2.0.80",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.80/BossModReborn.zip",
+        "DownloadCount": 81533,
+        "Changelog": "## What's Changed\r\n* strayborough fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/287\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.79...7.2.0.80"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -96,7 +96,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
-        "DownloadCount": 3356,
+        "DownloadCount": 3358,
         "Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/3\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.2...7.0.0.0"
     },
     {
@@ -158,7 +158,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.7/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.5/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.1.5",
-        "DownloadCount": 60068,
+        "DownloadCount": 60072,
         "Changelog": "## What's Changed\r\n* Change color in gather window when item is complete by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/163\r\n* Materia extraction improvements and logic tree cleanup by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/167\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.6...7.2.1.7"
     }
 ]
