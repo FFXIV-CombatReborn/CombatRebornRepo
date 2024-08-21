@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.29/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.16",
-        "DownloadCount": 63005,
+        "DownloadCount": 63049,
         "Changelog": "## What's Changed\r\n* Rotation Definitions in the README.md were to the archived versions. \u2026 by @NegativKelvin in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/319\r\n* VIper fix, pld test fix, Watcher null checks, ecommons bump by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/323\r\n\r\n## New Contributors\r\n* @NegativKelvin made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/319\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.19...7.0.5.29"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.84/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.84",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.84/BossModReborn.zip",
-        "DownloadCount": 78423,
+        "DownloadCount": 78436,
         "Changelog": "## What's Changed\r\n* Eureka Orthos floor 99 boss by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/294\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.83...7.2.0.84"
     },
     {
