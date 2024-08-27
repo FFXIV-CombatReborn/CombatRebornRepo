@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.30/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.16",
-        "DownloadCount": 74121,
+        "DownloadCount": 74126,
         "Changelog": "## What's Changed\r\n* Re-Adding the feature \"placing a oGCD on the 2nd slot\" by @BrakusTapus in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/324\r\n* isLastAbility configuration for devs by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/325\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.29...7.0.5.30"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.88/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.88",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.88/BossModReborn.zip",
-        "DownloadCount": 85726,
+        "DownloadCount": 85766,
         "Changelog": "## What's Changed\r\n* Aery and Sohm Al modules, merged vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/302\r\n* code analyzer fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/303\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.87...7.2.0.88"
     },
     {
