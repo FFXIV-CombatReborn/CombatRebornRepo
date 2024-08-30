@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.39/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.16",
-        "DownloadCount": 73206,
+        "DownloadCount": 73217,
         "Changelog": "## What's Changed\r\n* Various Updates by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/330\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.38...7.0.5.39"
     },
     {
@@ -63,11 +63,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.92/BossModReborn.zip",
-        "AssemblyVersion": "7.2.0.92",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.92/BossModReborn.zip",
-        "DownloadCount": 88262,
-        "Changelog": "## What's Changed\r\n* Shisui of violet tides modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/307\r\n* code analyzer fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/308\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.91...7.2.0.92"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.93/BossModReborn.zip",
+        "AssemblyVersion": "7.2.0.93",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.93/BossModReborn.zip",
+        "DownloadCount": 88290,
+        "Changelog": "## What's Changed\r\n* added transition knockback to M4S by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/309\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.92...7.2.0.93"
     },
     {
         "Author": "The Combat Reborn Team",
