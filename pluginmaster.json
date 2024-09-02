@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.46/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.16",
-        "DownloadCount": 79600,
+        "DownloadCount": 79654,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.45...7.0.5.46"
     },
     {
@@ -63,11 +63,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.104/BossModReborn.zip",
-        "AssemblyVersion": "7.2.0.104",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.104/BossModReborn.zip",
-        "DownloadCount": 85282,
-        "Changelog": "## What's Changed\r\n* Keheniheyamewi Module Updates by @Shinryin in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/322\r\n* stylistic change by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/323\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.103...7.2.0.104"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.105/BossModReborn.zip",
+        "AssemblyVersion": "7.2.0.105",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.105/BossModReborn.zip",
+        "DownloadCount": 84677,
+        "Changelog": "## What's Changed\r\n* fixed chains component by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/324\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.104...7.2.0.105"
     },
     {
         "Author": "The Combat Reborn Team",
