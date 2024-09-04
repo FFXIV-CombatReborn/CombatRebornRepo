@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.46/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.16",
-        "DownloadCount": 84933,
+        "DownloadCount": 84943,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.45...7.0.5.46"
     },
     {
@@ -63,11 +63,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.113/BossModReborn.zip",
-        "AssemblyVersion": "7.2.0.113",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.113/BossModReborn.zip",
-        "DownloadCount": 75992,
-        "Changelog": "## What's Changed\r\n* fixed babil b1 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/332\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.112...7.2.0.113"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.114/BossModReborn.zip",
+        "AssemblyVersion": "7.2.0.114",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.114/BossModReborn.zip",
+        "DownloadCount": 70092,
+        "Changelog": "## What's Changed\r\n* m1s bug fix, m2/s hearts improvement by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/333\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.113...7.2.0.114"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -158,7 +158,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.8/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.5/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.1.5",
-        "DownloadCount": 66506,
+        "DownloadCount": 66507,
         "Changelog": "## What's Changed\r\n* 7.05 update by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/181\r\n* Fix idle teleporting from inside estate by @oorzkws in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n## New Contributors\r\n* @oorzkws made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.7...7.2.1.8"
     }
 ]
