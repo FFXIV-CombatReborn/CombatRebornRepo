@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.48/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.16",
-        "DownloadCount": 88095,
+        "DownloadCount": 88105,
         "Changelog": "## What's Changed\r\n* Uncoiled fury stuff by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/335\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.46...7.0.5.48"
     },
     {
@@ -63,11 +63,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.117/BossModReborn.zip",
-        "AssemblyVersion": "7.2.0.117",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.117/BossModReborn.zip",
-        "DownloadCount": 65026,
-        "Changelog": "## What's Changed\r\n* cagnazzo fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/336\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.116...7.2.0.117"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.118/BossModReborn.zip",
+        "AssemblyVersion": "7.2.0.118",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.118/BossModReborn.zip",
+        "DownloadCount": 59922,
+        "Changelog": "## What's Changed\r\n* criterion improvements by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/337\r\n* fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/338\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.117...7.2.0.118"
     },
     {
         "Author": "The Combat Reborn Team",
