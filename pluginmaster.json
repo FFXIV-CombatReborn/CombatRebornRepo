@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.53/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.16",
-        "DownloadCount": 89743,
+        "DownloadCount": 89768,
         "Changelog": "## What's Changed\r\n* Refactor and improve null checks, add PvP handling by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/339\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.52...7.0.5.53"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.119/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.119",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.119/BossModReborn.zip",
-        "DownloadCount": 64666,
+        "DownloadCount": 64707,
         "Changelog": "## What's Changed\r\n* Doma castle modules + merge vbm (minus pathfinding changes) by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/339\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.118...7.2.0.119"
     },
     {
