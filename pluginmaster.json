@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.58/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.16",
-        "DownloadCount": 99729,
+        "DownloadCount": 99744,
         "Changelog": "## What's Changed\r\n* Fix minor issue in BLM base rotation by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/341\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.54...7.0.5.58"
     },
     {
@@ -66,7 +66,9 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.120/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.120",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.120/BossModReborn.zip",
-        "DownloadCount": 71207,
+        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.121/BossModReborn.zip",
+        "TestingAssemblyVersion": "7.2.0.121",
+        "DownloadCount": 67030,
         "Changelog": "## What's Changed\r\n* improvements to moving voidzones, sohm al b3 fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/340\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.119...7.2.0.120"
     },
     {
