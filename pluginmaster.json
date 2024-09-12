@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.60/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.16",
-        "DownloadCount": 98850,
+        "DownloadCount": 99000,
         "Changelog": "## What's Changed\r\n* Dancer Partner Priority Targeting by @Four-amer in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/342\r\n* PCT sub 86 level hammer use fix by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/344\r\n\r\n## New Contributors\r\n* @Four-amer made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/342\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.59...7.0.5.60"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.122/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.122",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.122/BossModReborn.zip",
-        "DownloadCount": 68675,
+        "DownloadCount": 68838,
         "Changelog": "## What's Changed\r\n* Merge fixes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/342\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.121...7.2.0.122"
     },
     {
