@@ -26,13 +26,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.60/RotationSolver.zip",
-        "AssemblyVersion": "7.0.5.60",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.60/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.61/RotationSolver.zip",
+        "AssemblyVersion": "7.0.5.61",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.61/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.16",
-        "DownloadCount": 99136,
-        "Changelog": "## What's Changed\r\n* Dancer Partner Priority Targeting by @Four-amer in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/342\r\n* PCT sub 86 level hammer use fix by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/344\r\n\r\n## New Contributors\r\n* @Four-amer made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/342\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.59...7.0.5.60"
+        "DownloadCount": 92886,
+        "Changelog": "## What's Changed\r\n* Refactor helpers, fix soft targeting, and enhance readability across multiple classes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/345\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.60...7.0.5.61"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.122/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.122",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.122/BossModReborn.zip",
-        "DownloadCount": 68984,
+        "DownloadCount": 69071,
         "Changelog": "## What's Changed\r\n* Merge fixes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/342\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.121...7.2.0.122"
     },
     {
