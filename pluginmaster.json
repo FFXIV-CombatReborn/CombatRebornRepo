@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.65/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.16",
-        "DownloadCount": 98714,
+        "DownloadCount": 98745,
         "Changelog": "## What's Changed\r\n* Improve null checks, comments, and performance optimizations by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/348\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.63...7.0.5.65"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.124/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.124",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.124/BossModReborn.zip",
-        "DownloadCount": 67808,
+        "DownloadCount": 67884,
         "Changelog": "## What's Changed\r\n* small stylistic changes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/344\r\n* revert to old pathfinding by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/345\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.123...7.2.0.124"
     },
     {
