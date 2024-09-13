@@ -26,13 +26,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": null,
-        "DownloadLinkUpdate": null,
-        "AssemblyVersion": "7.0.5.70",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.71/RotationSolver.zip",
+        "AssemblyVersion": "7.0.5.71",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.71/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.16/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.16",
         "DownloadCount": 99137,
-        "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.68...7.0.5.70"
+        "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.69...7.0.5.71"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.124/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.124",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.124/BossModReborn.zip",
-        "DownloadCount": 68757,
+        "DownloadCount": 68806,
         "Changelog": "## What's Changed\r\n* small stylistic changes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/344\r\n* revert to old pathfinding by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/345\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.123...7.2.0.124"
     },
     {
