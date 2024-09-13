@@ -42,15 +42,29 @@ def append_changelog(manifest, latest_release):
 
 def append_manifest(manifest, latest_release, latest_pre_release):
     if latest_release:
-        manifest["DownloadLinkInstall"] = latest_release["assets"][0]["browser_download_url"]
-        manifest["AssemblyVersion"] = latest_release["tag_name"]
-        manifest["DownloadLinkUpdate"] = latest_release["assets"][0]["browser_download_url"]
+        if latest_release["assets"]:
+            manifest["DownloadLinkInstall"] = latest_release["assets"][0]["browser_download_url"]
+            manifest["AssemblyVersion"] = latest_release["tag_name"]
+            manifest["DownloadLinkUpdate"] = latest_release["assets"][0]["browser_download_url"]
+        else:
+            print("No assets found in the latest release.")
+            manifest["DownloadLinkInstall"] = None
+            manifest["DownloadLinkUpdate"] = None
+            manifest["AssemblyVersion"] = latest_release["tag_name"]
+
     if latest_pre_release:
-        manifest["DownloadLinkTesting"] = latest_pre_release["assets"][0]["browser_download_url"]
-        manifest["TestingAssemblyVersion"] = latest_pre_release["tag_name"]
+        if latest_pre_release["assets"]:
+            manifest["DownloadLinkTesting"] = latest_pre_release["assets"][0]["browser_download_url"]
+            manifest["TestingAssemblyVersion"] = latest_pre_release["tag_name"]
+        else:
+            print("No assets found in the latest pre-release.")
+            manifest["DownloadLinkTesting"] = None
+            manifest["TestingAssemblyVersion"] = latest_pre_release["tag_name"]
+
     if latest_release is None:
-        manifest["DownloadLinkInstall"] = manifest["DownloadLinkTesting"]
-        manifest["AssemblyVersion"] = manifest["TestingAssemblyVersion"]
+        manifest["DownloadLinkInstall"] = manifest.get("DownloadLinkTesting")
+        manifest["AssemblyVersion"] = manifest.get("TestingAssemblyVersion")
+
     return manifest
 
 def append_download_count(manifest, repo):
