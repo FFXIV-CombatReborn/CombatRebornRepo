@@ -61,11 +61,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.128/BossModReborn.zip",
-        "AssemblyVersion": "7.2.0.128",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.128/BossModReborn.zip",
-        "DownloadCount": 67808,
-        "Changelog": "## What's Changed\r\n* small mt rokkon lantern ai improvement by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/350\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.127...7.2.0.128"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.129/BossModReborn.zip",
+        "AssemblyVersion": "7.2.0.129",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.129/BossModReborn.zip",
+        "DownloadCount": 64129,
+        "Changelog": "## What's Changed\r\n* donut stack change by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/351\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.128...7.2.0.129"
     },
     {
         "Author": "The Combat Reborn Team",
