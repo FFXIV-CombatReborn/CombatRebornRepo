@@ -29,7 +29,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.81/RotationSolver.zip",
         "AssemblyVersion": "7.0.5.81",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.81/RotationSolver.zip",
-        "DownloadCount": 75708,
+        "DownloadCount": 75914,
         "Changelog": "## What's Changed\r\n* Added Option to prioritize Targets based on name and territory by @BrakusTapus in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/358\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.80...7.0.5.81"
     },
     {
@@ -64,7 +64,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.129/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.129",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.129/BossModReborn.zip",
-        "DownloadCount": 64129,
+        "DownloadCount": 64346,
         "Changelog": "## What's Changed\r\n* donut stack change by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/351\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.128...7.2.0.129"
     },
     {
@@ -122,7 +122,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.0.1.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
-        "DownloadCount": 4874,
+        "DownloadCount": 4876,
         "Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
     },
     {
@@ -156,7 +156,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.8/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.5/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.1.5",
-        "DownloadCount": 67696,
+        "DownloadCount": 67699,
         "Changelog": "## What's Changed\r\n* 7.05 update by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/181\r\n* Fix idle teleporting from inside estate by @oorzkws in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n## New Contributors\r\n* @oorzkws made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.7...7.2.1.8"
     }
 ]
