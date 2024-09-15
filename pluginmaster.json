@@ -29,7 +29,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.79/RotationSolver.zip",
         "AssemblyVersion": "7.0.5.79",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.79/RotationSolver.zip",
-        "DownloadCount": 72497,
+        "DownloadCount": 72537,
         "Changelog": "## What's Changed\r\n* Dancer AoE adjustment by @Four-amer in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/354\r\n* Refactor and improve robustness across multiple files and reverted PVP targetting change by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/356\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.78...7.0.5.79"
     },
     {
@@ -64,7 +64,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.127/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.127",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.127/BossModReborn.zip",
-        "DownloadCount": 66513,
+        "DownloadCount": 66560,
         "Changelog": "## What's Changed\r\n* further hint clarification, small fixes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/349\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.126...7.2.0.127"
     },
     {
@@ -122,7 +122,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.0.1.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
-        "DownloadCount": 4858,
+        "DownloadCount": 4859,
         "Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
     },
     {
