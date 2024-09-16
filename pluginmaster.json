@@ -29,7 +29,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.83/RotationSolver.zip",
         "AssemblyVersion": "7.0.5.83",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.83/RotationSolver.zip",
-        "DownloadCount": 73041,
+        "DownloadCount": 73090,
         "Changelog": "## What's Changed\r\n* Update ApiVersion by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/361\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.82...7.0.5.83"
     },
     {
@@ -64,7 +64,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.130/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.130",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.130/BossModReborn.zip",
-        "DownloadCount": 65188,
+        "DownloadCount": 65247,
         "Changelog": "## What's Changed\r\n* dreams of a new day module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/352\r\n* code analyzer fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/353\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.129...7.2.0.130"
     },
     {
