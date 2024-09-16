@@ -29,7 +29,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.85/RotationSolver.zip",
         "AssemblyVersion": "7.0.5.85",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.85/RotationSolver.zip",
-        "DownloadCount": 68584,
+        "DownloadCount": 68789,
         "Changelog": "## What's Changed\r\n* Suppress warnings and refactor time handling in MajorUpdater by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/364\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.84...7.0.5.85"
     },
     {
@@ -64,7 +64,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.131/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.131",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.131/BossModReborn.zip",
-        "DownloadCount": 66892,
+        "DownloadCount": 67218,
         "Changelog": "## What's Changed\r\n* targeting fix, dreams of a new day improvement by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/354\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.130...7.2.0.131"
     },
     {
@@ -156,7 +156,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.8/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.5/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.1.5",
-        "DownloadCount": 67799,
+        "DownloadCount": 67803,
         "Changelog": "## What's Changed\r\n* 7.05 update by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/181\r\n* Fix idle teleporting from inside estate by @oorzkws in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n## New Contributors\r\n* @oorzkws made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.7...7.2.1.8"
     }
 ]
