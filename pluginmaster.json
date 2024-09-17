@@ -61,9 +61,9 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": null,
-        "DownloadLinkUpdate": null,
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.132/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.132",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.132/BossModReborn.zip",
         "DownloadCount": 66211,
         "Changelog": "## What's Changed\r\n* An Antidote for Anarchy healer role quest module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/355\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.131...7.2.0.132"
     },
