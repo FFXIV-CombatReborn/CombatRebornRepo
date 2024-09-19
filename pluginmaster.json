@@ -26,13 +26,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.88/RotationSolver.zip",
-        "AssemblyVersion": "7.0.5.88",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.88/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.91/RotationSolver.zip",
+        "AssemblyVersion": "7.0.5.91",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.91/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.90/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.90",
-        "DownloadCount": 55474,
-        "Changelog": "## What's Changed\r\n* Enhance config handling and improve null safety by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/367\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.87...7.0.5.88"
+        "DownloadCount": 53572,
+        "Changelog": "## What's Changed\r\n* Run on tick by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/373\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.90...7.0.5.91"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.133/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.133",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.133/BossModReborn.zip",
-        "DownloadCount": 72652,
+        "DownloadCount": 72779,
         "Changelog": "## What's Changed\r\n* Ghimlyt Dark modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/357\r\n* code analyzer fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/358\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.132...7.2.0.133"
     },
     {
