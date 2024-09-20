@@ -26,13 +26,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.103/RotationSolver.zip",
-        "AssemblyVersion": "7.0.5.103",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.103/RotationSolver.zip",
-        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.101/RotationSolver.zip",
-        "TestingAssemblyVersion": "7.0.5.101",
-        "DownloadCount": 38368,
-        "Changelog": "## What's Changed\r\n* Revert \"another round of changes\" by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/383\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.101...7.0.5.103"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.93/RotationSolver.zip",
+        "AssemblyVersion": "7.0.5.93",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.93/RotationSolver.zip",
+        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.103/RotationSolver.zip",
+        "TestingAssemblyVersion": "7.0.5.103",
+        "DownloadCount": 40148,
+        "Changelog": "## What's Changed\r\n* Fix for countdown activation not going off by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/375\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.92...7.0.5.93"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.134/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.134",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.134/BossModReborn.zip",
-        "DownloadCount": 75728,
+        "DownloadCount": 75748,
         "Changelog": "## What's Changed\r\n* Snowcloak modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/359\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.133...7.2.0.134"
     },
     {
