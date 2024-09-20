@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.93/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.105/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.105",
-        "DownloadCount": 35717,
+        "DownloadCount": 35782,
         "Changelog": "## What's Changed\r\n* Fix for countdown activation not going off by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/375\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.92...7.0.5.93"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.134/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.134",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.134/BossModReborn.zip",
-        "DownloadCount": 76159,
+        "DownloadCount": 76221,
         "Changelog": "## What's Changed\r\n* Snowcloak modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/359\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.133...7.2.0.134"
     },
     {
@@ -124,7 +124,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.0.1.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
-        "DownloadCount": 4966,
+        "DownloadCount": 4967,
         "Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
     },
     {
