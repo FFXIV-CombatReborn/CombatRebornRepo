@@ -29,9 +29,9 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.93/RotationSolver.zip",
         "AssemblyVersion": "7.0.5.93",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.93/RotationSolver.zip",
-        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.97/RotationSolver.zip",
-        "TestingAssemblyVersion": "7.0.5.97",
-        "DownloadCount": 40177,
+        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.98/RotationSolver.zip",
+        "TestingAssemblyVersion": "7.0.5.98",
+        "DownloadCount": 39481,
         "Changelog": "## What's Changed\r\n* Fix for countdown activation not going off by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/375\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.92...7.0.5.93"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.134/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.134",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.134/BossModReborn.zip",
-        "DownloadCount": 74647,
+        "DownloadCount": 74769,
         "Changelog": "## What's Changed\r\n* Snowcloak modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/359\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.133...7.2.0.134"
     },
     {
