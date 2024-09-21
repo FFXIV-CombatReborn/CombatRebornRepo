@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.110/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.109/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.109",
-        "DownloadCount": 34227,
+        "DownloadCount": 34463,
         "Changelog": "## What's Changed\r\n* Watcher improvments and ComboTime for rotations by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/390\r\n* Added Chocobo Companion to Party List by @Four-amer in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/388\r\n* Update Chocobo code and update ScholarRotation checks by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/391\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.108...7.0.5.110"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.134/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.134",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.134/BossModReborn.zip",
-        "DownloadCount": 78715,
+        "DownloadCount": 78773,
         "Changelog": "## What's Changed\r\n* Snowcloak modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/359\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.133...7.2.0.134"
     },
     {
@@ -158,7 +158,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.8/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.9/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.1.9",
-        "DownloadCount": 63224,
+        "DownloadCount": 63233,
         "Changelog": "## What's Changed\r\n* 7.05 update by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/181\r\n* Fix idle teleporting from inside estate by @oorzkws in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n## New Contributors\r\n* @oorzkws made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.7...7.2.1.8"
     }
 ]
