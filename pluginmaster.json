@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.117/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.116/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.116",
-        "DownloadCount": 31072,
+        "DownloadCount": 31116,
         "Changelog": "## What's Changed\r\n* Allow tracking of MCH Overheated stacks and allow Wildfire use with 5 by @Karaha-Baruha in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/398\r\n* Enhance cooldown info and update debug displays by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/399\r\n\r\n## New Contributors\r\n* @Karaha-Baruha made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/398\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.115...7.0.5.117"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.136/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.136",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.136/BossModReborn.zip",
-        "DownloadCount": 80155,
+        "DownloadCount": 80187,
         "Changelog": "## What's Changed\r\n* Add new AOE mechanics and update state machines for Nier raids by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/362\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.135...7.2.0.136"
     },
     {
