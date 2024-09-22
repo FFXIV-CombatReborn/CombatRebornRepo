@@ -26,13 +26,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.115/RotationSolver.zip",
-        "AssemblyVersion": "7.0.5.115",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.115/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.117/RotationSolver.zip",
+        "AssemblyVersion": "7.0.5.117",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.117/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.116/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.116",
-        "DownloadCount": 32607,
-        "Changelog": "## What's Changed\r\n* Datacentercrashfix by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/397\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.114...7.0.5.115"
+        "DownloadCount": 29754,
+        "Changelog": "## What's Changed\r\n* Allow tracking of MCH Overheated stacks and allow Wildfire use with 5 by @Karaha-Baruha in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/398\r\n* Enhance cooldown info and update debug displays by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/399\r\n\r\n## New Contributors\r\n* @Karaha-Baruha made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/398\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.115...7.0.5.117"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.135/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.135",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.135/BossModReborn.zip",
-        "DownloadCount": 80834,
+        "DownloadCount": 80860,
         "Changelog": "## What's Changed\r\n* Baelsar's wall modules + custom shape performance improvements by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/360\r\n* code analyzer fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/361\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.134...7.2.0.135"
     },
     {
@@ -158,7 +158,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.8/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.9/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.1.9",
-        "DownloadCount": 63439,
+        "DownloadCount": 63440,
         "Changelog": "## What's Changed\r\n* 7.05 update by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/181\r\n* Fix idle teleporting from inside estate by @oorzkws in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n## New Contributors\r\n* @oorzkws made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.7...7.2.1.8"
     }
 ]
