@@ -26,13 +26,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.114/RotationSolver.zip",
-        "AssemblyVersion": "7.0.5.114",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.114/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.115/RotationSolver.zip",
+        "AssemblyVersion": "7.0.5.115",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.115/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.109/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.109",
-        "DownloadCount": 35004,
-        "Changelog": "## What's Changed\r\n* Refactor StateUpdater and update ObjectHelper logic by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/396\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.113...7.0.5.114"
+        "DownloadCount": 32374,
+        "Changelog": "## What's Changed\r\n* Datacentercrashfix by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/397\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.114...7.0.5.115"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.135/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.135",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.135/BossModReborn.zip",
-        "DownloadCount": 80230,
+        "DownloadCount": 80331,
         "Changelog": "## What's Changed\r\n* Baelsar's wall modules + custom shape performance improvements by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/360\r\n* code analyzer fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/361\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.134...7.2.0.135"
     },
     {
