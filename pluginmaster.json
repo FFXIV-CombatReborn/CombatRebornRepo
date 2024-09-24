@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.121/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.119/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.119",
-        "DownloadCount": 33428,
+        "DownloadCount": 33453,
         "Changelog": "## What's Changed\r\n* Enhance thread safety and readability; add error handling by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/406\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.120...7.0.5.121"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.138/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.138",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.138/BossModReborn.zip",
-        "DownloadCount": 82740,
+        "DownloadCount": 82745,
         "Changelog": "## What's Changed\r\n* heroes gauntlet modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/364\r\n* merge vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/365\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.137...7.2.0.138"
     },
     {
