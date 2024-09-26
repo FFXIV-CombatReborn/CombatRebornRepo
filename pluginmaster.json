@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.129/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.119/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.119",
-        "DownloadCount": 32952,
+        "DownloadCount": 33019,
         "Changelog": "## What's Changed\r\n* Refactor and improve performance and readability by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/410\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.124...7.0.5.129"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.142/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.142",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.142/BossModReborn.zip",
-        "DownloadCount": 89165,
+        "DownloadCount": 89235,
         "Changelog": "## What's Changed\r\n* updated waypoint manager stuff by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/378\r\n* deleted now obsolete line by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/379\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.141...7.2.0.142"
     },
     {
@@ -124,7 +124,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.0.1.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
-        "DownloadCount": 5095,
+        "DownloadCount": 5096,
         "Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
     },
     {
