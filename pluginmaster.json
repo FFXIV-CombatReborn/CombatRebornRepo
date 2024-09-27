@@ -26,13 +26,10 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.133/RotationSolver.zip",
-        "AssemblyVersion": "7.0.5.133",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.133/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.119/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.119",
-        "DownloadCount": 36854,
-        "Changelog": "## What's Changed\r\n* Update to include other half of the planet by @BrakusTapus in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/414\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.132...7.0.5.133"
+        "DownloadCount": 35044,
+        "Changelog": "## What's Changed\r\n* Adjusted `WillHaveXCharges` by @Four-amer in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/415\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.133...7.0.5.134"
     },
     {
         "Author": "The Combat Reborn Team",
