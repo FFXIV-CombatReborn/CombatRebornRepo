@@ -26,12 +26,12 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": null,
-        "DownloadLinkUpdate": null,
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.133/RotationSolver.zip",
         "AssemblyVersion": "7.0.5.133",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.133/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.119/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.119",
-        "DownloadCount": 36806,
+        "DownloadCount": 36854,
         "Changelog": "## What's Changed\r\n* Update to include other half of the planet by @BrakusTapus in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/414\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.132...7.0.5.133"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.144/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.144",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.144/BossModReborn.zip",
-        "DownloadCount": 90620,
+        "DownloadCount": 90705,
         "Changelog": "## What's Changed\r\n* fix scholar utility by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/381\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.143...7.2.0.144"
     },
     {
