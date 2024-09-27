@@ -14,14 +14,11 @@ def get_latest_and_latest_pre_release(repo):
     for release in releases:
         if not release["draft"]:  # Ignore draft releases
             if release["prerelease"]:
-                # Update latest_pre_release if it's the first one we've found
                 if latest_pre_release is None:
                     latest_pre_release = release
             else:
-                # Update latest_release if it's the first non-pre-release we've found
                 if latest_release is None:
                     latest_release = release
-            # If we've found both, no need to continue checking
             if latest_release and latest_pre_release:
                 break
 
@@ -31,7 +28,6 @@ def fetch_manifest(repo):
     url = f"https://raw.githubusercontent.com/{repo}/main/manifest.json"
     response = requests.get(url)
     response.raise_for_status()
-    # Decode using 'utf-8-sig' to handle BOM
     content = response.content.decode('utf-8-sig')
     return json.loads(content)
 
@@ -46,17 +42,19 @@ def append_manifest(manifest, latest_release, latest_pre_release):
         manifest["AssemblyVersion"] = latest_release["tag_name"]
         manifest["DownloadLinkUpdate"] = latest_release["assets"][0]["browser_download_url"]
     elif latest_release:
-        print("No assets found in the latest release. Skipping update for latest release info.")
+        print("No assets found in the latest release. Keeping existing download links for the latest release.")
 
+    # Preserve existing links if no new assets are found for the pre-release
     if latest_pre_release and latest_pre_release["assets"]:
         manifest["DownloadLinkTesting"] = latest_pre_release["assets"][0]["browser_download_url"]
         manifest["TestingAssemblyVersion"] = latest_pre_release["tag_name"]
     elif latest_pre_release:
-        print("No assets found in the latest pre-release. Skipping update for latest pre-release info.")
+        print("No assets found in the latest pre-release. Keeping existing download links for the pre-release.")
 
+    # If no stable release but pre-release is available, set pre-release as main
     if latest_release is None and latest_pre_release:
-        manifest["DownloadLinkInstall"] = manifest.get("DownloadLinkTesting")
-        manifest["AssemblyVersion"] = manifest.get("TestingAssemblyVersion")
+        manifest["DownloadLinkInstall"] = manifest.get("DownloadLinkTesting", manifest.get("DownloadLinkInstall"))
+        manifest["AssemblyVersion"] = manifest.get("TestingAssemblyVersion", manifest.get("AssemblyVersion"))
 
     return manifest
 
@@ -75,7 +73,6 @@ def append_download_count(manifest, repo):
     return manifest
 
 def main():
-    # Get repositories from repos.txt
     with open('repos.txt', 'r') as f:
         repos = f.read().splitlines()
 
