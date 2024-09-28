@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.136/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.119/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.119",
-        "DownloadCount": 35466,
+        "DownloadCount": 35527,
         "Changelog": "## What's Changed\r\n* Add new enum value and update targeting conditions by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/418\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.135...7.0.5.136"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.145/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.145",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.145/BossModReborn.zip",
-        "DownloadCount": 94931,
+        "DownloadCount": 94965,
         "Changelog": "## What's Changed\r\n* Daen Ose The Avaricious Typhon variant module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/382\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.144...7.2.0.145"
     },
     {
