@@ -1,1 +1,164 @@
-[]
+[
+    {
+        "Author": "The Combat Reborn Team",
+        "Name": "Rotation Solver Reborn",
+        "InternalName": "RotationSolver",
+        "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "TestingDalamudApiLevel": 10,
+        "Tags": [
+            "combat",
+            "rotation",
+            "auto",
+            "solver",
+            "pve",
+            "pvp"
+        ],
+        "CategoryTags": [
+            "jobs"
+        ],
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
+        "Punchline": "Analyses combat information every frame and finds the best action.",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.139/RotationSolver.zip",
+        "AssemblyVersion": "7.0.5.139",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.139/RotationSolver.zip",
+        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.119/RotationSolver.zip",
+        "TestingAssemblyVersion": "7.0.5.119",
+        "DownloadCount": 48779,
+        "Changelog": "## What's Changed\r\n* Update JSON entries and enhance DataCenter.cs logic by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/421\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.138...7.0.5.139"
+    },
+    {
+        "Author": "The Combat Reborn Team",
+        "Name": "BossMod Reborn",
+        "InternalName": "BossModReborn",
+        "Description": "A bunch of utilities to simplify boss mechanics",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "combat",
+            "boss",
+            "dodge",
+            "mechanics",
+            "pve",
+            "raids",
+            "trials"
+        ],
+        "DalamudApiLevel": 10,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "AcceptsFeedback": true,
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image1.png",
+            "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
+            "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.147/BossModReborn.zip",
+        "AssemblyVersion": "7.2.0.147",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.147/BossModReborn.zip",
+        "DownloadCount": 100251,
+        "Changelog": "## What's Changed\r\n* matoyas relic modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/384\r\n* merge VBM by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/385\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.146...7.2.0.147"
+    },
+    {
+        "Author": "The Combat Reborn Team",
+        "Name": "ActionTimeline Reborn",
+        "InternalName": "ActionTimelineEx",
+        "Description": "Configurable timeline display of all the actions you use.",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "UI"
+        ],
+        "CategoryTags": [
+            "UI"
+        ],
+        "DalamudApiLevel": 10,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/ATR_Icon.png",
+        "Punchline": "Show your actions in real-time.",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/ArchiDog1998/ActionTimelineEx/main/Images/example.gif"
+        ],
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
+        "AssemblyVersion": "7.0.0.0",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
+        "DownloadCount": 4397,
+        "Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/3\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.2...7.0.0.0"
+    },
+    {
+        "Author": "The Combat Reborn Team",
+        "Name": "EasyZoom Reborn",
+        "InternalName": "EasyZoomReborn",
+        "Description": "Easy zoom distance unlock and fov control. /ez opens the EasyZoomReborn configuration window.",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "zoom",
+            "Camera"
+        ],
+        "CategoryTags": [
+            "jobs"
+        ],
+        "DalamudApiLevel": 10,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/EZR_Icon.png",
+        "Punchline": "Easy zoom distance unlock and fov control. /ez opens the EasyZoomReborn configuration window.",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
+        "AssemblyVersion": "7.0.1.1",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
+        "DownloadCount": 5361,
+        "Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
+    },
+    {
+        "Author": "The Combat Reborn Team",
+        "Name": "GatherBuddy Reborn",
+        "InternalName": "GatherbuddyReborn",
+        "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "TestingDalamudApiLevel": 10,
+        "Tags": [
+            "Gathering",
+            "Fishing",
+            "Mining",
+            "Botany",
+            "Weather",
+            "Alarms",
+            "Automatic",
+            "Forager"
+        ],
+        "CategoryTags": [
+            "Jobs",
+            "Utility"
+        ],
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
+        "Punchline": "Simplify Gathering and Fishing to the extreme.",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.8/GatherbuddyReborn.zip",
+        "AssemblyVersion": "7.2.1.8",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.8/GatherbuddyReborn.zip",
+        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.1/GatherbuddyReborn.zip",
+        "TestingAssemblyVersion": "7.2.2.1",
+        "DownloadCount": 62638,
+        "Changelog": "## What's Changed\r\n* 7.05 update by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/181\r\n* Fix idle teleporting from inside estate by @oorzkws in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n## New Contributors\r\n* @oorzkws made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.7...7.2.1.8"
+    }
+]
