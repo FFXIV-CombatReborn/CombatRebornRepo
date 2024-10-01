@@ -41,20 +41,27 @@ def append_changelog(manifest, latest_release):
     return manifest
 
 def append_manifest(manifest, latest_release, latest_pre_release):
-    if latest_release and latest_release["assets"]:
-        manifest["DownloadLinkInstall"] = latest_release["assets"][0]["browser_download_url"]
-        manifest["AssemblyVersion"] = latest_release["tag_name"]
-        manifest["DownloadLinkUpdate"] = latest_release["assets"][0]["browser_download_url"]
-    elif latest_release:
-        print("No assets found in the latest release. Skipping update for latest release info.")
+    if latest_release:
+        if latest_release["assets"]:
+            manifest["DownloadLinkInstall"] = latest_release["assets"][0]["browser_download_url"]
+            manifest["AssemblyVersion"] = latest_release["tag_name"]
+            manifest["DownloadLinkUpdate"] = latest_release["assets"][0]["browser_download_url"]
+        else:
+            print("No assets found in the latest release.")
+            manifest["DownloadLinkInstall"] = None
+            manifest["DownloadLinkUpdate"] = None
+            manifest["AssemblyVersion"] = latest_release["tag_name"]
 
-    if latest_pre_release and latest_pre_release["assets"]:
-        manifest["DownloadLinkTesting"] = latest_pre_release["assets"][0]["browser_download_url"]
-        manifest["TestingAssemblyVersion"] = latest_pre_release["tag_name"]
-    elif latest_pre_release:
-        print("No assets found in the latest pre-release. Skipping update for latest pre-release info.")
+    if latest_pre_release:
+        if latest_pre_release["assets"]:
+            manifest["DownloadLinkTesting"] = latest_pre_release["assets"][0]["browser_download_url"]
+            manifest["TestingAssemblyVersion"] = latest_pre_release["tag_name"]
+        else:
+            print("No assets found in the latest pre-release.")
+            manifest["DownloadLinkTesting"] = None
+            manifest["TestingAssemblyVersion"] = latest_pre_release["tag_name"]
 
-    if latest_release is None and latest_pre_release:
+    if latest_release is None:
         manifest["DownloadLinkInstall"] = manifest.get("DownloadLinkTesting")
         manifest["AssemblyVersion"] = manifest.get("TestingAssemblyVersion")
 
