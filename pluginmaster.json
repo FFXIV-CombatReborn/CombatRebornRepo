@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.140/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 53702,
+        "DownloadCount": 53717,
         "Changelog": "## What's Changed\r\n* Ignore Target for Self-Targeted Area Buffs by @AcePetrucci in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/422\r\n\r\n## New Contributors\r\n* @AcePetrucci made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/422\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.139...7.0.5.140"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.149/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.149",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.149/BossModReborn.zip",
-        "DownloadCount": 101680,
+        "DownloadCount": 101697,
         "Changelog": "## What's Changed\r\n* Thordan extreme module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/387\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.148...7.2.0.149"
     },
     {
