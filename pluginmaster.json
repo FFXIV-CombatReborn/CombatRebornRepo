@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.144/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 58244,
+        "DownloadCount": 58342,
         "Changelog": "## What's Changed\r\n* Add targetQuestThings config and improve UI text labels by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/426\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.143...7.0.5.144"
     },
     {
@@ -63,11 +63,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.151/BossModReborn.zip",
-        "AssemblyVersion": "7.2.0.151",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.151/BossModReborn.zip",
-        "DownloadCount": 98568,
-        "Changelog": "## What's Changed\r\n* merge vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/389\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.150...7.2.0.151"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.152/BossModReborn.zip",
+        "AssemblyVersion": "7.2.0.152",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.152/BossModReborn.zip",
+        "DownloadCount": 93962,
+        "Changelog": "## What's Changed\r\n* stylistic change by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/390\r\n* fix null exception in grand cosmos by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/391\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.151...7.2.0.152"
     },
     {
         "Author": "The Combat Reborn Team",
