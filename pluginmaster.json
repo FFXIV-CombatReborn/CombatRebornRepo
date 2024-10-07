@@ -153,13 +153,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
         "Punchline": "Simplify Gathering and Fishing to the extreme.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.8/GatherbuddyReborn.zip",
-        "AssemblyVersion": "7.2.1.8",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.8/GatherbuddyReborn.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.2/GatherbuddyReborn.zip",
+        "AssemblyVersion": "7.2.2.2",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.2/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.1/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.2.1",
-        "DownloadCount": 63653,
-        "Changelog": "## What's Changed\r\n* 7.05 update by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/181\r\n* Fix idle teleporting from inside estate by @oorzkws in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n## New Contributors\r\n* @oorzkws made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.7...7.2.1.8"
+        "DownloadCount": 63115,
+        "Changelog": "## What's Changed\r\n* Fix not using The Giving Land when target item is a collectable and conditions to use The Giving Land to gather any crystals are met by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/205\r\n* Fix the safety check in GatheringTracker by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/207\r\n* QoL improvements by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/208\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.9...7.2.2.2"
     },
     {
         "Author": "The Combat Reborn Team",
