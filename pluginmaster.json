@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.145/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 62043,
+        "DownloadCount": 62137,
         "Changelog": "## What's Changed\r\n* Don't check for hardcoded delirium stacks for scarlet combo by @Karaha-Baruha in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/427\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.144...7.0.5.145"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.153/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.153",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.153/BossModReborn.zip",
-        "DownloadCount": 94917,
+        "DownloadCount": 94999,
         "Changelog": "## What's Changed\r\n* fix heroes gauntlet b3 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/392\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.152...7.2.0.153"
     },
     {
@@ -124,7 +124,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.0.1.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
-        "DownloadCount": 5553,
+        "DownloadCount": 5554,
         "Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
     },
     {
@@ -183,7 +183,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.1/RebornToolbox.zip",
         "AssemblyVersion": "7.0.5.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.1/RebornToolbox.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 38,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/commits/7.0.5.1"
     }
 ]
