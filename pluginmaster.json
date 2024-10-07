@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.145/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 64272,
+        "DownloadCount": 64452,
         "Changelog": "## What's Changed\r\n* Don't check for hardcoded delirium stacks for scarlet combo by @Karaha-Baruha in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/427\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.144...7.0.5.145"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.153/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.153",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.153/BossModReborn.zip",
-        "DownloadCount": 96971,
+        "DownloadCount": 97169,
         "Changelog": "## What's Changed\r\n* fix heroes gauntlet b3 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/392\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.152...7.2.0.153"
     },
     {
@@ -96,7 +96,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
-        "DownloadCount": 4607,
+        "DownloadCount": 4612,
         "Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/3\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.2...7.0.0.0"
     },
     {
@@ -124,7 +124,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.0.1.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
-        "DownloadCount": 5579,
+        "DownloadCount": 5583,
         "Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
     },
     {
@@ -158,7 +158,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.1.8/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.1/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.2.1",
-        "DownloadCount": 63622,
+        "DownloadCount": 63631,
         "Changelog": "## What's Changed\r\n* 7.05 update by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/181\r\n* Fix idle teleporting from inside estate by @oorzkws in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n## New Contributors\r\n* @oorzkws made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/179\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.7...7.2.1.8"
     },
     {
@@ -183,7 +183,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.2/RebornToolbox.zip",
         "AssemblyVersion": "7.0.5.2",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.2/RebornToolbox.zip",
-        "DownloadCount": 267,
+        "DownloadCount": 307,
         "Changelog": "## What's Changed\r\n* Allagan Tools IPC Improvements by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/1\r\n\r\n## New Contributors\r\n* @NostraThomas99 made their first contribution in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/1\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.0.5.1...7.0.5.2"
     }
 ]
