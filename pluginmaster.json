@@ -177,7 +177,7 @@
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "IsTestingExclusive": false,
-        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/blob/main/IconAssets/BPR_Icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/refs/heads/main/IconAssets/BPR_Icon.png",
         "Punchline": "Let that sink in!",
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.1/RebornToolbox.zip",
