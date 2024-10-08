@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.145/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 65125,
+        "DownloadCount": 65345,
         "Changelog": "## What's Changed\r\n* Don't check for hardcoded delirium stacks for scarlet combo by @Karaha-Baruha in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/427\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.144...7.0.5.145"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.153/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.153",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.153/BossModReborn.zip",
-        "DownloadCount": 97951,
+        "DownloadCount": 98174,
         "Changelog": "## What's Changed\r\n* fix heroes gauntlet b3 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/392\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.152...7.2.0.153"
     },
     {
@@ -96,7 +96,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
-        "DownloadCount": 4623,
+        "DownloadCount": 4624,
         "Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/3\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.2...7.0.0.0"
     },
     {
@@ -124,7 +124,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.0.1.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
-        "DownloadCount": 5589,
+        "DownloadCount": 5591,
         "Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
     },
     {
@@ -158,7 +158,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.2/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.1/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.2.1",
-        "DownloadCount": 63291,
+        "DownloadCount": 63717,
         "Changelog": "## What's Changed\r\n* Fix not using The Giving Land when target item is a collectable and conditions to use The Giving Land to gather any crystals are met by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/205\r\n* Fix the safety check in GatheringTracker by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/207\r\n* QoL improvements by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/208\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.9...7.2.2.2"
     },
     {
@@ -183,7 +183,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.3/RebornToolbox.zip",
         "AssemblyVersion": "7.0.5.3",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.3/RebornToolbox.zip",
-        "DownloadCount": 491,
+        "DownloadCount": 541,
         "Changelog": "## What's Changed\r\n* Fix inventory tracking by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/2\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.0.5.2...7.0.5.3"
     }
 ]
