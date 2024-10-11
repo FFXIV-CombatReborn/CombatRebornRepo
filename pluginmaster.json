@@ -96,7 +96,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.5.1/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.5.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.5.1/ActionTimelineReborn.zip",
-        "DownloadCount": 4860,
+        "DownloadCount": 4865,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.0.0...7.0.5.1"
     },
     {
@@ -180,10 +180,10 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/refs/heads/main/IconAssets/BPR_Icon.png",
         "Punchline": "Let that sink in!",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.5/RebornToolbox.zip",
-        "AssemblyVersion": "7.0.5.5",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.5/RebornToolbox.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.6/RebornToolbox.zip",
+        "AssemblyVersion": "7.0.5.6",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.6/RebornToolbox.zip",
         "DownloadCount": 1820,
-        "Changelog": "## What's Changed\r\n* Improvements to Feather to the Metal by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.0.5.4...7.0.5.5"
+        "Changelog": "## What's Changed\r\n* Supermarket sweep improvements by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.0.5.5...7.0.5.6"
     }
 ]
