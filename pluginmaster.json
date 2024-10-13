@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.147/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 79746,
+        "DownloadCount": 79801,
         "Changelog": "## What's Changed\r\n* Complete PB CanUse Condition by @MillerTheBest in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/430\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.146...7.0.5.147"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.160/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.160",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.160/BossModReborn.zip",
-        "DownloadCount": 103434,
+        "DownloadCount": 103673,
         "Changelog": "## What's Changed\r\n* bardams mettle ai improvement by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/402\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.159...7.2.0.160"
     },
     {
@@ -96,7 +96,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.5.1/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.5.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.5.1/ActionTimelineReborn.zip",
-        "DownloadCount": 5268,
+        "DownloadCount": 5274,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.0.0...7.0.5.1"
     },
     {
@@ -158,7 +158,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.2/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.1/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.2.1",
-        "DownloadCount": 68446,
+        "DownloadCount": 68459,
         "Changelog": "## What's Changed\r\n* Fix not using The Giving Land when target item is a collectable and conditions to use The Giving Land to gather any crystals are met by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/205\r\n* Fix the safety check in GatheringTracker by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/207\r\n* QoL improvements by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/208\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.9...7.2.2.2"
     },
     {
@@ -183,7 +183,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.6/RebornToolbox.zip",
         "AssemblyVersion": "7.0.5.6",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.6/RebornToolbox.zip",
-        "DownloadCount": 2405,
+        "DownloadCount": 2409,
         "Changelog": "## What's Changed\r\n* Supermarket sweep improvements by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.0.5.5...7.0.5.6"
     }
 ]
