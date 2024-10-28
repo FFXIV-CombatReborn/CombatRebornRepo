@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.152/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 108118,
+        "DownloadCount": 108184,
         "Changelog": "## What's Changed\r\n* Handle null values in DataCenter's DispelTarget property more carefully by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/439\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.151...7.0.5.152"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.171/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.171",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.171/BossModReborn.zip",
-        "DownloadCount": 107895,
+        "DownloadCount": 108059,
         "Changelog": "## What's Changed\r\n* some arena fixes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/419\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.170...7.2.0.171"
     },
     {
@@ -96,7 +96,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.5.1/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.5.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.5.1/ActionTimelineReborn.zip",
-        "DownloadCount": 6108,
+        "DownloadCount": 6112,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.0.0...7.0.5.1"
     },
     {
@@ -158,7 +158,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.2/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.1/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.2.1",
-        "DownloadCount": 71593,
+        "DownloadCount": 71598,
         "Changelog": "## What's Changed\r\n* Fix not using The Giving Land when target item is a collectable and conditions to use The Giving Land to gather any crystals are met by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/205\r\n* Fix the safety check in GatheringTracker by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/207\r\n* QoL improvements by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/208\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.1.9...7.2.2.2"
     },
     {
@@ -183,7 +183,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.7/RebornToolbox.zip",
         "AssemblyVersion": "7.0.5.7",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.7/RebornToolbox.zip",
-        "DownloadCount": 4046,
+        "DownloadCount": 4048,
         "Changelog": "## What's Changed\r\n* Feather to the Metal Improvements by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.0.5.6...7.0.5.7"
     }
 ]
