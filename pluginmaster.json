@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.153/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 124016,
+        "DownloadCount": 124030,
         "Changelog": "## What's Changed\r\n* bypass ttk check by @MillerTheBest in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/441\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.152...7.0.5.153"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.177/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.177",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.177/BossModReborn.zip",
-        "DownloadCount": 113746,
+        "DownloadCount": 113791,
         "Changelog": "## What's Changed\r\n* the twinning modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/429\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.176...7.2.0.177"
     },
     {
