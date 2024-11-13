@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.154/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 134443,
+        "DownloadCount": 134455,
         "Changelog": "## What's Changed\r\n* Guren shall be used when 2 or more targets by @MillerTheBest in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/443\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.153...7.0.5.154"
     },
     {
@@ -183,7 +183,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.7/RebornToolbox.zip",
         "AssemblyVersion": "7.0.5.7",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.7/RebornToolbox.zip",
-        "DownloadCount": 4680,
+        "DownloadCount": 4681,
         "Changelog": "## What's Changed\r\n* Feather to the Metal Improvements by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.0.5.6...7.0.5.7"
     }
 ]
