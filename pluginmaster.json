@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.154/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 134512,
+        "DownloadCount": 134524,
         "Changelog": "## What's Changed\r\n* Guren shall be used when 2 or more targets by @MillerTheBest in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/443\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.153...7.0.5.154"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.181/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.181",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.181/BossModReborn.zip",
-        "DownloadCount": 115628,
+        "DownloadCount": 115633,
         "Changelog": "## What's Changed\r\n* xelphatol trash mob modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/434\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.180...7.2.0.181"
     },
     {
@@ -96,7 +96,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.5.1/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.5.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.5.1/ActionTimelineReborn.zip",
-        "DownloadCount": 6635,
+        "DownloadCount": 6636,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.0.0...7.0.5.1"
     },
     {
