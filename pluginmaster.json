@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.154/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 135284,
+        "DownloadCount": 135293,
         "Changelog": "## What's Changed\r\n* Guren shall be used when 2 or more targets by @MillerTheBest in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/443\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.153...7.0.5.154"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.184/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.184",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.184/BossModReborn.zip",
-        "DownloadCount": 110074,
+        "DownloadCount": 110127,
         "Changelog": "## What's Changed\r\n* fixed AI autorotation bug by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/437\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.183...7.2.0.184"
     },
     {
@@ -121,11 +121,11 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/EZR_Icon.png",
         "Punchline": "Easy zoom distance unlock and fov control. /ez opens the EasyZoomReborn configuration window.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.0/EasyZoomReborn.zip",
-        "AssemblyVersion": "7.1.0.0",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.0/EasyZoomReborn.zip",
-        "DownloadCount": 7295,
-        "Changelog": "## What's Changed\r\n* API 11 update by @BrakusTapus in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/7\r\n\r\n## New Contributors\r\n* @BrakusTapus made their first contribution in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/7\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.0.1.1...7.1.0.0"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.1/EasyZoomReborn.zip",
+        "AssemblyVersion": "7.1.0.1",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.1/EasyZoomReborn.zip",
+        "DownloadCount": 7302,
+        "Changelog": "switch from api11 to stg\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.0...7.1.0.1"
     },
     {
         "Author": "The Combat Reborn Team",
