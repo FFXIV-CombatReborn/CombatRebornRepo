@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.154/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 135098,
+        "DownloadCount": 135120,
         "Changelog": "## What's Changed\r\n* Guren shall be used when 2 or more targets by @MillerTheBest in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/443\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.153...7.0.5.154"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.182/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.182",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.182/BossModReborn.zip",
-        "DownloadCount": 114742,
+        "DownloadCount": 114808,
         "Changelog": "## What's Changed\r\n* 7.1 test update by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/435\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.181...7.2.0.182"
     },
     {
@@ -96,7 +96,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.5.1/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.5.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.5.1/ActionTimelineReborn.zip",
-        "DownloadCount": 6649,
+        "DownloadCount": 6650,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.0.0...7.0.5.1"
     },
     {
@@ -124,7 +124,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.0/EasyZoomReborn.zip",
         "AssemblyVersion": "7.1.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.0/EasyZoomReborn.zip",
-        "DownloadCount": 7152,
+        "DownloadCount": 7173,
         "Changelog": "## What's Changed\r\n* API 11 update by @BrakusTapus in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/7\r\n\r\n## New Contributors\r\n* @BrakusTapus made their first contribution in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/7\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.0.1.1...7.1.0.0"
     },
     {
@@ -183,7 +183,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.7/RebornToolbox.zip",
         "AssemblyVersion": "7.0.5.7",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.0.5.7/RebornToolbox.zip",
-        "DownloadCount": 4689,
+        "DownloadCount": 4690,
         "Changelog": "## What's Changed\r\n* Feather to the Metal Improvements by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.0.5.6...7.0.5.7"
     }
 ]
