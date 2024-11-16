@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.2/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 131766,
+        "DownloadCount": 131833,
         "Changelog": "## What's Changed\r\n* Add validation for invalid territory id in ClientState by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/445\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.0.1...7.1.0.2"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.189/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.189",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.189/BossModReborn.zip",
-        "DownloadCount": 96610,
+        "DownloadCount": 96846,
         "Changelog": "## What's Changed\r\n* merge Byakko unreal by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/442\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.188...7.2.0.189"
     },
     {
@@ -96,7 +96,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.5.1/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.0.5.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.5.1/ActionTimelineReborn.zip",
-        "DownloadCount": 6674,
+        "DownloadCount": 6675,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.0.0...7.0.5.1"
     },
     {
@@ -124,7 +124,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.1.0.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.1/EasyZoomReborn.zip",
-        "DownloadCount": 8214,
+        "DownloadCount": 8221,
         "Changelog": "switch from api11 to stg\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.0...7.1.0.1"
     },
     {
