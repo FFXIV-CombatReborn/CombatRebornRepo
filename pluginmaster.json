@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.2/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 132182,
+        "DownloadCount": 132214,
         "Changelog": "## What's Changed\r\n* Add validation for invalid territory id in ClientState by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/445\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.0.1...7.1.0.2"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.189/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.189",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.189/BossModReborn.zip",
-        "DownloadCount": 97797,
+        "DownloadCount": 97853,
         "Changelog": "## What's Changed\r\n* merge Byakko unreal by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/442\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.188...7.2.0.189"
     },
     {
@@ -124,7 +124,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.1.0.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.1/EasyZoomReborn.zip",
-        "DownloadCount": 8307,
+        "DownloadCount": 8318,
         "Changelog": "switch from api11 to stg\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.0...7.1.0.1"
     },
     {
@@ -158,7 +158,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.6/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.3/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.2.3",
-        "DownloadCount": 68227,
+        "DownloadCount": 68327,
         "Changelog": "## What's Changed\r\n* Fix for vnavmesh rebuilding mesh in loop by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/232\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.5...7.2.2.6"
     },
     {
