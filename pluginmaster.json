@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.2/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 131933,
+        "DownloadCount": 132020,
         "Changelog": "## What's Changed\r\n* Add validation for invalid territory id in ClientState by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/445\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.0.1...7.1.0.2"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.189/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.189",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.189/BossModReborn.zip",
-        "DownloadCount": 97186,
+        "DownloadCount": 97393,
         "Changelog": "## What's Changed\r\n* merge Byakko unreal by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/442\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.188...7.2.0.189"
     },
     {
@@ -124,7 +124,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.1.0.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.1/EasyZoomReborn.zip",
-        "DownloadCount": 8243,
+        "DownloadCount": 8257,
         "Changelog": "switch from api11 to stg\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.0...7.1.0.1"
     },
     {
@@ -153,13 +153,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
         "Punchline": "Simplify Gathering and Fishing to the extreme.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.4/GatherbuddyReborn.zip",
-        "AssemblyVersion": "7.2.2.4",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.4/GatherbuddyReborn.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.5/GatherbuddyReborn.zip",
+        "AssemblyVersion": "7.2.2.5",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.5/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.3/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.2.3",
-        "DownloadCount": 68692,
-        "Changelog": "## What's Changed\r\n* Preliminary 7.1 update by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/229\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.3...7.2.2.4"
+        "DownloadCount": 68527,
+        "Changelog": "## What's Changed\r\n* 7.1 update part 2 by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/230\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.4...7.2.2.5"
     },
     {
         "Author": "The Combat Reborn Team",
