@@ -26,13 +26,13 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.3/RotationSolver.zip",
-        "AssemblyVersion": "7.1.0.3",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.3/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.4/RotationSolver.zip",
+        "AssemblyVersion": "7.1.0.4",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.4/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 132428,
-        "Changelog": "## What's Changed\r\n* Update ECommons submodule and add null checks to prevent bricking due to statuses without names by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/446\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.0.2...7.1.0.3"
+        "DownloadCount": 130297,
+        "Changelog": "## What's Changed\r\n* Add WrathCombo plugin to incompatible list and update ECommons by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/447\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.0.3...7.1.0.4"
     },
     {
         "Author": "The Combat Reborn Team",
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.192/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.192",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.192/BossModReborn.zip",
-        "DownloadCount": 93245,
+        "DownloadCount": 93292,
         "Changelog": "## What's Changed\r\n* another sphene test by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/445\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.191...7.2.0.192"
     },
     {
@@ -124,7 +124,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.1/EasyZoomReborn.zip",
         "AssemblyVersion": "7.1.0.1",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.1/EasyZoomReborn.zip",
-        "DownloadCount": 8991,
+        "DownloadCount": 8999,
         "Changelog": "switch from api11 to stg\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.0...7.1.0.1"
     },
     {
@@ -158,7 +158,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.6/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.3/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.2.3",
-        "DownloadCount": 70786,
+        "DownloadCount": 70802,
         "Changelog": "## What's Changed\r\n* Fix for vnavmesh rebuilding mesh in loop by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/232\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.5...7.2.2.6"
     },
     {
