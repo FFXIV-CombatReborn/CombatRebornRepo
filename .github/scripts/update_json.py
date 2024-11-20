@@ -66,9 +66,14 @@ def append_download_count(manifest, repo):
         for release in releases:
             for asset in release["assets"]:
                 download_count += asset["download_count"]
+
         if "link" in response.headers:
             links = response.headers["link"]
-            next_link = [link.split(";")[0].strip("<>") for link in links.split(",") if 'rel="next"' in link]
+            next_link = [
+                link.split(";")[0].strip("<>")
+                for link in links.split(",")
+                if 'rel="next"' in link
+            ]
             url = next_link[0] if next_link else None
         else:
             url = None
