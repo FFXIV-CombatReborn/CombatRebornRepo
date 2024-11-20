@@ -1,6 +1,7 @@
 import requests
 import json
 import os
+from requests.utils import parse_header_links
 
 def get_latest_and_latest_pre_release(repo):
     url = f"https://api.github.com/repos/{repo}/releases"
@@ -54,7 +55,7 @@ def append_manifest(manifest, latest_release, latest_pre_release):
     return manifest
 
 def append_download_count(manifest, repo):
-    url = f"https://api.github.com/repos/{repo}/releases"
+    url = f"https://api.github.com/repos/{repo}/releases?per_page=100"
     headers = {"Accept": "application/vnd.github.v3+json"}
     download_count = 0
 
@@ -67,14 +68,15 @@ def append_download_count(manifest, repo):
             for asset in release["assets"]:
                 download_count += asset["download_count"]
 
-        if "link" in response.headers:
-            links = response.headers["link"]
-            next_link = [
-                link.split(";")[0].strip("<>")
-                for link in links.split(",")
-                if 'rel="next"' in link
-            ]
-            url = next_link[0] if next_link else None
+        links = response.headers.get("link", "")
+        if links:
+            parsed_links = parse_header_links(links)
+            next_url = None
+            for link in parsed_links:
+                if link.get("rel") == "next":
+                    next_url = link.get("url")
+                    break
+            url = next_url
         else:
             url = None
 
