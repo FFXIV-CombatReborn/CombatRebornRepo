@@ -54,9 +54,14 @@ def append_manifest(manifest, latest_release, latest_pre_release):
         manifest["AssemblyVersion"] = manifest["TestingAssemblyVersion"]
     return manifest
 
+GITHUB_TOKEN = "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"
+
 def append_download_count(manifest, repo):
     url = f"https://api.github.com/repos/{repo}/releases?per_page=100"
-    headers = {"Accept": "application/vnd.github.v3+json"}
+    headers = {
+        "Accept": "application/vnd.github.v3+json",
+        "Authorization": f"token {GITHUB_TOKEN}"
+    }
     download_count = 0
 
     while url:
