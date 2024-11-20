@@ -55,14 +55,23 @@ def append_manifest(manifest, latest_release, latest_pre_release):
 
 def append_download_count(manifest, repo):
     url = f"https://api.github.com/repos/{repo}/releases"
-    response = requests.get(url)
-    response.raise_for_status()
-    releases = response.json()
-
+    headers = {"Accept": "application/vnd.github.v3+json"}
     download_count = 0
-    for release in releases:
-        for asset in release["assets"]:
-            download_count += asset["download_count"]
+
+    while url:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        releases = response.json()
+
+        for release in releases:
+            for asset in release["assets"]:
+                download_count += asset["download_count"]
+        if "link" in response.headers:
+            links = response.headers["link"]
+            next_link = [link.split(";")[0].strip("<>") for link in links.split(",") if 'rel="next"' in link]
+            url = next_link[0] if next_link else None
+        else:
+            url = None
 
     manifest["DownloadCount"] = download_count
     return manifest
