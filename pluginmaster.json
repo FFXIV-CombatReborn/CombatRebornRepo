@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.6/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 134031,
+        "DownloadCount": 134132,
         "Changelog": "## What's Changed\r\n* Rename and update NPC Heal/Raise config setting by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/448\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.0.5...7.1.0.6"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.193/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.193",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.193/BossModReborn.zip",
-        "DownloadCount": 95072,
+        "DownloadCount": 95196,
         "Changelog": "## What's Changed\r\n* Yuweyawata Field Station modules, bug fixes, merge vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/446\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.192...7.2.0.193"
     },
     {
@@ -158,7 +158,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.7/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.3/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.2.3",
-        "DownloadCount": 73191,
+        "DownloadCount": 73211,
         "Changelog": "## What's Changed\r\n* Fix several spelling errors by @phecdaDia in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/231\r\n* 7.1 update part 3 by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/233\r\n* Qol improvements by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/235\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.6...7.2.2.7"
     },
     {
