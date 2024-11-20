@@ -1,7 +1,6 @@
 import requests
 import json
 import os
-from requests.utils import parse_header_links
 
 def get_latest_and_latest_pre_release(repo):
     url = f"https://api.github.com/repos/{repo}/releases"
@@ -54,36 +53,16 @@ def append_manifest(manifest, latest_release, latest_pre_release):
         manifest["AssemblyVersion"] = manifest["TestingAssemblyVersion"]
     return manifest
 
-GITHUB_TOKEN = "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"
-
 def append_download_count(manifest, repo):
-    url = f"https://api.github.com/repos/{repo}/releases?per_page=100"
-    headers = {
-        "Accept": "application/vnd.github.v3+json",
-        "Authorization": f"token {GITHUB_TOKEN}"
-    }
+    url = f"https://api.github.com/repos/{repo}/releases"
+    response = requests.get(url)
+    response.raise_for_status()
+    releases = response.json()
+
     download_count = 0
-
-    while url:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-        releases = response.json()
-
-        for release in releases:
-            for asset in release["assets"]:
-                download_count += asset["download_count"]
-
-        links = response.headers.get("link", "")
-        if links:
-            parsed_links = parse_header_links(links)
-            next_url = None
-            for link in parsed_links:
-                if link.get("rel") == "next":
-                    next_url = link.get("url")
-                    break
-            url = next_url
-        else:
-            url = None
+    for release in releases:
+        for asset in release["assets"]:
+            download_count += asset["download_count"]
 
     manifest["DownloadCount"] = download_count
     return manifest
