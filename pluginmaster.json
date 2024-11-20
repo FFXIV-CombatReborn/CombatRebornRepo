@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.6/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 135158,
+        "DownloadCount": 135163,
         "Changelog": "## What's Changed\r\n* Rename and update NPC Heal/Raise config setting by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/448\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.0.5...7.1.0.6"
     },
     {
@@ -63,11 +63,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.194/BossModReborn.zip",
-        "AssemblyVersion": "7.2.0.194",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.194/BossModReborn.zip",
-        "DownloadCount": 91339,
-        "Changelog": "## What's Changed\r\n* small change by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/447\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.193...7.2.0.194"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.195/BossModReborn.zip",
+        "AssemblyVersion": "7.2.0.195",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.195/BossModReborn.zip",
+        "DownloadCount": 87200,
+        "Changelog": "## What's Changed\r\n* Yuweyawata Field Station trash modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/448\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.194...7.2.0.195"
     },
     {
         "Author": "The Combat Reborn Team",
