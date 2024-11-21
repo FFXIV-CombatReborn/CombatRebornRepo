@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.7/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
         "TestingAssemblyVersion": "7.0.5.141",
-        "DownloadCount": 138493,
+        "DownloadCount": 138739,
         "Changelog": "Update for Dalamud Full Release\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.0.6...7.1.0.7"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.196/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.196",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.196/BossModReborn.zip",
-        "DownloadCount": 91033,
+        "DownloadCount": 91378,
         "Changelog": "## What's Changed\r\n* Halatali modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/449\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.195...7.2.0.196"
     },
     {
@@ -124,7 +124,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.2/EasyZoomReborn.zip",
         "AssemblyVersion": "7.1.0.2",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.2/EasyZoomReborn.zip",
-        "DownloadCount": 9996,
+        "DownloadCount": 10087,
         "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.1...7.1.0.2"
     },
     {
@@ -158,7 +158,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.7/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.3/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.2.3",
-        "DownloadCount": 75425,
+        "DownloadCount": 75542,
         "Changelog": "## What's Changed\r\n* Fix several spelling errors by @phecdaDia in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/231\r\n* 7.1 update part 3 by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/233\r\n* Qol improvements by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/235\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.6...7.2.2.7"
     },
     {
