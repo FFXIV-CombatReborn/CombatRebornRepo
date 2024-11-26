@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.7/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.8/RotationSolver.zip",
         "TestingAssemblyVersion": "7.1.0.8",
-        "DownloadCount": 147709,
+        "DownloadCount": 147712,
         "Changelog": "Update for Dalamud Full Release\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.0.6...7.1.0.7"
     },
     {
@@ -63,11 +63,11 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.205/BossModReborn.zip",
-        "AssemblyVersion": "7.2.0.205",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.205/BossModReborn.zip",
-        "DownloadCount": 89694,
-        "Changelog": "## What's Changed\r\n* small jeuno improvements by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/465\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.204...7.2.0.205"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.206/BossModReborn.zip",
+        "AssemblyVersion": "7.2.0.206",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.206/BossModReborn.zip",
+        "DownloadCount": 86888,
+        "Changelog": "## What's Changed\r\n* small perf optimisation by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/466\r\n* jeuno trash mob modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/467\r\n* Jeuno trash modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/468\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.205...7.2.0.206"
     },
     {
         "Author": "The Combat Reborn Team",
