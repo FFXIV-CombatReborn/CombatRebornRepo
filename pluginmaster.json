@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.7/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.8/RotationSolver.zip",
         "TestingAssemblyVersion": "7.1.0.8",
-        "DownloadCount": 147762,
+        "DownloadCount": 147775,
         "Changelog": "Update for Dalamud Full Release\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.0.6...7.1.0.7"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.206/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.206",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.206/BossModReborn.zip",
-        "DownloadCount": 87011,
+        "DownloadCount": 87093,
         "Changelog": "## What's Changed\r\n* small perf optimisation by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/466\r\n* jeuno trash mob modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/467\r\n* Jeuno trash modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/468\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.205...7.2.0.206"
     },
     {
@@ -96,7 +96,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.1.0.0/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.1.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.1.0.0/ActionTimelineReborn.zip",
-        "DownloadCount": 7649,
+        "DownloadCount": 7650,
         "Changelog": "## What's Changed\r\n* Api11 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.5.1...7.1.0.0"
     },
     {
@@ -158,7 +158,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.10/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.3/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.2.3",
-        "DownloadCount": 90620,
+        "DownloadCount": 90634,
         "Changelog": "## What's Changed\r\n* Added Gatherer's Boon Actions by @EstZw3i in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/244\r\n* Proposal: remove the option to disable advanced unstuck by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/245\r\n* Extend base_gathering table by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/247\r\n\r\n## New Contributors\r\n* @EstZw3i made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/244\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.9...7.2.2.10"
     },
     {
@@ -183,7 +183,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.0.0/RebornToolbox.zip",
         "AssemblyVersion": "7.1.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.0.0/RebornToolbox.zip",
-        "DownloadCount": 6038,
+        "DownloadCount": 6039,
         "Changelog": "## What's Changed\r\n* Api11 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/8\r\n* Update manifest.json by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/9\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.0.5.7...7.1.0.0"
     }
 ]
