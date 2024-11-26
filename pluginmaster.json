@@ -31,7 +31,7 @@
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.7/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.8/RotationSolver.zip",
         "TestingAssemblyVersion": "7.1.0.8",
-        "DownloadCount": 147712,
+        "DownloadCount": 147723,
         "Changelog": "Update for Dalamud Full Release\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.0.6...7.1.0.7"
     },
     {
@@ -66,7 +66,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.206/BossModReborn.zip",
         "AssemblyVersion": "7.2.0.206",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.206/BossModReborn.zip",
-        "DownloadCount": 86888,
+        "DownloadCount": 86889,
         "Changelog": "## What's Changed\r\n* small perf optimisation by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/466\r\n* jeuno trash mob modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/467\r\n* Jeuno trash modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/468\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.205...7.2.0.206"
     },
     {
@@ -96,7 +96,7 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.1.0.0/ActionTimelineReborn.zip",
         "AssemblyVersion": "7.1.0.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.1.0.0/ActionTimelineReborn.zip",
-        "DownloadCount": 7644,
+        "DownloadCount": 7646,
         "Changelog": "## What's Changed\r\n* Api11 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.5.1...7.1.0.0"
     },
     {
