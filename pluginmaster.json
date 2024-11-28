@@ -62,10 +62,10 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.208/BossModReborn.zip",
-        "AssemblyVersion": "7.2.0.208",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.208/BossModReborn.zip",
-        "Changelog": "## What's Changed\r\n* Jeuno improvements, async AI, other improvements by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/470\r\n* code analyzer fixes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/471\r\n* code analyzer bs by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/472\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.207...7.2.0.208"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.209/BossModReborn.zip",
+        "AssemblyVersion": "7.2.0.209",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.209/BossModReborn.zip",
+        "Changelog": "## What's Changed\r\n* restored accidently deleted code by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/473\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.208...7.2.0.209"
     },
     {
         "Author": "The Combat Reborn Team",
