@@ -26,12 +26,12 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
         "Punchline": "Analyses combat information every frame and finds the best action.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.10/RotationSolver.zip",
-        "AssemblyVersion": "7.1.0.10",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.10/RotationSolver.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.11/RotationSolver.zip",
+        "AssemblyVersion": "7.1.0.11",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.11/RotationSolver.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.8/RotationSolver.zip",
         "TestingAssemblyVersion": "7.1.0.8",
-        "Changelog": "## What's Changed\r\n* Update ECommons submodule and improve null checks by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/452\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.0.9...7.1.0.10"
+        "Changelog": "## What's Changed\r\n* Fix NullReferenceException in IsActionEnabled method by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/453\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.0.10...7.1.0.11"
     },
     {
         "Author": "The Combat Reborn Team",
