@@ -62,10 +62,10 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.210/BossModReborn.zip",
-        "AssemblyVersion": "7.2.0.210",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.210/BossModReborn.zip",
-        "Changelog": "## What's Changed\r\n* fixed AI behaviour condition by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/474\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.209...7.2.0.210"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.211/BossModReborn.zip",
+        "AssemblyVersion": "7.2.0.211",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.211/BossModReborn.zip",
+        "Changelog": "## What's Changed\r\n* Dohn Mheg arena shape improvement by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/475\r\n* Neyoozoteel 7.1 addition by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/476\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.210...7.2.0.211"
     },
     {
         "Author": "The Combat Reborn Team",
