@@ -149,12 +149,12 @@
         "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
         "Punchline": "Simplify Gathering and Fishing to the extreme.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.12/GatherbuddyReborn.zip",
-        "AssemblyVersion": "7.2.2.12",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.12/GatherbuddyReborn.zip",
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.13/GatherbuddyReborn.zip",
+        "AssemblyVersion": "7.2.2.13",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.13/GatherbuddyReborn.zip",
         "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.3/GatherbuddyReborn.zip",
         "TestingAssemblyVersion": "7.2.2.3",
-        "Changelog": "## What's Changed\r\n* Config presets bug fixes by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/253\r\n* Smallest of typos, literally by @StarkITA in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/255\r\n\r\n## New Contributors\r\n* @StarkITA made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/255\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.11...7.2.2.12"
+        "Changelog": "## What's Changed\r\n* Fixes by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/258\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.12...7.2.2.13"
     },
     {
         "Author": "The Combat Reborn Team",
