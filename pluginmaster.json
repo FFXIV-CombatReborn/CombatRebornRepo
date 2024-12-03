@@ -29,8 +29,8 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.0/RotationSolver.zip",
         "AssemblyVersion": "7.1.1.0",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.0/RotationSolver.zip",
-        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.12/RotationSolver.zip",
-        "TestingAssemblyVersion": "7.1.0.12",
+        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.1/RotationSolver.zip",
+        "TestingAssemblyVersion": "7.1.1.1",
         "Changelog": "## What's Changed\r\n* Update various JSON files with new and modified entries by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/457\r\n* Update versioning to match game patch\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.0.14...7.1.1.0"
     },
     {
