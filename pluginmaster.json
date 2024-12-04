@@ -62,10 +62,10 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.215/BossModReborn.zip",
-        "AssemblyVersion": "7.2.0.215",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.215/BossModReborn.zip",
-        "Changelog": "## What's Changed\r\n* shadow lord tower fix, merge vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/481\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.214...7.2.0.215"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.216/BossModReborn.zip",
+        "AssemblyVersion": "7.2.0.216",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.216/BossModReborn.zip",
+        "Changelog": "## What's Changed\r\n* DT A Ranks 7.1 by @Shinryin in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/482\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.215...7.2.0.216"
     },
     {
         "Author": "The Combat Reborn Team",
