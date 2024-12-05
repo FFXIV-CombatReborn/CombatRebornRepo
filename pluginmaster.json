@@ -29,8 +29,8 @@
         "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.4/RotationSolver.zip",
         "AssemblyVersion": "7.1.1.4",
         "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.4/RotationSolver.zip",
-        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.7/RotationSolver.zip",
-        "TestingAssemblyVersion": "7.1.1.7",
+        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.8/RotationSolver.zip",
+        "TestingAssemblyVersion": "7.1.1.8",
         "Changelog": "## What's Changed\r\n* Refactor PrioTarget system and enhance various functionalities by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/460\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.1.3...7.1.1.4"
     },
     {
