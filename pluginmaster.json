@@ -62,10 +62,10 @@
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
         ],
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.217/BossModReborn.zip",
-        "AssemblyVersion": "7.2.0.217",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.217/BossModReborn.zip",
-        "Changelog": "## What's Changed\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.216...7.2.0.217"
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.218/BossModReborn.zip",
+        "AssemblyVersion": "7.2.0.218",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.218/BossModReborn.zip",
+        "Changelog": "## What's Changed\r\n* Merge FRU improvements from vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/485\r\n* some stylistic changes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/486\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.217...7.2.0.218"
     },
     {
         "Author": "The Combat Reborn Team",
