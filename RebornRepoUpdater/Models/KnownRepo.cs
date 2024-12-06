@@ -20,7 +20,7 @@ public class KnownRepo
         await EnsureRateLimitAsync(client);
 
         var jsonContent =
-            await client.Repository.Content.GetAllContents(ProjectName, OrganizationName, ManifestFilePath);
+            await client.Repository.Content.GetAllContents(OrganizationName, ProjectName, ManifestFilePath);
         var json = jsonContent.First().Content;
         var manifest = JsonConvert.DeserializeObject<PluginManifest>(json);
         Manifest = manifest;
@@ -47,8 +47,10 @@ public class KnownRepo
             {
                 Console.WriteLine($"Latest stable release: {latestRelease.Name}");
                 Manifest.AssemblyVersion = latestRelease.TagName;
-                Manifest.DownloadLinkInstall =
-                    latestRelease.Assets.First(a => a.Name.EndsWith(".zip")).BrowserDownloadUrl;
+                var downloadLink = latestRelease.Assets.First(a => a.Name.EndsWith(".zip")).BrowserDownloadUrl;
+                Manifest.DownloadLinkInstall = downloadLink;
+                Manifest.DownloadLinkUpdate = downloadLink;
+
                 Manifest.Changelog = latestRelease.Body; // Release notes or changelog
             }
             else
@@ -67,8 +69,8 @@ public class KnownRepo
             {
                 Console.WriteLine($"Latest testing release: {latestTestingRelease.Name}");
                 Manifest.TestingAssemblyVersion = latestTestingRelease.TagName;
-                Manifest.DownloadLinkTesting =
-                    latestTestingRelease.Assets.First(a => a.Name.EndsWith(".zip")).BrowserDownloadUrl;
+                var downloadLinkTesting = latestTestingRelease.Assets.First(a => a.Name.EndsWith(".zip")).BrowserDownloadUrl;
+                Manifest.DownloadLinkTesting = downloadLinkTesting;
             }
             else
             {

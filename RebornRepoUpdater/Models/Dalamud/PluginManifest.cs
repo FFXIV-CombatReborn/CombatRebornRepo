@@ -17,12 +17,13 @@ public class PluginManifest
 
     [JsonProperty("DalamudApiLevel")] public int DalamudApiLevel { get; set; }
 
-    [JsonProperty("TestingDalamudApiLevel")]
+    [JsonProperty("TestingDalamudApiLevel", NullValueHandling = NullValueHandling.Ignore)]
     public int TestingDalamudApiLevel { get; set; }
 
-    [JsonProperty("Tags")] public List<string> Tags { get; set; }
+    [JsonProperty("Tags", NullValueHandling = NullValueHandling.Ignore)] public List<string> Tags { get; set; }
 
-    [JsonProperty("CategoryTags")] public List<string> CategoryTags { get; set; }
+    [JsonProperty("CategoryTags", NullValueHandling = NullValueHandling.Ignore)]
+    public List<string> CategoryTags { get; set; }
 
     [JsonProperty("LoadRequiredState")] public int LoadRequiredState { get; set; }
 
@@ -58,15 +59,10 @@ public class PluginManifest
     [JsonProperty("Changelog", NullValueHandling = NullValueHandling.Ignore)]
     public string? Changelog { get; set; }
 
-    [JsonProperty("DownloadCount")]
-    public string DownloadCount => $"{DownloadCountInt}";
-
-    [JsonIgnore]
-    public int DownloadCountInt { get; private set; }
+    [JsonProperty("DownloadCount")] public int DownloadCount { get; private set; }
 
     public void SetDownloadCount(IEnumerable<Release> releases)
     {
-        DownloadCountInt = releases.Sum(r => r.Assets.Sum(a => a.DownloadCount));
+        DownloadCount = releases.Sum(r => r.Assets.Sum(a => a.DownloadCount));
     }
-
 }
