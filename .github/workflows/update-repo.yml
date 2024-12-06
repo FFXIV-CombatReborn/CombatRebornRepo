@@ -11,28 +11,29 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-    - name: Check out repository
-      uses: actions/checkout@v2
+      - name: Check out repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.x'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests
+      - name: Restore dependencies
+        run: dotnet restore
 
-    - name: Check for new plugin release and update JSON
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: python .github/scripts/update_json.py
+      - name: Build project
+        run: dotnet build --configuration Release
 
-    - name: Commit and push if changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add -A
-        git commit -m "Update Dalamud repository JSON" -a || echo "No changes to commit"
-        git push
+      - name: Update JSON using .NET tool
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: dotnet run --project RebornRepoUpdater --path "./pluginmaster.json" --token "${{ secrets.GITHUB_TOKEN }}"
+
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update Dalamud repository JSON" -a || echo "No changes to commit"
+          git push
