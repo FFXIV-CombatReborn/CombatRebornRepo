@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.9/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.1.9",
     "Changelog": "## What's Changed\r\n* Code cleanup pass by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/467\r\n* Update ECommons, attempt to fix Jeuno Boss immunity checks by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/468\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.1.8...7.1.1.10",
-    "DownloadCount": 464886
+    "DownloadCount": 464921
   },
   {
     "Author": "The Combat Reborn Team",
@@ -51,7 +51,6 @@
       "raids",
       "trials"
     ],
-    "CategoryTags": null,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -66,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Merge FRU improvements from vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/485\r\n* some stylistic changes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/486\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.217...7.2.0.218",
-    "DownloadCount": 639169
+    "DownloadCount": 639210
   },
   {
     "Author": "The Combat Reborn Team",
@@ -175,7 +174,6 @@
       "Toolbox",
       "Reborn"
     ],
-    "CategoryTags": null,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
