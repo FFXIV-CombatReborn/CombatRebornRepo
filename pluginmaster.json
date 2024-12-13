@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.9/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.1.9",
     "Changelog": "## What's Changed\r\n* make the card status public, and use the new status internaly by @ShalolaAuthor in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/470\r\n\r\n## New Contributors\r\n* @ShalolaAuthor made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/470\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.1.11...7.1.1.12",
-    "DownloadCount": 482061
+    "DownloadCount": 482110
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* jeuno improvements by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/498\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.226...7.2.0.227",
-    "DownloadCount": 673062
+    "DownloadCount": 673156
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.1.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.2/EasyZoomReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.1...7.1.0.2",
-    "DownloadCount": 13362
+    "DownloadCount": 13365
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.14/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.14",
     "Changelog": "## What's Changed\r\n* Fixes by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/258\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.12...7.2.2.13",
-    "DownloadCount": 135892
+    "DownloadCount": 135898
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.1.1.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.1.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Lifestream enhancements by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/10\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.1.0.0...7.1.1.1",
-    "DownloadCount": 8286
+    "DownloadCount": 8288
   }
 ]
