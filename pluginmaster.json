@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.9/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.1.9",
     "Changelog": "## What's Changed\r\n* Basic BLU Rotation by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/477\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.1.17...7.1.1.18",
-    "DownloadCount": 492600
+    "DownloadCount": 492658
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* small fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/502\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.230...7.2.0.231",
-    "DownloadCount": 684583
+    "DownloadCount": 684743
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.1.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.2/EasyZoomReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.1...7.1.0.2",
-    "DownloadCount": 13474
+    "DownloadCount": 13475
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.15/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.15",
     "Changelog": "## What's Changed\r\n* Fixes by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/258\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.12...7.2.2.13",
-    "DownloadCount": 136777
+    "DownloadCount": 136781
   },
   {
     "Author": "The Combat Reborn Team",
