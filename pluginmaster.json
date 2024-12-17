@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.9/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.1.9",
     "Changelog": "## What's Changed\r\n* MIsc fixes for BRD based on 3rd party work by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/478\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.1.18...7.1.1.19",
-    "DownloadCount": 495364
+    "DownloadCount": 495436
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* FRU fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/504\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.232...7.2.0.233",
-    "DownloadCount": 690323
+    "DownloadCount": 690396
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.15/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.15",
     "Changelog": "## What's Changed\r\n* Fixes by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/258\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.12...7.2.2.13",
-    "DownloadCount": 136949
+    "DownloadCount": 136952
   },
   {
     "Author": "The Combat Reborn Team",
