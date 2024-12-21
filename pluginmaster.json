@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.9/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.1.9",
     "Changelog": "## What's Changed\r\n* Support job icons for base classes (WAR, CNJ, etc.) by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/484\r\n* Attempt to fix mudra and fix for Ninki cap protection by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/485\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.4...7.1.5.5",
-    "DownloadCount": 513915
+    "DownloadCount": 513935
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.234/BossModReborn.zip",
-    "AssemblyVersion": "7.2.0.234",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.234/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.235/BossModReborn.zip",
+    "AssemblyVersion": "7.2.0.235",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.235/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* vanguard map fixes, manual targeting option for AI by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/505\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.233...7.2.0.234",
-    "DownloadCount": 703708
+    "Changelog": "## What's Changed\r\n* Sohr Khai modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/506\r\n* code analyzer fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/507\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.234...7.2.0.235",
+    "DownloadCount": 703714
   },
   {
     "Author": "The Combat Reborn Team",
