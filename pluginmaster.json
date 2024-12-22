@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.9/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.1.9",
     "Changelog": "## What's Changed\r\n* Support job icons for base classes (WAR, CNJ, etc.) by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/484\r\n* Attempt to fix mudra and fix for Ninki cap protection by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/485\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.4...7.1.5.5",
-    "DownloadCount": 517556
+    "DownloadCount": 517579
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.237/BossModReborn.zip",
-    "AssemblyVersion": "7.2.0.237",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.237/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.238/BossModReborn.zip",
+    "AssemblyVersion": "7.2.0.238",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.238/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* Sohr Khai improvements, Aetherfront improvements, Hiruko improvements… by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/510\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.236...7.2.0.237",
-    "DownloadCount": 712034
+    "Changelog": "## What's Changed\r\n* rollback multi monitor change by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/512\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.237...7.2.0.238",
+    "DownloadCount": 712092
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.15/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.15",
     "Changelog": "## What's Changed\r\n* Update 7.15 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/272\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.15...7.2.2.16",
-    "DownloadCount": 144661
+    "DownloadCount": 144665
   },
   {
     "Author": "The Combat Reborn Team",
