@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.9/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.1.9",
     "Changelog": "## What's Changed\r\n* Support job icons for base classes (WAR, CNJ, etc.) by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/484\r\n* Attempt to fix mudra and fix for Ninki cap protection by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/485\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.4...7.1.5.5",
-    "DownloadCount": 516402
+    "DownloadCount": 516449
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* snowcloak fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/508\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.235...7.2.0.236",
-    "DownloadCount": 708533
+    "DownloadCount": 708630
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.15/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.15",
     "Changelog": "## What's Changed\r\n* Update 7.15 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/272\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.15...7.2.2.16",
-    "DownloadCount": 144397
+    "DownloadCount": 144406
   },
   {
     "Author": "The Combat Reborn Team",
