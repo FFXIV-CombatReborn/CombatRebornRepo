@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.9/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.1.9",
     "Changelog": "## What's Changed\r\n* Support job icons for base classes (WAR, CNJ, etc.) by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/484\r\n* Attempt to fix mudra and fix for Ninki cap protection by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/485\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.4...7.1.5.5",
-    "DownloadCount": 516817
+    "DownloadCount": 516831
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Sohr Khai improvements, Aetherfront improvements, Hiruko improvements… by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/510\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.236...7.2.0.237",
-    "DownloadCount": 709438
+    "DownloadCount": 709457
   },
   {
     "Author": "The Combat Reborn Team",
