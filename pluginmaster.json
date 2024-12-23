@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.6/RotationSolver.zip",
-    "AssemblyVersion": "7.1.5.6",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.6/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.7/RotationSolver.zip",
+    "AssemblyVersion": "7.1.5.7",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.7/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.9/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.1.9",
-    "Changelog": "## What's Changed\r\n* Modify csproj file to allow building on linux by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/486\r\n* Sort out Howling Fist and Enlightment usage at range by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/487\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.5...7.1.5.6",
-    "DownloadCount": 519498
+    "Changelog": "## What's Changed\r\n* Forbidden chakra fix and Doton Mudra fix by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/488\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.6...7.1.5.7",
+    "DownloadCount": 519664
   },
   {
     "Author": "The Combat Reborn Team",
