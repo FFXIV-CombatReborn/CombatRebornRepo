@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.9/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.1.9",
     "Changelog": "## What's Changed\r\n* Prioritization system, BRD emergency esuna logic, MNK cleanup by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/490\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.8...7.1.5.9",
-    "DownloadCount": 527196
+    "DownloadCount": 527349
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* aetherochemical research lab trash modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/513\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.238...7.2.0.239",
-    "DownloadCount": 721382
+    "DownloadCount": 721414
   },
   {
     "Author": "The Combat Reborn Team",
@@ -157,10 +157,10 @@
     "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.16/GatherbuddyReborn.zip",
     "AssemblyVersion": "7.2.2.16",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.16/GatherbuddyReborn.zip",
-    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.15/GatherbuddyReborn.zip",
-    "TestingAssemblyVersion": "7.2.2.15",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.17/GatherbuddyReborn.zip",
+    "TestingAssemblyVersion": "7.2.2.17",
     "Changelog": "## What's Changed\r\n* Update 7.15 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/272\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.15...7.2.2.16",
-    "DownloadCount": 145339
+    "DownloadCount": 145342
   },
   {
     "Author": "The Combat Reborn Team",
