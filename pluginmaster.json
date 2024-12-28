@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.9/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.1.9",
     "Changelog": "## What's Changed\r\n* Fixes to MNK chakra usage, fixes to DRK delirium combo by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/493\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.10...7.1.5.11",
-    "DownloadCount": 537762
+    "DownloadCount": 537763
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.243/BossModReborn.zip",
-    "AssemblyVersion": "7.2.0.243",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.243/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.244/BossModReborn.zip",
+    "AssemblyVersion": "7.2.0.244",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.244/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* clean up by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/521\r\n* fix fru by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/522\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.242...7.2.0.243",
-    "DownloadCount": 733046
+    "Changelog": "## What's Changed\r\n* restored collision debug by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/523\r\n* fix code analyzer issues by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/524\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.243...7.2.0.244",
+    "DownloadCount": 733300
   },
   {
     "Author": "The Combat Reborn Team",
