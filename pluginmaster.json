@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.16/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.16",
     "Changelog": "## What's Changed\r\n* Fix to esuna bug by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/501\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.17...7.1.5.18",
-    "DownloadCount": 552523
+    "DownloadCount": 552816
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* forbid movement while mounted setting by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/533\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.250...7.2.0.251",
-    "DownloadCount": 753614
+    "DownloadCount": 753736
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.17",
     "Changelog": "## What's Changed\r\n* Update 7.15 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/272\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.15...7.2.2.16",
-    "DownloadCount": 147272
+    "DownloadCount": 147274
   },
   {
     "Author": "The Combat Reborn Team",
