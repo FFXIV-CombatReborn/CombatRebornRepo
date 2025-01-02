@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.23/RotationSolver.zip",
-    "AssemblyVersion": "7.1.5.23",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.23/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.24/RotationSolver.zip",
+    "AssemblyVersion": "7.1.5.24",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.24/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.21/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.21",
-    "Changelog": "## What's Changed\r\n* Add STtoAOE strategy option to SAM_Default class by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/513\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.22...7.1.5.23",
-    "DownloadCount": 561260
+    "Changelog": "## What's Changed\r\n* Update BLM and SAM classes with new options and logic by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/515\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.23...7.1.5.24",
+    "DownloadCount": 561412
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* made config serializing more efficient (hopefully) by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/537\r\n* shut up code analyzer by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/538\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.253...7.2.0.254",
-    "DownloadCount": 762878
+    "DownloadCount": 763001
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.17",
     "Changelog": "## What's Changed\r\n* Update 7.15 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/272\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.15...7.2.2.16",
-    "DownloadCount": 147577
+    "DownloadCount": 147578
   },
   {
     "Author": "The Combat Reborn Team",
