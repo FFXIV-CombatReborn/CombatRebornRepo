@@ -29,10 +29,10 @@
     "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.27/RotationSolver.zip",
     "AssemblyVersion": "7.1.5.27",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.27/RotationSolver.zip",
-    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.28/RotationSolver.zip",
-    "TestingAssemblyVersion": "7.1.5.28",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.29/RotationSolver.zip",
+    "TestingAssemblyVersion": "7.1.5.29",
     "Changelog": "## What's Changed\r\n* JeunoBoss prio fix by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/518\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.26...7.1.5.27",
-    "DownloadCount": 567160
+    "DownloadCount": 567248
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* merge vbm + some other random changes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/539\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.254...7.2.0.255",
-    "DownloadCount": 767564
+    "DownloadCount": 767645
   },
   {
     "Author": "The Combat Reborn Team",
