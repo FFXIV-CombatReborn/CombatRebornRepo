@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.30/RotationSolver.zip",
-    "AssemblyVersion": "7.1.5.30",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.30/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.31/RotationSolver.zip",
+    "AssemblyVersion": "7.1.5.31",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.31/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.29/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.29",
-    "Changelog": "## What's Changed\r\n* Improve performance and readability; add new features by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/521\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.29...7.1.5.30",
-    "DownloadCount": 570851
+    "Changelog": "## What's Changed\r\n* Update SGE and PLD classes; remove ConfiteorPvEActionId by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/524\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.30...7.1.5.31",
+    "DownloadCount": 570915
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* some fixes and slash command additions by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/541\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.256...7.2.0.257",
-    "DownloadCount": 771928
+    "DownloadCount": 772036
   },
   {
     "Author": "The Combat Reborn Team",
