@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.29/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.29",
     "Changelog": "## What's Changed\r\n* Adjust cooldowns and streamline Monk action checks by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/528\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.33...7.1.5.34",
-    "DownloadCount": 575620
+    "DownloadCount": 575655
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.258/BossModReborn.zip",
-    "AssemblyVersion": "7.2.0.258",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.258/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.259/BossModReborn.zip",
+    "AssemblyVersion": "7.2.0.259",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.259/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* some cleanup by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/542\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.257...7.2.0.258",
-    "DownloadCount": 776148
+    "Changelog": "## What's Changed\r\n* some cleanup by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/543\r\n* code analyzer fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/544\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.258...7.2.0.259",
+    "DownloadCount": 776353
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.1.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.1.0.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Api11 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.5.1...7.1.0.0",
-    "DownloadCount": 9139
+    "DownloadCount": 9141
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.1.1.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.1.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Lifestream enhancements by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/10\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.1.0.0...7.1.1.1",
-    "DownloadCount": 9161
+    "DownloadCount": 9162
   }
 ]
