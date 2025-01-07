@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.29/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.29",
     "Changelog": "## What's Changed\r\n* Black Mage Rotation update, now with more recursion by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/539\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.40...7.1.5.41",
-    "DownloadCount": 587115
+    "DownloadCount": 587382
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* minor cleanup by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/546\r\n* BA Art module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/547\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.260...7.2.0.261",
-    "DownloadCount": 786376
+    "DownloadCount": 786515
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.18/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.18",
     "Changelog": "## What's Changed\r\n* Update 7.15 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/272\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.15...7.2.2.16",
-    "DownloadCount": 148827
+    "DownloadCount": 148834
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.1.1.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.1.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Lifestream enhancements by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/10\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.1.0.0...7.1.1.1",
-    "DownloadCount": 9236
+    "DownloadCount": 9238
   }
 ]
