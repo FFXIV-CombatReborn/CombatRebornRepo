@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.51/RotationSolver.zip",
-    "AssemblyVersion": "7.1.5.51",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.51/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.52/RotationSolver.zip",
+    "AssemblyVersion": "7.1.5.52",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.52/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.29/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.29",
-    "Changelog": "## What's Changed\r\n* Prevent duplicate toasts, fix drawing logic crash by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/556\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.50...7.1.5.51",
-    "DownloadCount": 608799
+    "Changelog": "## What's Changed\r\n* PvP Functions, PvPAction Safeguards, UI Grammar, Party Life Tracking, My Logging cleanup by @DeviousCrypto in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/557\r\n* Fix config saving and update percent format by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/559\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.51...7.1.5.52",
+    "DownloadCount": 609065
   },
   {
     "Author": "The Combat Reborn Team",
