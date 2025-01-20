@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.67/RotationSolver.zip",
-    "AssemblyVersion": "7.1.5.67",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.67/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.68/RotationSolver.zip",
+    "AssemblyVersion": "7.1.5.68",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.68/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
-    "Changelog": "## What's Changed\r\n* allow macros to toggle actions again by @DeviousCrypto in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/589\r\n* PvP Targeting Modes. PvP TTK, PCT/BLM actions, Debugging stuff by @DeviousCrypto in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/588\r\n* Update UI descriptions and percentage handling in config by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/590\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.66...7.1.5.67",
-    "DownloadCount": 632303
+    "Changelog": "## What's Changed\r\n* cleaned up unnecessary check falses, donate pct pvp by @DeviousCrypto in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/591\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.67...7.1.5.68",
+    "DownloadCount": 632395
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* BA Absolute Virtue module finished by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/564\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.272...7.2.0.273",
-    "DownloadCount": 830425
+    "DownloadCount": 830482
   },
   {
     "Author": "The Combat Reborn Team",
