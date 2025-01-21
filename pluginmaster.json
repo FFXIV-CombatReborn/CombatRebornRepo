@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.69/RotationSolver.zip",
-    "AssemblyVersion": "7.1.5.69",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.69/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.6.0/RotationSolver.zip",
+    "AssemblyVersion": "7.1.6.0",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.6.0/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
-    "Changelog": "## What's Changed\r\n* Update various classes with new properties and logic by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/594\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.68...7.1.5.69",
-    "DownloadCount": 637937
+    "Changelog": "## What's Changed\r\n* Monk/Ninja Actions, MPNeed for PvP, Clean up PvP code by @DeviousCrypto in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/596\r\n* BLU Base3.0 mostly filled out by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/597\r\n* 7.16 update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/598\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.69...7.1.6.0",
+    "DownloadCount": 637981
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.1.1.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.1.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Lifestream enhancements by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/10\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.1.0.0...7.1.1.1",
-    "DownloadCount": 9683
+    "DownloadCount": 9684
   }
 ]
