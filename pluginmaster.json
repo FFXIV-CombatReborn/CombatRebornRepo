@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* Monk/Ninja Actions, MPNeed for PvP, Clean up PvP code by @DeviousCrypto in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/596\r\n* BLU Base3.0 mostly filled out by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/597\r\n* 7.16 update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/598\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.69...7.1.6.0",
-    "DownloadCount": 642478
+    "DownloadCount": 642480
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Merge vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/571\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.278...7.2.0.279",
-    "DownloadCount": 843669
+    "DownloadCount": 843703
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.18/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.18",
     "Changelog": "## What's Changed\r\n* QoL improvements by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/282\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.18...7.2.2.19",
-    "DownloadCount": 159082
+    "DownloadCount": 159083
   },
   {
     "Author": "The Combat Reborn Team",
