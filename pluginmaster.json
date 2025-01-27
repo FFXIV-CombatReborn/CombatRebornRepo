@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.6.1/RotationSolver.zip",
-    "AssemblyVersion": "7.1.6.1",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.6.1/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.6.2/RotationSolver.zip",
+    "AssemblyVersion": "7.1.6.2",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.6.2/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
-    "Changelog": "## What's Changed\r\n* Enhance VPR/DRG PvP Action Logic and UI Updates by @DeviousCrypto in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/599\r\n* SAM / RPR PvP Actions by @DeviousCrypto in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/600\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.6.0...7.1.6.1",
-    "DownloadCount": 651258
+    "Changelog": "## What's Changed\r\n* PvP Healers Actions. PvP Base3.0 update complete! by @CritoCantCode in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/601\r\n* Tuned AST, MNK, NIN PvP Actions by @CritoCantCode in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/603\r\n* Enhance ability logic and update dependencies by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/604\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.6.1...7.1.6.2",
+    "DownloadCount": 651276
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* refactor worqor zormor b2+3, some tweaks by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/582\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.285...7.2.0.286",
-    "DownloadCount": 869760
+    "DownloadCount": 869828
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.18/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.18",
     "Changelog": "## What's Changed\r\n* QoL improvements by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/282\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.18...7.2.2.19",
-    "DownloadCount": 159965
+    "DownloadCount": 159969
   },
   {
     "Author": "The Combat Reborn Team",
