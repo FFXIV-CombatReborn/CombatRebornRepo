@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* Refactor Ninjutsu logic and improve burst phase handling by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/605\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.6.2...7.1.6.3",
-    "DownloadCount": 657971
+    "DownloadCount": 657988
   },
   {
     "Author": "The Combat Reborn Team",
