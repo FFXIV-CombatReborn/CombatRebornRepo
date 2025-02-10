@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* Add BioMove option to MCH, update logic, and enhance debug UI by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/614\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.6.6...7.1.6.7",
-    "DownloadCount": 679682
+    "DownloadCount": 679691
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.295/BossModReborn.zip",
-    "AssemblyVersion": "7.2.0.295",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.295/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.296/BossModReborn.zip",
+    "AssemblyVersion": "7.2.0.296",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.296/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* some fixes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/599\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.294...7.2.0.295",
-    "DownloadCount": 905975
+    "Changelog": "## What's Changed\r\n* cleanup by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/600\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.295...7.2.0.296",
+    "DownloadCount": 906010
   },
   {
     "Author": "The Combat Reborn Team",
