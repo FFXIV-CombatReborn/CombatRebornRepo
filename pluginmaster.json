@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* Add BioMove option to MCH, update logic, and enhance debug UI by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/614\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.6.6...7.1.6.7",
-    "DownloadCount": 683280
+    "DownloadCount": 683303
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.301/BossModReborn.zip",
-    "AssemblyVersion": "7.2.0.301",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.301/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.302/BossModReborn.zip",
+    "AssemblyVersion": "7.2.0.302",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.302/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* another dll by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/606\r\n* sqlite database no longer embedded but in plugin directory by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/607\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.300...7.2.0.301",
-    "DownloadCount": 927484
+    "Changelog": "## What's Changed\r\n* Bar the Passage modules, removed SQLite dependency by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/608\r\n* code analyzer bs by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/609\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.301...7.2.0.302",
+    "DownloadCount": 927656
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.1.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.1.0.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Api11 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.5.1...7.1.0.0",
-    "DownloadCount": 9945
+    "DownloadCount": 9947
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.1.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.2/EasyZoomReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.1...7.1.0.2",
-    "DownloadCount": 15282
+    "DownloadCount": 15283
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.18/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.18",
     "Changelog": "## What's Changed\r\n* QoL improvements by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/282\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.18...7.2.2.19",
-    "DownloadCount": 162365
+    "DownloadCount": 162372
   },
   {
     "Author": "The Combat Reborn Team",
