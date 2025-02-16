@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.302/BossModReborn.zip",
-    "AssemblyVersion": "7.2.0.302",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.302/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.303/BossModReborn.zip",
+    "AssemblyVersion": "7.2.0.303",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.303/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* Bar the Passage modules, removed SQLite dependency by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/608\r\n* code analyzer bs by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/609\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.301...7.2.0.302",
-    "DownloadCount": 930652
+    "Changelog": "## What's Changed\r\n* origenics improvements and DD walls are now a dictionary by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/611\r\n* code analyzer fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/612\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.302...7.2.0.303",
+    "DownloadCount": 930841
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.18/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.18",
     "Changelog": "## What's Changed\r\n* Add configuration option to hide completed items from the gather window. by @nihilistzsche in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/289\r\n* Fixes by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/292\r\n\r\n## New Contributors\r\n* @nihilistzsche made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/289\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.19...7.2.2.20",
-    "DownloadCount": 162460
+    "DownloadCount": 162471
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.1.6.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.6.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Add option to display individual market board listings by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.1.1.1...7.1.6.0",
-    "DownloadCount": 11842
+    "DownloadCount": 11843
   }
 ]
