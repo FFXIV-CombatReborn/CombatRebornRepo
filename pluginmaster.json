@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* Add BioMove option to MCH, update logic, and enhance debug UI by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/614\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.6.6...7.1.6.7",
-    "DownloadCount": 683609
+    "DownloadCount": 683628
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.1.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.1.0.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Api11 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.5.1...7.1.0.0",
-    "DownloadCount": 9957
+    "DownloadCount": 9958
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.1.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.2/EasyZoomReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.1...7.1.0.2",
-    "DownloadCount": 15298
+    "DownloadCount": 15299
   },
   {
     "Author": "The Combat Reborn Team",
@@ -154,13 +154,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.19/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.2.2.19",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.19/GatherbuddyReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.20/GatherbuddyReborn.zip",
+    "AssemblyVersion": "7.2.2.20",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.20/GatherbuddyReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.18/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.18",
-    "Changelog": "## What's Changed\r\n* QoL improvements by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/282\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.18...7.2.2.19",
-    "DownloadCount": 162452
+    "Changelog": "## What's Changed\r\n* Add configuration option to hide completed items from the gather window. by @nihilistzsche in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/289\r\n* Fixes by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/292\r\n\r\n## New Contributors\r\n* @nihilistzsche made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/289\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.19...7.2.2.20",
+    "DownloadCount": 162460
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.1.6.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.6.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Add option to display individual market board listings by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.1.1.1...7.1.6.0",
-    "DownloadCount": 11840
+    "DownloadCount": 11842
   }
 ]
