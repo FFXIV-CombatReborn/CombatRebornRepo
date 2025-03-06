@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* Low level Hypercharge fix, engagement style removal by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/619\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.6.9...7.1.8.0",
-    "DownloadCount": 720399
+    "DownloadCount": 720434
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.320/BossModReborn.zip",
-    "AssemblyVersion": "7.2.0.320",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.320/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.321/BossModReborn.zip",
+    "AssemblyVersion": "7.2.0.321",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.321/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* updated Mateus module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/637\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.319...7.2.0.320",
-    "DownloadCount": 993136
+    "Changelog": "## What's Changed\r\n* less hardcoded vertices for octomammoth by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/638\r\n* fell court of troia modules verified by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/639\r\n* merge vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/640\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.320...7.2.0.321",
+    "DownloadCount": 993178
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.1.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.1.0.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Api11 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.5.1...7.1.0.0",
-    "DownloadCount": 10509
+    "DownloadCount": 10511
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.1.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.2/EasyZoomReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.1...7.1.0.2",
-    "DownloadCount": 16301
+    "DownloadCount": 16302
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.18/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.18",
     "Changelog": "## What's Changed\r\n* Revert change that breaks deserialization of Auto-Gather lists by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/293\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.20...7.2.2.21",
-    "DownloadCount": 174643
+    "DownloadCount": 174648
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.1.6.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.6.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Add option to display individual market board listings by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.1.1.1...7.1.6.0",
-    "DownloadCount": 12512
+    "DownloadCount": 12514
   }
 ]
