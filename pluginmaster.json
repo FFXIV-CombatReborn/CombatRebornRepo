@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* Low level Hypercharge fix, engagement style removal by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/619\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.6.9...7.1.8.0",
-    "DownloadCount": 724694
+    "DownloadCount": 724698
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.325/BossModReborn.zip",
-    "AssemblyVersion": "7.2.0.325",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.325/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.326/BossModReborn.zip",
+    "AssemblyVersion": "7.2.0.326",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.326/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* this might be better by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/649\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.324...7.2.0.325",
-    "DownloadCount": 1005814
+    "Changelog": "## What's Changed\r\n* renamed some components for clarity by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/650\r\n* rename components, fix dark elf by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/651\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.325...7.2.0.326",
+    "DownloadCount": 1005920
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.18/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.18",
     "Changelog": "## What's Changed\r\n* Revert change that breaks deserialization of Auto-Gather lists by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/293\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.20...7.2.2.21",
-    "DownloadCount": 175759
+    "DownloadCount": 175763
   },
   {
     "Author": "The Combat Reborn Team",
