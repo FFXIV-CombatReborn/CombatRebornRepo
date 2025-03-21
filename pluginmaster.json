@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* fix twinning by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/677\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.346...7.2.0.347",
-    "DownloadCount": 1047762
+    "DownloadCount": 1047797
   },
   {
     "Author": "The Combat Reborn Team",
