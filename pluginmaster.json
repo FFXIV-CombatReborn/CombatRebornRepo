@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* Stop attempting auto open chest when 'InCombat' by @BrakusTapus in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/622\r\n* Flagged FeatherRain as a special targeting ability - Enables use by @ggscott in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/625\r\n\r\n## New Contributors\r\n* @ggscott made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/625\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.8.0...7.1.8.1",
-    "DownloadCount": 736574
+    "DownloadCount": 736594
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* hopefully fix interact ranges by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/683\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.350...7.2.0.351",
-    "DownloadCount": 1059009
+    "DownloadCount": 1059016
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.1.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.2/EasyZoomReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.1...7.1.0.2",
-    "DownloadCount": 16850
+    "DownloadCount": 16851
   },
   {
     "Author": "The Combat Reborn Team",
