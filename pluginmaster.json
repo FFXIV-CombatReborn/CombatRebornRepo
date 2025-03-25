@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* Stop attempting auto open chest when 'InCombat' by @BrakusTapus in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/622\r\n* Flagged FeatherRain as a special targeting ability - Enables use by @ggscott in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/625\r\n\r\n## New Contributors\r\n* @ggscott made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/625\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.8.0...7.1.8.1",
-    "DownloadCount": 737049
+    "DownloadCount": 737089
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* hopefully fix interact ranges by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/683\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.350...7.2.0.351",
-    "DownloadCount": 1059082
+    "DownloadCount": 1059087
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.22/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.22",
     "Changelog": "## What's Changed\r\n* Revert change that breaks deserialization of Auto-Gather lists by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/293\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.20...7.2.2.21",
-    "DownloadCount": 178465
+    "DownloadCount": 178466
   },
   {
     "Author": "The Combat Reborn Team",
