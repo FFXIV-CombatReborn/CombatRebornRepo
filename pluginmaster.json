@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* Stop attempting auto open chest when 'InCombat' by @BrakusTapus in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/622\r\n* Flagged FeatherRain as a special targeting ability - Enables use by @ggscott in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/625\r\n\r\n## New Contributors\r\n* @ggscott made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/625\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.8.0...7.1.8.1",
-    "DownloadCount": 737516
+    "DownloadCount": 737527
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* testing 7.2\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.351...7.2.0.352",
-    "DownloadCount": 1059628
+    "DownloadCount": 1059842
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.1.6.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.6.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Add option to display individual market board listings by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.1.1.1...7.1.6.0",
-    "DownloadCount": 13066
+    "DownloadCount": 13067
   }
 ]
