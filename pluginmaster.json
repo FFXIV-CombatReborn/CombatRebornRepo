@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* Refactor Black Mage rotation logic and enemy name handling by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/630\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.0.1...7.2.0.2",
-    "DownloadCount": 742331
+    "DownloadCount": 742423
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* update CS by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/685\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.354...7.2.0.355",
-    "DownloadCount": 1066752
+    "DownloadCount": 1067046
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.1.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.2/EasyZoomReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.1...7.1.0.2",
-    "DownloadCount": 16917
+    "DownloadCount": 16921
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.22/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.22",
     "Changelog": "## What's Changed\r\n* Fix determining collactability rating for prime collactables by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/306\r\n* 12.0.0/9.0 .NET update by @loonsies in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/307\r\n* 7.2 update by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/308\r\n\r\n## New Contributors\r\n* @loonsies made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/307\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.22...7.2.2.23",
-    "DownloadCount": 179873
+    "DownloadCount": 180568
   },
   {
     "Author": "The Combat Reborn Team",
