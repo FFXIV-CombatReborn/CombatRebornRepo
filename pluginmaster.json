@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* SMN Base fixes, core system fixes and cleanup by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/637\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.0.5...7.2.0.6",
-    "DownloadCount": 762432
+    "DownloadCount": 762552
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Recollection normal WIP by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/691\r\n* code analyzer fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/692\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.360...7.2.0.361",
-    "DownloadCount": 1093190
+    "DownloadCount": 1093290
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.1.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.1.0.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Api11 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.5.1...7.1.0.0",
-    "DownloadCount": 10900
+    "DownloadCount": 10901
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.1.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.2/EasyZoomReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.1...7.1.0.2",
-    "DownloadCount": 17220
+    "DownloadCount": 17226
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.22/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.22",
     "Changelog": "## What's Changed\r\n* Further auto-repair improvements by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/320\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.29...7.2.2.30",
-    "DownloadCount": 210054
+    "DownloadCount": 210588
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.1.6.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.6.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Add option to display individual market board listings by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.1.1.1...7.1.6.0",
-    "DownloadCount": 13084
+    "DownloadCount": 13085
   }
 ]
