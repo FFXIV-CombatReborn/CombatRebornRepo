@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* All the small things 1 by @CritoCantCode in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/644\r\n* ActionTargetInfo.cs: \"CastType is not valid!\" by @BrakusTapus in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/643\r\n* Enhance action checks and update cautionary messages by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/645\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.0.10...7.2.0.11",
-    "DownloadCount": 788306
+    "DownloadCount": 788587
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* I can't believe this even had to be done. by @CritoCantCode in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/708\r\n* Updated Qarn module by @Chuggalo in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/709\r\n\r\n## New Contributors\r\n* @CritoCantCode made their first contribution in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/708\r\n* @Chuggalo made their first contribution in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/709\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.370...7.2.0.371",
-    "DownloadCount": 1133654
+    "DownloadCount": 1134042
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.2.0.1/ActionTimelineReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 11648
+    "DownloadCount": 11655
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.2.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.2.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* 7.2 update by @BrakusTapus in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/8\r\n* Refactor project configuration and update dependencies by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/9\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.2...7.2.0.0",
-    "DownloadCount": 17996
+    "DownloadCount": 18107
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.22/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.22",
     "Changelog": "## What's Changed\r\n* Repair only Botanist or Miner gear by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/321\r\n* Leveling fix by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/322\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.30...7.2.2.31",
-    "DownloadCount": 225790
+    "DownloadCount": 225816
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.1.6.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.6.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Add option to display individual market board listings by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.1.1.1...7.1.6.0",
-    "DownloadCount": 13115
+    "DownloadCount": 13116
   }
 ]
