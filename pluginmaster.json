@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* The CUBE by @CritoCantCode in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/650\r\n* Refactor logging and diagnostics in StatusHelper and RotationConfigWindow by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/651\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.0.14...7.2.0.15",
-    "DownloadCount": 801520
+    "DownloadCount": 801562
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Sastasha and Deepcroft ARR module's. Qarn clean up. by @Chuggalo in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/716\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.374...7.2.0.375",
-    "DownloadCount": 1148974
+    "DownloadCount": 1149149
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.2.0.1/ActionTimelineReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 11935
+    "DownloadCount": 11936
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.2.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.2.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* 7.2 update by @BrakusTapus in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/8\r\n* Refactor project configuration and update dependencies by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/9\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.2...7.2.0.0",
-    "DownloadCount": 19717
+    "DownloadCount": 19724
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.22/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.22",
     "Changelog": "## What's Changed\r\n* Artisan List Support has been implemented.\r\n* Support discord link added to our auto-gather tab.\r\n\r\nIf you have Artisan installed and enabled:\r\nYou now have access to a new manual AND automatic function.\r\n\r\n**Manual**: There now exists a manual \"Import from Artisan\" button that lives next to the \"Import from Teamcraft\" button. Clicking this button scours your Artisan install for a list of the exact same name, and imports all gatherables in that list.\r\n**Automatic**: If you create a new list that happens to share the exact same name as an Artisan list you have already configured, it will automatically populate the new list with the gatherables from that list.\r\n\r\nDue to how this implementation works it is therefore very sensitive to core Artisan changes. **It is imperative that any issues with this functionality not be brought up to the Artisan folks. They have nothing to do with this, and if people bug them about this, I will remove the functionality.**\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.31...7.2.2.32",
-    "DownloadCount": 228780
+    "DownloadCount": 228944
   },
   {
     "Author": "The Combat Reborn Team",
@@ -168,7 +168,7 @@
     "InternalName": "RebornToolbox",
     "Description": "Various tweaks and features provided by the Combat Reborn team that don't need their own plugin",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "TestingDalamudApiLevel": 0,
     "Tags": [
       "Toolbox",
@@ -182,10 +182,10 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/refs/heads/main/IconAssets/BPR_Icon.png",
     "Punchline": "Let that sink in!",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.6.0/RebornToolbox.zip",
-    "AssemblyVersion": "7.1.6.0",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.6.0/RebornToolbox.zip",
-    "Changelog": "## What's Changed\r\n* Add option to display individual market board listings by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.1.1.1...7.1.6.0",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.0/RebornToolbox.zip",
+    "AssemblyVersion": "7.2.0.0",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.0/RebornToolbox.zip",
+    "Changelog": "## What's Changed\r\n* 7.2 update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/13\r\n\r\n## New Contributors\r\n* @LTS-FFXIV made their first contribution in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/13\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.1.6.0...7.2.0.0",
     "DownloadCount": 13120
   }
 ]
