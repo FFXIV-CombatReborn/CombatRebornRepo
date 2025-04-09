@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* PLD FoF Fix, MCH mit during burst, rare crashfix by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/656\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.0.20...7.2.0.21",
-    "DownloadCount": 809205
+    "DownloadCount": 809208
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.22/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.22",
     "Changelog": "## What's Changed\r\n* Artisan List Support has been implemented.\r\n* Support discord link added to our auto-gather tab.\r\n\r\nIf you have Artisan installed and enabled:\r\nYou now have access to a new manual AND automatic function.\r\n\r\n**Manual**: There now exists a manual \"Import from Artisan\" button that lives next to the \"Import from Teamcraft\" button. Clicking this button scours your Artisan install for a list of the exact same name, and imports all gatherables in that list.\r\n**Automatic**: If you create a new list that happens to share the exact same name as an Artisan list you have already configured, it will automatically populate the new list with the gatherables from that list.\r\n\r\nDue to how this implementation works it is therefore very sensitive to core Artisan changes. **It is imperative that any issues with this functionality not be brought up to the Artisan folks. They have nothing to do with this, and if people bug them about this, I will remove the functionality.**\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.31...7.2.2.32",
-    "DownloadCount": 234432
+    "DownloadCount": 234441
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.2.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* 7.2 update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/13\r\n\r\n## New Contributors\r\n* @LTS-FFXIV made their first contribution in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/13\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.1.6.0...7.2.0.0",
-    "DownloadCount": 14310
+    "DownloadCount": 14311
   }
 ]
