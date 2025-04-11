@@ -157,10 +157,10 @@
     "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.33/GatherbuddyReborn.zip",
     "AssemblyVersion": "7.2.2.33",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.33/GatherbuddyReborn.zip",
-    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.36/GatherbuddyReborn.zip",
-    "TestingAssemblyVersion": "7.2.2.36",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.37/GatherbuddyReborn.zip",
+    "TestingAssemblyVersion": "7.2.2.37",
     "Changelog": "## What's Changed\r\n* Upstream sync by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/325\r\n* Artisan list enhancements by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/326\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.32...7.2.2.33",
-    "DownloadCount": 244268
+    "DownloadCount": 244271
   },
   {
     "Author": "The Combat Reborn Team",
