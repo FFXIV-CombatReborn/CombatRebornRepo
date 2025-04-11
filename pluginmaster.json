@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* Refactor Ninjutsu handling in NIN_Default class by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/659\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.0.23...7.2.0.24",
-    "DownloadCount": 825870
+    "DownloadCount": 825901
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.378...7.2.0.379",
-    "DownloadCount": 1173235
+    "DownloadCount": 1173248
   },
   {
     "Author": "The Combat Reborn Team",
@@ -157,10 +157,10 @@
     "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.33/GatherbuddyReborn.zip",
     "AssemblyVersion": "7.2.2.33",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.33/GatherbuddyReborn.zip",
-    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.35/GatherbuddyReborn.zip",
-    "TestingAssemblyVersion": "7.2.2.35",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.36/GatherbuddyReborn.zip",
+    "TestingAssemblyVersion": "7.2.2.36",
     "Changelog": "## What's Changed\r\n* Upstream sync by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/325\r\n* Artisan list enhancements by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/326\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.32...7.2.2.33",
-    "DownloadCount": 244263
+    "DownloadCount": 244268
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Deprecate Supermarket Sweep by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 15750
+    "DownloadCount": 15752
   }
 ]
