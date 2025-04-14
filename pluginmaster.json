@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* Soul Stack tracking, BraveryPvP modification by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/661\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.0.25...7.2.0.26",
-    "DownloadCount": 837449
+    "DownloadCount": 837528
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* D09CuttersCry - D103Isgebind by @Chuggalo in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/728\r\n* added remaining stuff to M8S module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/729\r\n* revert isgebind change by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/730\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.382...7.2.0.383",
-    "DownloadCount": 1187609
+    "DownloadCount": 1187772
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.2.0.1/ActionTimelineReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 12299
+    "DownloadCount": 12300
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.2.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.2.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* 7.2 update by @BrakusTapus in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/8\r\n* Refactor project configuration and update dependencies by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/9\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.2...7.2.0.0",
-    "DownloadCount": 20439
+    "DownloadCount": 20440
   },
   {
     "Author": "The Combat Reborn Team",
@@ -154,13 +154,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.41/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.2.2.41",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.41/GatherbuddyReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.42/GatherbuddyReborn.zip",
+    "AssemblyVersion": "7.2.2.42",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.42/GatherbuddyReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.40/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.40",
-    "Changelog": "## What's Changed\r\n- Added a volume slider for the gathering completion sound\r\n\r\n- Increased GBR's max quantity counts to 999999 from 9999\r\n\r\n- Added a random 500-2000 millisecond delay when extracting materia\r\n \r\nAdditionally, since there have been ***7 fucking testing releases*** since the last live update, here's a recap of what's changed in the last week:\r\n\r\n- Added Diadem support\r\n\r\n- Added an option to check retainer inventories when doing inventory calculations\r\n\r\n- Items on gathering lists can be enabled or disabled individually\r\n\r\n- The Gather Window will now display while in the Diadem\r\n\r\n- The Gather Window no longer displays when you're not logged in\r\n\r\n- Artisan import functionality has been streamlined to be more user friendly\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.33...7.2.2.41",
-    "DownloadCount": 248757
+    "Changelog": "## What's Changed\r\n* Fixed overcap check using Allagan Tools by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/341\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.41...7.2.2.42",
+    "DownloadCount": 249130
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Deprecate Supermarket Sweep by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 16022
+    "DownloadCount": 16026
   }
 ]
