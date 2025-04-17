@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.5.62/RotationSolver.zip",
     "TestingAssemblyVersion": "7.1.5.62",
     "Changelog": "## What's Changed\r\n* BRD and GNB rollback hotfix by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/668\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.0.29...7.2.0.30",
-    "DownloadCount": 851512
+    "DownloadCount": 851763
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.384/BossModReborn.zip",
-    "AssemblyVersion": "7.2.0.384",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.384/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.385/BossModReborn.zip",
+    "AssemblyVersion": "7.2.0.385",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.385/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.383...7.2.0.384",
-    "DownloadCount": 1199678
+    "Changelog": "## What's Changed\r\n* Update D103Isgebind.cs by @Chuggalo in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/731\r\n* Ex4 Zelenia module, bug fixes, merge vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/732\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.384...7.2.0.385",
+    "DownloadCount": 1199722
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.2.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.2.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* 7.2 update by @BrakusTapus in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/8\r\n* Refactor project configuration and update dependencies by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/9\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.2...7.2.0.0",
-    "DownloadCount": 20637
+    "DownloadCount": 20642
   },
   {
     "Author": "The Combat Reborn Team",
@@ -154,13 +154,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.46/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.2.2.46",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.46/GatherbuddyReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.50/GatherbuddyReborn.zip",
+    "AssemblyVersion": "7.2.2.50",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.50/GatherbuddyReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.40/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.40",
-    "Changelog": "## What's Changed\r\n* Added web service for fishing data collection by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/344\r\n* Refactor CI workflow to separate plugin and web jobs by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/345\r\n* Update build and Docker workflow parameters by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/346\r\n* Add support for forwarded headers in HTTP requests by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/347\r\n* Refine API key logging by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/348\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.43...7.2.2.46",
-    "DownloadCount": 263705
+    "Changelog": "## What's Changed\r\n* Added web service for fishing data collection by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/344\r\n* Refactor CI workflow to separate plugin and web jobs by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/345\r\n* Update build and Docker workflow parameters by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/346\r\n* Add support for forwarded headers in HTTP requests by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/347\r\n* Refine API key logging by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/348\r\n* Remove hardcoded API key and update build process. by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/349\r\n* Update build process to include generated secret keys file by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/350\r\n* Add key generation step to publish workflow by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/351\r\n* Update secret key reference in publish workflow by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/353\r\n* Gearset fix by @CritoCantCode in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/352\r\n* Add SECRET_KEY to workflow environment variables by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/354\r\n* Update SECRET_KEY handling in GitHub Actions workflow by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/355\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.43...7.2.2.50",
+    "DownloadCount": 264642
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Deprecate Supermarket Sweep by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 16256
+    "DownloadCount": 16261
   }
 ]
