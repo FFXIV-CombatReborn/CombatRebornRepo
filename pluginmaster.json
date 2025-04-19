@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.0.33/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.0.33",
     "Changelog": "## What's Changed\r\n* Fixes to countdown, DRK, truenorth, and crashfixes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/675\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.0.34...7.2.0.35",
-    "DownloadCount": 863083
+    "DownloadCount": 863086
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,12 +59,12 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.387/BossModReborn.zip",
-    "AssemblyVersion": "7.2.0.387",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.387/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.388/BossModReborn.zip",
+    "AssemblyVersion": "7.2.0.388",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.388/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* fixes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/734\r\n* minor cleanup by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/735\r\n* add zelania dangerous rose tile floor color option by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/736\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.386...7.2.0.387",
+    "Changelog": "## What's Changed\r\n* add spotlight setting for m5s by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/737\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.387...7.2.0.388",
     "DownloadCount": 1213993
   },
   {
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.2.0.1/ActionTimelineReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 12488
+    "DownloadCount": 12489
   },
   {
     "Author": "The Combat Reborn Team",
