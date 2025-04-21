@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.0.33/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.0.33",
     "Changelog": "## What's Changed\r\n* Update HostileCastingKnockback.json by @aventurescence in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/677\r\n* BLM Alpha, not for live use. RSR now uses direct animationlocktime. by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/678\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.0.36...7.2.0.37",
-    "DownloadCount": 876111
+    "DownloadCount": 876229
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.389/BossModReborn.zip",
-    "AssemblyVersion": "7.2.0.389",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.389/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.390/BossModReborn.zip",
+    "AssemblyVersion": "7.2.0.390",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.390/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* feat(module): D27 Sastasha (Hard) by @zaventh in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/726\r\n* Minor code cleanup, small addition to D022 by @Chuggalo in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/738\r\n* Hippomenes by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/739\r\n* Cleansable debuff component by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/740\r\n\r\n## New Contributors\r\n* @zaventh made their first contribution in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/726\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.388...7.2.0.389",
-    "DownloadCount": 1227759
+    "Changelog": "## What's Changed\r\n* more M5S spotlight settings by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/741\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.389...7.2.0.390",
+    "DownloadCount": 1227854
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.2.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.2.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* 7.2 update by @BrakusTapus in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/8\r\n* Refactor project configuration and update dependencies by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/9\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.2...7.2.0.0",
-    "DownloadCount": 20930
+    "DownloadCount": 20931
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.40/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.40",
     "Changelog": "## What's Changed\r\n* Fix targeting logic and update ECommons by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/364\r\n* Fix enabled state synchronization for auto-gather items. by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/365\r\n* Remove unused migrations and resources by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/366\r\n* Adjust node targeting distance to 50 units by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/367\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.53...7.2.2.54",
-    "DownloadCount": 286321
+    "DownloadCount": 286461
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Deprecate Supermarket Sweep by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 16538
+    "DownloadCount": 16540
   }
 ]
