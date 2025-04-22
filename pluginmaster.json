@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.0.33/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.0.33",
     "Changelog": "## What's Changed\r\n* Added config, enabled by default, to prevent targeting incorrect add during Cinder Drift Extreme by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/681\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.0.38...7.2.0.39",
-    "DownloadCount": 878140
+    "DownloadCount": 878158
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* T05Yojimbo by @Chuggalo in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/743\r\n* fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/744\r\n* code analyzer fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/745\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.391...7.2.0.392",
-    "DownloadCount": 1230923
+    "DownloadCount": 1230939
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.40/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.40",
     "Changelog": "## What's Changed\r\n* Fix targeting logic and update ECommons by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/364\r\n* Fix enabled state synchronization for auto-gather items. by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/365\r\n* Remove unused migrations and resources by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/366\r\n* Adjust node targeting distance to 50 units by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/367\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.53...7.2.2.54",
-    "DownloadCount": 287526
+    "DownloadCount": 287532
   },
   {
     "Author": "The Combat Reborn Team",
