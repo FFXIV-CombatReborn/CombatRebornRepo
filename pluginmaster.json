@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.5/RotationSolver.zip",
-    "AssemblyVersion": "7.2.1.5",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.5/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.6/RotationSolver.zip",
+    "AssemblyVersion": "7.2.1.6",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.6/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.0.33/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.0.33",
-    "Changelog": "## What's Changed\r\n* Reorder SCH heal priority, hotfix for RPR by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/690\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.1.4...7.2.1.5",
-    "DownloadCount": 913993
+    "Changelog": "## What's Changed\r\n* Update IPC management, add low HP tankbuster sheild prio by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/691\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.1.5...7.2.1.6",
+    "DownloadCount": 914069
   },
   {
     "Author": "The Combat Reborn Team",
