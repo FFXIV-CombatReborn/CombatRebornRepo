@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.10/RotationSolver.zip",
-    "AssemblyVersion": "7.2.1.10",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.10/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.12/RotationSolver.zip",
+    "AssemblyVersion": "7.2.1.12",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.12/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.0.33/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.0.33",
-    "Changelog": "## What's Changed\r\n* Removal of bozja targeting until a better way of sorting out what targets are valid or not is found by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/696\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.1.9...7.2.1.10",
-    "DownloadCount": 927455
+    "Changelog": "## What's Changed\r\n* Commented out experimental code that got through on last version by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/698\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.1.11...7.2.1.12",
+    "DownloadCount": 927590
   },
   {
     "Author": "The Combat Reborn Team",
