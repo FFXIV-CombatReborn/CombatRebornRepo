@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.0.33/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.0.33",
     "Changelog": "## What's Changed\r\n* Add Bozja CE mob targeting configuration and logic by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/699\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.1.12...7.2.1.13",
-    "DownloadCount": 928405
+    "DownloadCount": 928406
   },
   {
     "Author": "The Combat Reborn Team",
