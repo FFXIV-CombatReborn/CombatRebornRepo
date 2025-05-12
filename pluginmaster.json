@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.30/RotationSolver.zip",
-    "AssemblyVersion": "7.2.1.30",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.30/RotationSolver.zip",
-    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.0.33/RotationSolver.zip",
-    "TestingAssemblyVersion": "7.2.0.33",
-    "Changelog": "## What's Changed\r\n* Enhance action management and UI in rotation system by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/719\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.1.29...7.2.1.30",
-    "DownloadCount": 975436
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.31/RotationSolver.zip",
+    "AssemblyVersion": "7.2.1.31",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.31/RotationSolver.zip",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.33/RotationSolver.zip",
+    "TestingAssemblyVersion": "7.2.1.33",
+    "Changelog": "## What's Changed\r\n* Add PvP Role Actions to DPS Casters, enhanced AST Essential Dignity logic, enhance PCT PvP and BLM PvP logic by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/720\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.1.30...7.2.1.31",
+    "DownloadCount": 975569
   },
   {
     "Author": "The Combat Reborn Team",
