@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.42/RotationSolver.zip",
-    "AssemblyVersion": "7.2.1.42",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.42/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.43/RotationSolver.zip",
+    "AssemblyVersion": "7.2.1.43",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.43/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.34/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.1.34",
-    "Changelog": "## What's Changed\r\n* Data collection cleanup and config simplification by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/729\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.1.41...7.2.1.42",
-    "DownloadCount": 994698
+    "Changelog": "## What's Changed\r\n* Fixed macro toggle not working for some actions, small rewrite of CanHeal tracking, nuget update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/730\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.1.42...7.2.1.43",
+    "DownloadCount": 994816
   },
   {
     "Author": "The Combat Reborn Team",
