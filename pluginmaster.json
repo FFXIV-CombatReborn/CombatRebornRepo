@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.49/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.1.49",
     "Changelog": "## What's Changed\r\n* Enhance healing logic and target management by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/733\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.1.45...7.2.1.46",
-    "DownloadCount": 1013005
+    "DownloadCount": 1013019
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* improve Soranus Duo module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/783\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.1.27...7.2.1.28",
-    "DownloadCount": 1388465
+    "DownloadCount": 1388515
   },
   {
     "Author": "The Combat Reborn Team",
