@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.49/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.1.49",
     "Changelog": "## What's Changed\r\n* Countdown, teaching mode, WAR update, threadsafe consistency by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/740\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.1.52...7.2.1.53",
-    "DownloadCount": 1019967
+    "DownloadCount": 1020003
   },
   {
     "Author": "The Combat Reborn Team",
