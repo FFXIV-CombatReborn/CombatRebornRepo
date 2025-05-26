@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.55/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.1.55",
     "Changelog": "## What's Changed\r\n* Enhance ObjectHelper checks and add Dalamud warnings by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/752\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.1.62...7.2.1.63",
-    "DownloadCount": 1040187
+    "DownloadCount": 1040321
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.1.39/BossModReborn.zip",
-    "AssemblyVersion": "7.2.1.39",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.1.39/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.1.40/BossModReborn.zip",
+    "AssemblyVersion": "7.2.1.40",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.1.40/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* add Lashing Lariat prediction for M7S by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/794\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.1.38...7.2.1.39",
-    "DownloadCount": 1423541
+    "Changelog": "## What's Changed\r\n* fix Aglaia by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/795\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.1.39...7.2.1.40",
+    "DownloadCount": 1423714
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.2.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.2.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* 7.2 update by @BrakusTapus in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/8\r\n* Refactor project configuration and update dependencies by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/9\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.2...7.2.0.0",
-    "DownloadCount": 22195
+    "DownloadCount": 22199
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.60/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.60",
     "Changelog": "## What's Changed\r\n* Allow mounting up while moving by @garypwn in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/371\r\n* Upstream merge by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/372\r\n* Upstream sync 2 by @CritoCantCode in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/374\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.55...7.2.2.56",
-    "DownloadCount": 323287
+    "DownloadCount": 323293
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Deprecate Supermarket Sweep by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 17797
+    "DownloadCount": 17803
   }
 ]
