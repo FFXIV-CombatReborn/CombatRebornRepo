@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.55/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.1.55",
     "Changelog": "## What's Changed\r\n* Temporarily roll back WAR changes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/754\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.1.64...7.2.1.65",
-    "DownloadCount": 1044813
+    "DownloadCount": 1044819
   },
   {
     "Author": "The Combat Reborn Team",
