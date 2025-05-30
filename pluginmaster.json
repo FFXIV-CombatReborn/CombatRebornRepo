@@ -26,12 +26,12 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.12/RotationSolver.zip",
-    "AssemblyVersion": "7.2.5.12",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.12/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.13/RotationSolver.zip",
+    "AssemblyVersion": "7.2.5.13",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.13/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.55/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.1.55",
-    "Changelog": "## What's Changed\r\n* Change DTR Entry to use Description instead of TargetType.ToString() by @CritoCantCode in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/767\r\n* Cleanup redundant systems, added better Occult Crecent tracking, misc fixes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/768\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.11...7.2.5.12",
+    "Changelog": "## What's Changed\r\n* UI clarity on targeting logic and refactor Watcher methods for performance by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/769\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.12...7.2.5.13",
     "DownloadCount": 1065061
   },
   {
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Trial By Claw CE by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/804\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.5...7.2.5.6",
-    "DownloadCount": 1453416
+    "DownloadCount": 1453417
   },
   {
     "Author": "The Combat Reborn Team",
