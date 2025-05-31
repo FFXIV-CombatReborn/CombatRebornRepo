@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.55/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.1.55",
     "Changelog": "## What's Changed\r\n* Adding Config Backup Functionality by @CritoCantCode in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/776\r\n* New SubMenu Functionality to Enable/Disable Actions by @CritoCantCode in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/777\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.19...7.2.5.20",
-    "DownloadCount": 1079154
+    "DownloadCount": 1079301
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Company of Stone CE by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/811\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.10...7.2.5.11",
-    "DownloadCount": 1468732
+    "DownloadCount": 1468923
   },
   {
     "Author": "The Combat Reborn Team",
