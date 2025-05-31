@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.55/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.1.55",
     "Changelog": "## What's Changed\r\n* Added Cannoners Phantom actions and fix logic for healers by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/773\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.16...7.2.5.17",
-    "DownloadCount": 1073579
+    "DownloadCount": 1073742
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.9/BossModReborn.zip",
-    "AssemblyVersion": "7.2.5.9",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.9/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.10/BossModReborn.zip",
+    "AssemblyVersion": "7.2.5.10",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.10/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* Unbridled CE by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/808\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.8...7.2.5.9",
-    "DownloadCount": 1462574
+    "Changelog": "## What's Changed\r\n* Calamity Bound CE by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/809\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.9...7.2.5.10",
+    "DownloadCount": 1462820
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.2.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.2.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* 7.2 update by @BrakusTapus in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/8\r\n* Refactor project configuration and update dependencies by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/9\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.2...7.2.0.0",
-    "DownloadCount": 22412
+    "DownloadCount": 22413
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.60/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.60",
     "Changelog": "## What's Changed\r\n* Allow mounting up while moving by @garypwn in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/371\r\n* Upstream merge by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/372\r\n* Upstream sync 2 by @CritoCantCode in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/374\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.55...7.2.2.56",
-    "DownloadCount": 324237
+    "DownloadCount": 324240
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Deprecate Supermarket Sweep by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 18076
+    "DownloadCount": 18077
   }
 ]
