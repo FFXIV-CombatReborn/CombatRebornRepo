@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.55/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.1.55",
     "Changelog": "## What's Changed\r\n* Resolve perf issues related to object management being done on FrameworkUpdate by @arcwowdev in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/778\r\n* Add MinUpdatingTime back. by @arcwowdev in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/779\r\n* Misc Updates, Update to Shake It Off on WAR by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/780\r\n\r\n## New Contributors\r\n* @arcwowdev made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/778\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.20...7.2.5.21",
-    "DownloadCount": 1082029
+    "DownloadCount": 1082140
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Flame of Dusk CE by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/813\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.11...7.2.5.12",
-    "DownloadCount": 1472433
+    "DownloadCount": 1472571
   },
   {
     "Author": "The Combat Reborn Team",
