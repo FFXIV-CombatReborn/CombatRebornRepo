@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.55/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.1.55",
     "Changelog": "## What's Changed\r\n* Update for Line Of Sight system by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/788\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.27...7.2.5.28",
-    "DownloadCount": 1096476
+    "DownloadCount": 1096521
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.17/BossModReborn.zip",
-    "AssemblyVersion": "7.2.5.17",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.17/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.18/BossModReborn.zip",
+    "AssemblyVersion": "7.2.5.18",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.18/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* fix Scarmiglione stack, added missing action to DT treasure hunt dungeon by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/820\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.16...7.2.5.17",
-    "DownloadCount": 1488628
+    "Changelog": "## What's Changed\r\n* scarmiglione again by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/821\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.17...7.2.5.18",
+    "DownloadCount": 1488729
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Deprecate Supermarket Sweep by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 18220
+    "DownloadCount": 18221
   }
 ]
