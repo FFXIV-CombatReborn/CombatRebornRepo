@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.26/RotationSolver.zip",
-    "AssemblyVersion": "7.2.5.26",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.26/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.27/RotationSolver.zip",
+    "AssemblyVersion": "7.2.5.27",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.27/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.1.55/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.1.55",
-    "Changelog": "## What's Changed\r\n* Massive framerate improvements, Time Mage action improvement, and some UI changes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/786\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.25...7.2.5.26",
-    "DownloadCount": 1093223
+    "Changelog": "## What's Changed\r\n* Hotfix actorvfx and undo automated code cleanup that caused issue with IPC by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/787\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.26...7.2.5.27",
+    "DownloadCount": 1093331
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Eternal Watch and Shark Attack CEs by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/817\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.14...7.2.5.15",
-    "DownloadCount": 1485852
+    "DownloadCount": 1485980
   },
   {
     "Author": "The Combat Reborn Team",
