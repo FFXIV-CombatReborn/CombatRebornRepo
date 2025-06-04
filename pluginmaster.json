@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.32/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.32",
     "Changelog": "## What's Changed\r\n* Clenaup Phantom debug info by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/797\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.34...7.2.5.35",
-    "DownloadCount": 1108558
+    "DownloadCount": 1108624
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Merge vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/824\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.20...7.2.5.21",
-    "DownloadCount": 1502745
+    "DownloadCount": 1502778
   },
   {
     "Author": "The Combat Reborn Team",
