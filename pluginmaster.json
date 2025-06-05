@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.32/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.32",
     "Changelog": "## What's Changed\r\n* Phantom Samurai and Phantom Chemist item based action support by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/799\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.36...7.2.5.37",
-    "DownloadCount": 1111025
+    "DownloadCount": 1111125
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* fix problems after merge by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/825\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.21...7.2.5.22",
-    "DownloadCount": 1505390
+    "DownloadCount": 1505499
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Deprecate Supermarket Sweep by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 18311
+    "DownloadCount": 18312
   }
 ]
