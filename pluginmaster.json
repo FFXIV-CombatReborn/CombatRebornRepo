@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.32/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.32",
     "Changelog": "## What's Changed\r\n* Experimental solution to cast cancelling with BMR movement AI by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/807\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.43...7.2.5.44",
-    "DownloadCount": 1118767
+    "DownloadCount": 1118939
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* A Delicate Balance, King of The Crescent, A Prying Eye, Fatal Allure, Winged Terror FATEs by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/827\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.23...7.2.5.24",
-    "DownloadCount": 1512400
+    "DownloadCount": 1512597
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Deprecate Supermarket Sweep by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 18337
+    "DownloadCount": 18339
   }
 ]
