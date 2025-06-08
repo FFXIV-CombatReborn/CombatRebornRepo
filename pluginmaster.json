@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.48/RotationSolver.zip",
-    "AssemblyVersion": "7.2.5.48",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.48/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.49/RotationSolver.zip",
+    "AssemblyVersion": "7.2.5.49",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.49/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.32/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.32",
-    "Changelog": "## What's Changed\r\n* Use Sun Sign if Suntouched is about to expire by @Arichist in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/815\r\n* Fix logic in healing check by @arcwowdev in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/813\r\n* Reworked Viper entirely, adjusted AST and MCH, misc pot change by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/816\r\n* Adjustment to Viper Rework by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/817\r\n\r\n## New Contributors\r\n* @Arichist made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/815\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.47...7.2.5.48",
-    "DownloadCount": 1132328
+    "Changelog": "## What's Changed\r\n* Hotfix for Viper rework and SGE by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/818\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.48...7.2.5.49",
+    "DownloadCount": 1132448
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* added timeline + cooldown planning to FTB Demon Tablet module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/832\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.27...7.2.5.28",
-    "DownloadCount": 1530197
+    "DownloadCount": 1530281
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,6 +186,6 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Deprecate Supermarket Sweep by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 18433
+    "DownloadCount": 18434
   }
 ]
