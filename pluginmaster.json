@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.52/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.52",
     "Changelog": "## What's Changed\r\n* Require DNC to have Standard Finish for phantom burst. by @arcwowdev in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/829\r\n* Fix issue with field op detection and CE boss aggro by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/830\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.58...7.2.5.59",
-    "DownloadCount": 1144867
+    "DownloadCount": 1145007
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Forked Tower Blood Dead Stars module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/835\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.30...7.2.5.31",
-    "DownloadCount": 1543111
+    "DownloadCount": 1543218
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.60/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.2.60",
     "Changelog": "## What's Changed\r\n* Allow mounting up while moving by @garypwn in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/371\r\n* Upstream merge by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/372\r\n* Upstream sync 2 by @CritoCantCode in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/374\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.55...7.2.2.56",
-    "DownloadCount": 325674
+    "DownloadCount": 325675
   },
   {
     "Author": "The Combat Reborn Team",
