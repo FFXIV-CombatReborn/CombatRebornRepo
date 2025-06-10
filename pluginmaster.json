@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* added missing AIDs to the twinning by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/834\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.29...7.2.5.30",
-    "DownloadCount": 1539647
+    "DownloadCount": 1539745
   },
   {
     "Author": "The Combat Reborn Team",
