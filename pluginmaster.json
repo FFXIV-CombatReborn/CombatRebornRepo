@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.52/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.52",
     "Changelog": "## What's Changed\r\n* Monk Rework, SGE hotfix for Zoe, wording fix for healer configs by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/839\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.67...7.2.5.68",
-    "DownloadCount": 1160826
+    "DownloadCount": 1160968
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* start work on Marble Dragon module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/837\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.32...7.2.5.33",
-    "DownloadCount": 1553372
+    "DownloadCount": 1553668
   },
   {
     "Author": "The Combat Reborn Team",
