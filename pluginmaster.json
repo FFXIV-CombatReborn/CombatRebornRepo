@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.52/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.52",
     "Changelog": "## What's Changed\r\n* Update to VPR base and hotfix for combo actions by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/842\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.70...7.2.5.71",
-    "DownloadCount": 1174769
+    "DownloadCount": 1174804
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* started work on Magitaur by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/841\r\n* merge vbm stuff by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/842\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.36...7.2.5.37",
-    "DownloadCount": 1574502
+    "DownloadCount": 1574635
   },
   {
     "Author": "The Combat Reborn Team",
