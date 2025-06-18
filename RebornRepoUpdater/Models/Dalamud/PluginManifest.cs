@@ -11,6 +11,8 @@ public class PluginManifest
 
     [JsonProperty("InternalName")] public string InternalName { get; set; }
 
+    [JsonProperty("RepoUrl")] public string RepoUrl { get; set; }
+
     [JsonProperty("Description")] public string Description { get; set; }
 
     [JsonProperty("ApplicableVersion")] public string ApplicableVersion { get; set; }
