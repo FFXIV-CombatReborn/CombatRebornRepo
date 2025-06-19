@@ -3,7 +3,6 @@
     "Author": "The Combat Reborn Team",
     "Name": "Rotation Solver Reborn",
     "InternalName": "RotationSolver",
-    "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
     "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
@@ -33,13 +32,12 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.52/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.52",
     "Changelog": "## What's Changed\r\n* Update SMN and MCH by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/845\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.73...7.2.5.74",
-    "DownloadCount": 1186034
+    "DownloadCount": 1186091
   },
   {
     "Author": "The Combat Reborn Team",
     "Name": "BossMod Reborn",
     "InternalName": "BossModReborn",
-    "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
     "Description": "A bunch of utilities to simplify boss mechanics",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
@@ -67,13 +65,12 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* some BA clean up, fix Marble Dragon bug by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/843\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.37...7.2.5.38",
-    "DownloadCount": 1586835
+    "DownloadCount": 1586881
   },
   {
     "Author": "The Combat Reborn Team",
     "Name": "ActionTimeline Reborn",
     "InternalName": "ActionTimelineEx",
-    "RepoUrl": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn",
     "Description": "Configurable timeline display of all the actions you use.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
@@ -102,7 +99,6 @@
     "Author": "The Combat Reborn Team",
     "Name": "EasyZoom Reborn",
     "InternalName": "EasyZoomReborn",
-    "RepoUrl": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn",
     "Description": "Easy zoom distance unlock and fov control. /ez opens the EasyZoomReborn configuration window.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
@@ -132,7 +128,6 @@
     "Author": "The Combat Reborn Team",
     "Name": "GatherBuddy Reborn",
     "InternalName": "GatherbuddyReborn",
-    "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
@@ -171,7 +166,6 @@
     "Author": "The Combat Reborn Team",
     "Name": "Reborn Toolbox",
     "InternalName": "RebornToolbox",
-    "RepoUrl": "https://github.com/FFXIV-CombatReborn/RebornToolbox",
     "Description": "Various tweaks and features provided by the Combat Reborn team that don't need their own plugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
@@ -198,7 +192,6 @@
     "Author": "The Combat Reborn Team",
     "Name": "ZodiacBuddy Reborn",
     "InternalName": "ZodiacBuddyReborn",
-    "RepoUrl": null,
     "Description": "Automates various steps of the ARR Relic Quests",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
@@ -224,6 +217,6 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.2.5.3...7.2.5.4",
-    "DownloadCount": 72
+    "DownloadCount": 73
   }
 ]
