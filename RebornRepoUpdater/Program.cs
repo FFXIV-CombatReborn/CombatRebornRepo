@@ -18,6 +18,7 @@ class Program
         new KnownRepo("EasyZoomReborn", "EasyZoomReborn"),
         new KnownRepo("GatherBuddyReborn", "GatherbuddyReborn"),
         new KnownRepo("RebornToolbox", "RebornToolbox"),
+        new KnownRepo("ZodiacBuddyReborn", "ZodiacBuddyReborn"),
     ];
 
     static async Task Main(string[] args)
