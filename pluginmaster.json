@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.52/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.52",
     "Changelog": "## What's Changed\r\n* Update to MCH and status management by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/847\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.75...7.2.5.76",
-    "DownloadCount": 1197061
+    "DownloadCount": 1197074
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* minkowski sums by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/848\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.42...7.2.5.43",
-    "DownloadCount": 1604190
+    "DownloadCount": 1604240
   },
   {
     "Author": "The Combat Reborn Team",
