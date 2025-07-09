@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.67/BossModReborn.zip",
-    "AssemblyVersion": "7.2.5.67",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.67/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.68/BossModReborn.zip",
+    "AssemblyVersion": "7.2.5.68",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.68/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* Add chat notifications when replays are needed by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/872\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.66...7.2.5.67",
-    "DownloadCount": 1690068
+    "Changelog": "## What's Changed\r\n* Refactor replay module check to use registered modules instead of loa… by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/873\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.67...7.2.5.68",
+    "DownloadCount": 1690314
   },
   {
     "Author": "The Combat Reborn Team",
