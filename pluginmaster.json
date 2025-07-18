@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.86/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.86",
     "Changelog": "## What's Changed\r\n* Added option to DRK to try to save party member during AOE by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/888\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.105...7.2.5.106",
-    "DownloadCount": 1316456
+    "DownloadCount": 1316524
   },
   {
     "Author": "The Combat Reborn Team",
@@ -62,10 +62,8 @@
     "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.86/BossModReborn.zip",
     "AssemblyVersion": "7.2.5.86",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.86/BossModReborn.zip",
-    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
-    "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* update XunZu MengZi module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/894\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.85...7.2.5.86",
-    "DownloadCount": 1742094
+    "DownloadCount": 602281
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +158,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
     "Changelog": "## What's Changed\r\n* Allow mounting up while moving by @garypwn in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/371\r\n* Upstream merge by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/372\r\n* Upstream sync 2 by @CritoCantCode in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/374\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.55...7.2.2.56",
-    "DownloadCount": 332188
+    "DownloadCount": 332193
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,7 +184,7 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Deprecate Supermarket Sweep by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 19912
+    "DownloadCount": 19913
   },
   {
     "Author": "The Combat Reborn Team",
@@ -217,6 +215,6 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\nIntegrate IPC into enemy pathing for killing routines.\r\nGeneral Kill Tracking improvements to prevent double counting.\r\nMove AtmaManager toggle into Zodiac Target ImGui window.\r\nRemoved AtmaManager from general settings.\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.2.5.5...7.2.5.6",
-    "DownloadCount": 1885
+    "DownloadCount": 1887
   }
 ]
