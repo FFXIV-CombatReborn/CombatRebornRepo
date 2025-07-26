@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.86/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.86",
     "Changelog": "## What's Changed\r\n* Enhanced target logic for botters, cleanup for rotations, BRD configs by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/903\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.116...7.2.5.117",
-    "DownloadCount": 1352256
+    "DownloadCount": 1352522
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* update Geryon and Gladiator of Sildihn Subterrane by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/913\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.101...7.2.5.102",
-    "DownloadCount": 1792106
+    "DownloadCount": 1792232
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.2.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.2.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* 7.2 update by @BrakusTapus in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/8\r\n* Refactor project configuration and update dependencies by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/9\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.2...7.2.0.0",
-    "DownloadCount": 25180
+    "DownloadCount": 25181
   },
   {
     "Author": "The Combat Reborn Team",
@@ -154,13 +154,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.2/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.2.5.2",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.2/GatherbuddyReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.3/GatherbuddyReborn.zip",
+    "AssemblyVersion": "7.2.5.3",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.3/GatherbuddyReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
-    "Changelog": "## What's Changed\r\n* Upstream changes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/375\r\n* Auto fishing by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/376\r\n* Refactor AutoGather logic for improved flexibility and clarity by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/377\r\n* More Auto Fishing Updates by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/379\r\n* More fishing fixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/380\r\n* New fixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/385\r\n* Tres fixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/386\r\n* Experiment auto-retainer support by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/387\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.56...7.2.5.2",
-    "DownloadCount": 343144
+    "Changelog": "## What's Changed\r\n* Fix collectibles getting abandoned during revist by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/392\r\n* More descriptive error on no position data for fishing hole by @StarkITA in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/391\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.5.2...7.2.5.3",
+    "DownloadCount": 343165
   },
   {
     "Author": "The Combat Reborn Team",
