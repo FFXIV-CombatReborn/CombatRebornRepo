@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.86/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.86",
     "Changelog": "## What's Changed\r\n* Enhanced target logic for botters, cleanup for rotations, BRD configs by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/903\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.5.116...7.2.5.117",
-    "DownloadCount": 1355792
+    "DownloadCount": 1356021
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* update Geryon and Gladiator of Sildihn Subterrane by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/913\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.101...7.2.5.102",
-    "DownloadCount": 1793816
+    "DownloadCount": 1793906
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
     "Changelog": "## What's Changed\r\n* Fix collectibles getting abandoned during revist by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/392\r\n* More descriptive error on no position data for fishing hole by @StarkITA in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/391\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.5.2...7.2.5.3",
-    "DownloadCount": 346638
+    "DownloadCount": 346821
   },
   {
     "Author": "The Combat Reborn Team",
@@ -217,6 +217,6 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\nIntegrate IPC into enemy pathing for killing routines.\r\nGeneral Kill Tracking improvements to prevent double counting.\r\nMove AtmaManager toggle into Zodiac Target ImGui window.\r\nRemoved AtmaManager from general settings.\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.2.5.5...7.2.5.6",
-    "DownloadCount": 2207
+    "DownloadCount": 2209
   }
 ]
