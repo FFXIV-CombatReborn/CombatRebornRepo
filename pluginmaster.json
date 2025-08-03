@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
     "Changelog": "## What's Changed\r\n* Fix collectibles getting abandoned during revist by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/392\r\n* More descriptive error on no position data for fishing hole by @StarkITA in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/391\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.5.2...7.2.5.3",
-    "DownloadCount": 354314
+    "DownloadCount": 354317
   },
   {
     "Author": "The Combat Reborn Team",
@@ -218,5 +218,39 @@
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\nIntegrate IPC into enemy pathing for killing routines.\r\nGeneral Kill Tracking improvements to prevent double counting.\r\nMove AtmaManager toggle into Zodiac Target ImGui window.\r\nRemoved AtmaManager from general settings.\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.2.5.5...7.2.5.6",
     "DownloadCount": 2450
+  },
+  {
+    "Author": "The Combat Reborn Team",
+    "Name": "Party Finder Reborn",
+    "InternalName": "PartyFinderReborn",
+    "Description": "Connect with fellow Warriors of Light and find your perfect party composition with our modern, feature-rich party matching system.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 12,
+    "Tags": [
+      "party",
+      "finder",
+      "matching",
+      "social",
+      "ui"
+    ],
+    "CategoryTags": [
+      "social"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": true,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PFR_Icon.png",
+    "Punchline": "A modern party matching system for Final Fantasy XIV",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Party-Finder-Reborn/party-finder-plugin/releases/download/0.0.0.26/PartyFinderReborn.zip",
+    "AssemblyVersion": "0.0.0.26",
+    "DownloadLinkUpdate": "https://github.com/Party-Finder-Reborn/party-finder-plugin/releases/download/0.0.0.26/PartyFinderReborn.zip",
+    "DownloadLinkTesting": "https://github.com/Party-Finder-Reborn/party-finder-plugin/releases/download/0.0.0.2/PartyFinderReborn.zip",
+    "TestingAssemblyVersion": "0.0.0.2",
+    "Changelog": "**Full Changelog**: https://github.com/Party-Finder-Reborn/party-finder-plugin/compare/0.0.0.25...0.0.0.26",
+    "DownloadCount": 38
   }
 ]
