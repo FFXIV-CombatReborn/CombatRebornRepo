@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.86/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.86",
     "Changelog": "## What's Changed\r\n* Few core fixes, AOE list update for new alliance raid, Key Pulse fixed by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/911\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.0...7.3.0.1",
-    "DownloadCount": 1390285
+    "DownloadCount": 1390376
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* 7.3 WIP by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/921\r\n* 7.3 WIP by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/922\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.5.109...7.3.0.0",
-    "DownloadCount": 1826732
+    "DownloadCount": 1826964
   },
   {
     "Author": "The Combat Reborn Team",
