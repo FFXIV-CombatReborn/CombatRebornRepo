@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.86/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.86",
     "Changelog": "## What's Changed\r\n* Update for Dalamud stg branch 125 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/917\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.6...7.3.0.7",
-    "DownloadCount": 1394276
+    "DownloadCount": 1394404
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.0.3...7.3.0.4",
-    "DownloadCount": 1831731
+    "DownloadCount": 1831904
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.3.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.0.1/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Update for Dalamud stg branch, build 125 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/7\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.3.0.0...7.3.0.1",
-    "DownloadCount": 15358
+    "DownloadCount": 15360
   },
   {
     "Author": "The Combat Reborn Team",
@@ -130,8 +130,8 @@
     "InternalName": "GatherbuddyReborn",
     "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 12,
-    "TestingDalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
     "Tags": [
       "Gathering",
       "Fishing",
@@ -154,13 +154,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.3/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.2.5.3",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.3/GatherbuddyReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.3.0.0/GatherbuddyReborn.zip",
+    "AssemblyVersion": "7.3.0.0",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.3.0.0/GatherbuddyReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
-    "Changelog": "## What's Changed\r\n* Fix collectibles getting abandoned during revist by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/392\r\n* More descriptive error on no position data for fishing hole by @StarkITA in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/391\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.5.2...7.2.5.3",
-    "DownloadCount": 355053
+    "Changelog": "## What's Changed\r\n* Seven point three by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/396\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.5.3...7.3.0.0",
+    "DownloadCount": 355062
   },
   {
     "Author": "The Combat Reborn Team",
