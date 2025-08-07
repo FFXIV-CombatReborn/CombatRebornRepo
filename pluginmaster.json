@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.86/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.86",
     "Changelog": "## What's Changed\r\n* Fix for 7.3 dungeon boss custom logic, better fix for rotation loading by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/916\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.5...7.3.0.6",
-    "DownloadCount": 1391933
+    "DownloadCount": 1392106
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* fix for new dalamud build by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/924\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.0.1...7.3.0.2",
-    "DownloadCount": 1828589
+    "DownloadCount": 1828759
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.3.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.0.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* 7.3 update and large refactor by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.2.0.1...7.3.0.0",
-    "DownloadCount": 15256
+    "DownloadCount": 15259
   },
   {
     "Author": "The Combat Reborn Team",
