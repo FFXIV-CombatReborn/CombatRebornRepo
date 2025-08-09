@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.13/RotationSolver.zip",
-    "AssemblyVersion": "7.3.0.13",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.13/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.14/RotationSolver.zip",
+    "AssemblyVersion": "7.3.0.14",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.14/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.86/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.86",
-    "Changelog": "## What's Changed\r\n* Added checks to prevent heal attmepts on Squadron pets, i.e. Arcanist carbuncle by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/923\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.12...7.3.0.13",
-    "DownloadCount": 1400760
+    "Changelog": "## What's Changed\r\n* Hotfixes for WHM and RDM by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/924\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.13...7.3.0.14",
+    "DownloadCount": 1400958
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Meso Terminal modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/929\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.0.7...7.3.0.8",
-    "DownloadCount": 1838898
+    "DownloadCount": 1839211
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.3.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.0.2/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Nuget bump and build 128 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.3.0.1...7.3.0.2",
-    "DownloadCount": 15477
+    "DownloadCount": 15480
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
     "Changelog": "## What's Changed\r\n* Seven point three by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/396\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.5.3...7.3.0.0",
-    "DownloadCount": 359636
+    "DownloadCount": 359679
   },
   {
     "Author": "The Combat Reborn Team",
