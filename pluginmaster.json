@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.86/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.86",
     "Changelog": "## What's Changed\r\n* Update for latest Dalamud build, added new esunable statuses (please hit update on status list), and added ability to minimize control window by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/920\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.9...7.3.0.10",
-    "DownloadCount": 1398937
+    "DownloadCount": 1399021
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* merge vbm, update CS by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/928\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.0.6...7.3.0.7",
-    "DownloadCount": 1838377
+    "DownloadCount": 1838417
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.3.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.0.2/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Nuget bump and build 128 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.3.0.1...7.3.0.2",
-    "DownloadCount": 15473
+    "DownloadCount": 15474
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
     "Changelog": "## What's Changed\r\n* Seven point three by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/396\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.5.3...7.3.0.0",
-    "DownloadCount": 359231
+    "DownloadCount": 359262
   },
   {
     "Author": "The Combat Reborn Team",
