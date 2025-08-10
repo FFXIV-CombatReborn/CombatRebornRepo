@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.17/RotationSolver.zip",
-    "AssemblyVersion": "7.3.0.17",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.17/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.19/RotationSolver.zip",
+    "AssemblyVersion": "7.3.0.19",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.19/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.86/RotationSolver.zip",
     "TestingAssemblyVersion": "7.2.5.86",
-    "Changelog": "## What's Changed\r\n* Fix for ActionContextMenu, fix for timeline menu, etc by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/927\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.16...7.3.0.17",
-    "DownloadCount": 1410097
+    "Changelog": "Update for full Dalamud release for 7.3",
+    "DownloadCount": 1410212
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* increased tolerance for Headsmen exaflare by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/930\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.0.8...7.3.0.9",
-    "DownloadCount": 1847136
+    "DownloadCount": 1847229
   },
   {
     "Author": "The Combat Reborn Team",
@@ -89,11 +89,11 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/ATR_Icon.png",
     "Punchline": "Show your actions in real-time.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.0.2/ActionTimelineReborn.zip",
-    "AssemblyVersion": "7.3.0.2",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.0.2/ActionTimelineReborn.zip",
-    "Changelog": "## What's Changed\r\n* Nuget bump and build 128 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.3.0.1...7.3.0.2",
-    "DownloadCount": 15539
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.0.3/ActionTimelineReborn.zip",
+    "AssemblyVersion": "7.3.0.3",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.0.3/ActionTimelineReborn.zip",
+    "Changelog": "Update for full Dalamud release for 7.3",
+    "DownloadCount": 15541
   },
   {
     "Author": "The Combat Reborn Team",
@@ -154,13 +154,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.3.0.1/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.3.0.1",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.3.0.1/GatherbuddyReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.3.0.2/GatherbuddyReborn.zip",
+    "AssemblyVersion": "7.3.0.2",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.3.0.2/GatherbuddyReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
-    "Changelog": "## What's Changed\r\n* Seven point three fixes by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/398\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.0.0...7.3.0.1",
-    "DownloadCount": 365512
+    "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.0.1...7.3.0.2",
+    "DownloadCount": 365637
   },
   {
     "Author": "The Combat Reborn Team",
