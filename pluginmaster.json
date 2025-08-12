@@ -29,10 +29,8 @@
     "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.27/RotationSolver.zip",
     "AssemblyVersion": "7.3.0.27",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.27/RotationSolver.zip",
-    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.86/RotationSolver.zip",
-    "TestingAssemblyVersion": "7.2.5.86",
     "Changelog": "## What's Changed\r\n* Adjusted Meso Terminal targeting to account for hellmakers, cleanup of AQM by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/936\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.26...7.3.0.27",
-    "DownloadCount": 508012
+    "DownloadCount": 52956
   },
   {
     "Author": "The Combat Reborn Team",
@@ -63,7 +61,7 @@
     "AssemblyVersion": "7.3.0.11",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.3.0.11/BossModReborn.zip",
     "Changelog": "## What's Changed\r\n* added max distance setting for activating modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/932\r\n* fix distance setting for replays by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/933\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.0.10...7.3.0.11",
-    "DownloadCount": 808764
+    "DownloadCount": 192777
   },
   {
     "Author": "The Combat Reborn Team",
@@ -91,7 +89,7 @@
     "AssemblyVersion": "7.3.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.0.3/ActionTimelineReborn.zip",
     "Changelog": "Update for full Dalamud release for 7.3",
-    "DownloadCount": 15783
+    "DownloadCount": 15786
   },
   {
     "Author": "The Combat Reborn Team",
@@ -116,11 +114,7 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/EZR_Icon.png",
     "Punchline": "Easy zoom distance unlock and fov control. /ez opens the EasyZoomReborn configuration window.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.3.0.0/EasyZoomReborn.zip",
-    "AssemblyVersion": "7.3.0.0",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.3.0.0/EasyZoomReborn.zip",
-    "Changelog": "## What's Changed\r\n* Update for 7.3 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.2.0.0...7.3.0.0",
-    "DownloadCount": 26388
+    "DownloadCount": 0
   },
   {
     "Author": "The Combat Reborn Team",
@@ -158,7 +152,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.0.1...7.3.0.2",
-    "DownloadCount": 376120
+    "DownloadCount": 356032
   },
   {
     "Author": "The Combat Reborn Team",
@@ -184,7 +178,7 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Deprecate Supermarket Sweep by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 20462
+    "DownloadCount": 20464
   },
   {
     "Author": "The Combat Reborn Team",
@@ -249,6 +243,6 @@
     "DownloadLinkTesting": "https://github.com/Party-Finder-Reborn/party-finder-plugin/releases/download/0.0.0.2/PartyFinderReborn.zip",
     "TestingAssemblyVersion": "0.0.0.2",
     "Changelog": "**Full Changelog**: https://github.com/Party-Finder-Reborn/party-finder-plugin/compare/7.3.0.0...7.3.0.1",
-    "DownloadCount": 906
+    "DownloadCount": 908
   }
 ]
