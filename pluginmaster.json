@@ -26,7 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadCount": 0
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.27/RotationSolver.zip",
+    "AssemblyVersion": "7.3.0.27",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.27/RotationSolver.zip",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.86/RotationSolver.zip",
+    "TestingAssemblyVersion": "7.2.5.86",
+    "Changelog": "## What's Changed\r\n* Adjusted Meso Terminal targeting to account for hellmakers, cleanup of AQM by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/936\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.26...7.3.0.27",
+    "DownloadCount": 508012
   },
   {
     "Author": "The Combat Reborn Team",
@@ -53,7 +59,11 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadCount": 0
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.3.0.11/BossModReborn.zip",
+    "AssemblyVersion": "7.3.0.11",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.3.0.11/BossModReborn.zip",
+    "Changelog": "## What's Changed\r\n* added max distance setting for activating modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/932\r\n* fix distance setting for replays by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/933\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.0.10...7.3.0.11",
+    "DownloadCount": 808764
   },
   {
     "Author": "The Combat Reborn Team",
@@ -77,7 +87,11 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/ATR_Icon.png",
     "Punchline": "Show your actions in real-time.",
     "AcceptsFeedback": true,
-    "DownloadCount": 0
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.0.3/ActionTimelineReborn.zip",
+    "AssemblyVersion": "7.3.0.3",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.0.3/ActionTimelineReborn.zip",
+    "Changelog": "Update for full Dalamud release for 7.3",
+    "DownloadCount": 15783
   },
   {
     "Author": "The Combat Reborn Team",
@@ -106,7 +120,7 @@
     "AssemblyVersion": "7.3.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.3.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Update for 7.3 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.2.0.0...7.3.0.0",
-    "DownloadCount": 26373
+    "DownloadCount": 26388
   },
   {
     "Author": "The Combat Reborn Team",
@@ -138,7 +152,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "AcceptsFeedback": true,
-    "DownloadCount": 0
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.3.0.2/GatherbuddyReborn.zip",
+    "AssemblyVersion": "7.3.0.2",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.3.0.2/GatherbuddyReborn.zip",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
+    "TestingAssemblyVersion": "7.2.5.1",
+    "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.0.1...7.3.0.2",
+    "DownloadCount": 376120
   },
   {
     "Author": "The Combat Reborn Team",
@@ -189,7 +209,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/ZBR_Icon.png",
     "Punchline": "Finally a reason to open your Relic Book on purpose!",
     "AcceptsFeedback": true,
-    "DownloadCount": 0
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.6/ZodiacBuddyReborn.zip",
+    "AssemblyVersion": "7.2.5.6",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.6/ZodiacBuddyReborn.zip",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
+    "TestingAssemblyVersion": "7.2.5.3",
+    "Changelog": "## What's Changed\r\nIntegrate IPC into enemy pathing for killing routines.\r\nGeneral Kill Tracking improvements to prevent double counting.\r\nMove AtmaManager toggle into Zodiac Target ImGui window.\r\nRemoved AtmaManager from general settings.\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.2.5.5...7.2.5.6",
+    "DownloadCount": 2497
   },
   {
     "Author": "The Combat Reborn Team",
@@ -217,6 +243,12 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PFR_Icon.png",
     "Punchline": "A modern party matching system for Final Fantasy XIV",
     "AcceptsFeedback": true,
-    "DownloadCount": 0
+    "DownloadLinkInstall": "https://github.com/Party-Finder-Reborn/party-finder-plugin/releases/download/7.3.0.1/PartyFinderReborn.zip",
+    "AssemblyVersion": "7.3.0.1",
+    "DownloadLinkUpdate": "https://github.com/Party-Finder-Reborn/party-finder-plugin/releases/download/7.3.0.1/PartyFinderReborn.zip",
+    "DownloadLinkTesting": "https://github.com/Party-Finder-Reborn/party-finder-plugin/releases/download/0.0.0.2/PartyFinderReborn.zip",
+    "TestingAssemblyVersion": "0.0.0.2",
+    "Changelog": "**Full Changelog**: https://github.com/Party-Finder-Reborn/party-finder-plugin/compare/7.3.0.0...7.3.0.1",
+    "DownloadCount": 906
   }
 ]
