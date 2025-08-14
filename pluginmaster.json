@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.31/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.0.31",
     "Changelog": "## What's Changed\r\n* Hotfix for tank mits and Dalamud Branch checking by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/939\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.29...7.3.0.30",
-    "DownloadCount": 1443424
+    "DownloadCount": 1443456
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.3.0.13/BossModReborn.zip",
-    "AssemblyVersion": "7.3.0.13",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.3.0.13/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.3.0.14/BossModReborn.zip",
+    "AssemblyVersion": "7.3.0.14",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.3.0.14/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* small necron improvement by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/935\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.0.12...7.3.0.13",
-    "DownloadCount": 1871881
+    "Changelog": "## What's Changed\r\n* Necron normal module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/936\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.0.13...7.3.0.14",
+    "DownloadCount": 1871917
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.0.1...7.3.0.2",
-    "DownloadCount": 378110
+    "DownloadCount": 378111
   },
   {
     "Author": "The Combat Reborn Team",
