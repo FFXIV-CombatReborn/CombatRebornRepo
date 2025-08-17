@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.39/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.0.39",
     "Changelog": "## What's Changed\r\n* Moved animationlock tweaks to Extra, clamped timer to minimum of 26 in calculations by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/956\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.41...7.3.0.42",
-    "DownloadCount": 1453765
+    "DownloadCount": 1453766
   },
   {
     "Author": "The Combat Reborn Team",
