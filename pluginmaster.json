@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.39/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.0.39",
     "Changelog": "## What's Changed\r\n* Hotfix for tank mits and Dalamud Branch checking by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/939\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.29...7.3.0.30",
-    "DownloadCount": 1450689
+    "DownloadCount": 1450720
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* update Qarn Teratotaur for 7.3 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/941\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.0.18...7.3.0.19",
-    "DownloadCount": 1895117
+    "DownloadCount": 1895220
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.0.1...7.3.0.2",
-    "DownloadCount": 379873
+    "DownloadCount": 379886
   },
   {
     "Author": "The Combat Reborn Team",
