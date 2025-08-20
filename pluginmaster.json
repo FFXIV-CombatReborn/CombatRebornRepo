@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.45/RotationSolver.zip",
-    "AssemblyVersion": "7.3.0.45",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.45/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.46/RotationSolver.zip",
+    "AssemblyVersion": "7.3.0.46",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.46/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.39/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.0.39",
-    "Changelog": "## What's Changed\r\n* Changes to Intercept System and AST by @TheDeadCode in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/959\r\n* More refined Autoduty IPC support, PLD fixes, first implementation of Pheonix Down support by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/960\r\n* Changes to healing thresholds & GCD spell interruption by @TheDeadCode in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/961\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.44...7.3.0.45",
-    "DownloadCount": 1465722
+    "Changelog": "## What's Changed\r\n* AST Synastry Config by @TheDeadCode in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/962\r\n* More refinemnets for AST by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/963\r\n* More refinements for AST, fix for action debug display by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/964\r\n* Fix Heal cancellation when there is nothing to do. by @TheDeadCode in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/965\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.45...7.3.0.46",
+    "DownloadCount": 1466298
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Faithbound Kirin module, improved Necron Aetherblight hint by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/944\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.0.21...7.3.0.22",
-    "DownloadCount": 1908188
+    "DownloadCount": 1909007
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.3.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.0.3/ActionTimelineReborn.zip",
     "Changelog": "Update for full Dalamud release for 7.3",
-    "DownloadCount": 16132
+    "DownloadCount": 16134
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.3.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.3.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Update for 7.3 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.2.0.0...7.3.0.0",
-    "DownloadCount": 28645
+    "DownloadCount": 28656
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.0.1...7.3.0.2",
-    "DownloadCount": 381243
+    "DownloadCount": 381280
   },
   {
     "Author": "The Combat Reborn Team",
@@ -251,6 +251,6 @@
     "DownloadLinkTesting": "https://github.com/Party-Finder-Reborn/party-finder-plugin/releases/download/0.0.0.2/PartyFinderReborn.zip",
     "TestingAssemblyVersion": "0.0.0.2",
     "Changelog": "**Full Changelog**: https://github.com/Party-Finder-Reborn/party-finder-plugin/compare/7.3.0.0...7.3.0.1",
-    "DownloadCount": 1372
+    "DownloadCount": 1376
   }
 ]
