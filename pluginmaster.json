@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.49/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.0.49",
     "Changelog": "## What's Changed\r\n* Hotfix for BLM Aetherial Manipulation and for potential issues with PvE LB being incorrectly activated for some reason by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/971\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.51...7.3.0.52",
-    "DownloadCount": 1481666
+    "DownloadCount": 1481667
   },
   {
     "Author": "The Combat Reborn Team",
