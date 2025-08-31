@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.49/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.0.49",
     "Changelog": "## What's Changed\r\n* Hotfixes for melee PVP classes, BRD PvP, NIN PVE, and fix for interrupting while not active by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/983\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.0.56...7.3.0.57",
-    "DownloadCount": 1513925
+    "DownloadCount": 1513954
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* clean up , merge vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/960\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.0.34...7.3.0.35",
-    "DownloadCount": 1973758
+    "DownloadCount": 1974004
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.3.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.0.3/ActionTimelineReborn.zip",
     "Changelog": "Update for full Dalamud release for 7.3",
-    "DownloadCount": 16467
+    "DownloadCount": 16468
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
     "Changelog": "## What's Changed\r\n* Fix Min/Max input fields by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/404\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.0.2...7.3.0.3",
-    "DownloadCount": 397253
+    "DownloadCount": 397260
   },
   {
     "Author": "The Combat Reborn Team",
@@ -217,7 +217,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.3.1.0...7.3.1.1\r\n\r\n-Bump API version to 13\r\n-Removed Ecommons Submodule and updated to NuGet Ecommons\r\n-Verified prior functionality\r\n-Manifest error fixed",
-    "DownloadCount": 3623
+    "DownloadCount": 3624
   },
   {
     "Author": "The Combat Reborn Team",
