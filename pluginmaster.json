@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.1.25/RotationSolver.zip",
-    "AssemblyVersion": "7.3.1.25",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.1.25/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.1.26/RotationSolver.zip",
+    "AssemblyVersion": "7.3.1.26",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.1.26/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.49/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.0.49",
-    "Changelog": "## What's Changed\r\n* Hotfix for out of combat engagement behaviour by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1020\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.1.24...7.3.1.25",
-    "DownloadCount": 1657045
+    "Changelog": "## What's Changed\r\n* DNC partner, AST card, and SGE kardia target fixes, and action UI fix by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1021\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.1.25...7.3.1.26",
+    "DownloadCount": 1657057
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* some clean ups by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1001\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.1.28...7.3.1.29",
-    "DownloadCount": 2148098
+    "DownloadCount": 2148108
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.3.1.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.1.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Update OnCastHook Sigs by @ElliotZ in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/9\r\n\r\n## New Contributors\r\n* @ElliotZ made their first contribution in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/9\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.3.0.3...7.3.1.0",
-    "DownloadCount": 17875
+    "DownloadCount": 17877
   },
   {
     "Author": "The Combat Reborn Team",
