@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.49/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.0.49",
     "Changelog": "## What's Changed\r\n* Improvements to action selection per level for AST, improvements to action tweaks in Extra by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1028\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.5.3...7.3.5.4",
-    "DownloadCount": 1700397
+    "DownloadCount": 1700607
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* merge vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1008\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.5.2...7.3.5.3",
-    "DownloadCount": 2175037
+    "DownloadCount": 2175442
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.3.1.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.1.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Update OnCastHook Sigs by @ElliotZ in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/9\r\n\r\n## New Contributors\r\n* @ElliotZ made their first contribution in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/9\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.3.0.3...7.3.1.0",
-    "DownloadCount": 18118
+    "DownloadCount": 18120
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
     "Changelog": "## What's Changed\r\n* Added right click to Auto Gather window to toggle main plugin interface. by @stormcrowo in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/409\r\n* Hidden/FlyingUnlock Bug Fixes by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/414\r\n\r\n## New Contributors\r\n* @stormcrowo made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/409\r\n* @Deathbeyond87 made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/414\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.0.3...7.3.5.0",
-    "DownloadCount": 408691
+    "DownloadCount": 408981
   },
   {
     "Author": "The Combat Reborn Team",
@@ -251,6 +251,6 @@
     "DownloadLinkTesting": "https://github.com/Party-Finder-Reborn/party-finder-plugin/releases/download/0.0.0.2/PartyFinderReborn.zip",
     "TestingAssemblyVersion": "0.0.0.2",
     "Changelog": "**Full Changelog**: https://github.com/Party-Finder-Reborn/party-finder-plugin/compare/7.3.0.0...7.3.0.1",
-    "DownloadCount": 2579
+    "DownloadCount": 2581
   }
 ]
