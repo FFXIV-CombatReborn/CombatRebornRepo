@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.49/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.0.49",
     "Changelog": "## What's Changed\r\n* Stop loading assemblies on every frame. by @arcwowdev in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1030\r\n* Fix for Deployment Tactics on SCH, Fix for SGE PvP Kardia application logic, basic tincture support added to every rotation by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1031\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.5.4...7.3.5.5",
-    "DownloadCount": 1707941
+    "DownloadCount": 1708027
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.3.5.5/BossModReborn.zip",
-    "AssemblyVersion": "7.3.5.5",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.3.5.5/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.3.5.6/BossModReborn.zip",
+    "AssemblyVersion": "7.3.5.6",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.3.5.6/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* Pilgrims Traverse lvl 10 and 20 bosses by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1010\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.5.4...7.3.5.5",
-    "DownloadCount": 2185660
+    "Changelog": "## What's Changed\r\n* small forgiven emulation fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1011\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.5.5...7.3.5.6",
+    "DownloadCount": 2185835
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
     "Changelog": "## What's Changed\r\n* Fix Diadem check by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/416\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.5.0...7.3.5.1",
-    "DownloadCount": 418904
+    "DownloadCount": 419002
   },
   {
     "Author": "The Combat Reborn Team",
