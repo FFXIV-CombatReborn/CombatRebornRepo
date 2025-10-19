@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.49/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.0.49",
     "Changelog": "## What's Changed\r\n* Update Rabbs BLM by @Rabalaba in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1038\r\n* Improvements top AST card detection, full plugin cleanup and performance pass, fix for RPR dot application, and other misc by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1039\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.5.9...7.3.5.10",
-    "DownloadCount": 1736781
+    "DownloadCount": 1736834
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.3.1.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.1.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Update OnCastHook Sigs by @ElliotZ in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/9\r\n\r\n## New Contributors\r\n* @ElliotZ made their first contribution in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/9\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.3.0.3...7.3.1.0",
-    "DownloadCount": 18293
+    "DownloadCount": 18294
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
     "Changelog": "## What's Changed\r\n* Diadem Improvements by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/419\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.5.3...7.3.5.4",
-    "DownloadCount": 441504
+    "DownloadCount": 441609
   },
   {
     "Author": "The Combat Reborn Team",
@@ -217,7 +217,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Systems Update by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.3.1.1...7.3.1.2",
-    "DownloadCount": 6105
+    "DownloadCount": 6106
   },
   {
     "Author": "The Combat Reborn Team",
