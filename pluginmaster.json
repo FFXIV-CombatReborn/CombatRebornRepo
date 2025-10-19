@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.49/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.0.49",
     "Changelog": "## What's Changed\r\n* Update Rabbs BLM by @Rabalaba in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1038\r\n* Improvements top AST card detection, full plugin cleanup and performance pass, fix for RPR dot application, and other misc by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1039\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.5.9...7.3.5.10",
-    "DownloadCount": 1737160
+    "DownloadCount": 1737276
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Malacoda module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1022\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.5.15...7.3.5.16",
-    "DownloadCount": 2225400
+    "DownloadCount": 2225804
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.3.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.3.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Update for 7.3 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.2.0.0...7.3.0.0",
-    "DownloadCount": 32387
+    "DownloadCount": 32388
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.5.1/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.1",
     "Changelog": "## What's Changed\r\n* Diadem Improvements by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/419\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.5.3...7.3.5.4",
-    "DownloadCount": 442306
+    "DownloadCount": 442543
   },
   {
     "Author": "The Combat Reborn Team",
@@ -217,7 +217,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Systems Update by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.3.1.1...7.3.1.2",
-    "DownloadCount": 6106
+    "DownloadCount": 6107
   },
   {
     "Author": "The Combat Reborn Team",
