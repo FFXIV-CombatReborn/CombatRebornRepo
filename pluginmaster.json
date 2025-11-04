@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.5.20/RotationSolver.zip",
-    "AssemblyVersion": "7.3.5.20",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.5.20/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.5.21/RotationSolver.zip",
+    "AssemblyVersion": "7.3.5.21",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.5.21/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.49/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.0.49",
-    "Changelog": "## What's Changed\r\n* Added feature to allow preventing action usage when target is below a health threshold by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1055\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.5.19...7.3.5.20",
-    "DownloadCount": 1798616
+    "Changelog": "## What's Changed\r\n* Fix for DRK basic combo breaking when moving from ST to AOE and back by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1056\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.5.20...7.3.5.21",
+    "DownloadCount": 1798718
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* fix some deep dungeon problems, add quantum level fork by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1036\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.5.25...7.3.5.26",
-    "DownloadCount": 2288772
+    "DownloadCount": 2289029
   },
   {
     "Author": "The Combat Reborn Team",
@@ -157,10 +157,10 @@
     "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.3.5.12/GatherbuddyReborn.zip",
     "AssemblyVersion": "7.3.5.12",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.3.5.12/GatherbuddyReborn.zip",
-    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.3.5.9/GatherbuddyReborn.zip",
-    "TestingAssemblyVersion": "7.3.5.9",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.3.5.13/GatherbuddyReborn.zip",
+    "TestingAssemblyVersion": "7.3.5.13",
     "Changelog": "## What's Changed\r\n* Fishing/Firmament/Diadem Bug fixes by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/430\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.5.11...7.3.5.12",
-    "DownloadCount": 490825
+    "DownloadCount": 490873
   },
   {
     "Author": "The Combat Reborn Team",
@@ -217,7 +217,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Systems Update by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.3.1.1...7.3.1.2",
-    "DownloadCount": 6411
+    "DownloadCount": 6414
   },
   {
     "Author": "The Combat Reborn Team",
