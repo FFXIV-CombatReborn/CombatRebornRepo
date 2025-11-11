@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.49/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.0.49",
     "Changelog": "## What's Changed\r\n* Update AutoDuty URL by @erdelf in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1064\r\n\r\n## New Contributors\r\n* @erdelf made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1064\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.5.26...7.3.5.27",
-    "DownloadCount": 1827970
+    "DownloadCount": 1827989
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* party members dieing handling for meso terminal b2 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1041\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.5.28...7.3.5.29",
-    "DownloadCount": 2304150
+    "DownloadCount": 2304158
   },
   {
     "Author": "The Combat Reborn Team",
