@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.49/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.0.49",
     "Changelog": "## What's Changed\r\n* Hotfix for Ninja Quest targets by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1083\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.8.17...7.3.8.18",
-    "DownloadCount": 1904661
+    "DownloadCount": 1905075
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* fix Ring of Might AI in Sildihn Subterrane by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1044\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.8.0...7.3.8.1",
-    "DownloadCount": 2335902
+    "DownloadCount": 2336022
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.3.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.3.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Update for 7.3 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.2.0.0...7.3.0.0",
-    "DownloadCount": 33420
+    "DownloadCount": 33421
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.3.8.2/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.3.8.2",
     "Changelog": "## What's Changed\r\n* Fishing improvements by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/454\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.8.8...7.3.8.9",
-    "DownloadCount": 547449
+    "DownloadCount": 548228
   },
   {
     "Author": "The Combat Reborn Team",
@@ -217,7 +217,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Systems Update by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.3.1.1...7.3.1.2",
-    "DownloadCount": 6898
+    "DownloadCount": 6899
   },
   {
     "Author": "The Combat Reborn Team",
