@@ -59,12 +59,12 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.0.1/BossModReborn.zip",
-    "AssemblyVersion": "7.4.0.1",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.0.1/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.0.2/BossModReborn.zip",
+    "AssemblyVersion": "7.4.0.2",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.0.2/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* update CS by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1050\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.0.0...7.4.0.1",
+    "Changelog": "## What's Changed\r\n* fix for delegate change by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1051\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.0.1...7.4.0.2",
     "DownloadCount": 2370081
   },
   {
