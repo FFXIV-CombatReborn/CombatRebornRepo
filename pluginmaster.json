@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.0.3/BossModReborn.zip",
-    "AssemblyVersion": "7.4.0.3",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.0.3/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.0.4/BossModReborn.zip",
+    "AssemblyVersion": "7.4.0.4",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.0.4/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* add Treno Catoblepas module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1052\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.0.2...7.4.0.3",
-    "DownloadCount": 2372608
+    "Changelog": "## What's Changed\r\n* fix rect width by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1053\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.0.3...7.4.0.4",
+    "DownloadCount": 2372620
   },
   {
     "Author": "The Combat Reborn Team",
