@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.8.20/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.8.20",
     "Changelog": "## What's Changed\r\n* Fixes for RDM changes and thrown errors by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1102\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.0.2...7.4.0.3",
-    "DownloadCount": 1975588
+    "DownloadCount": 1975807
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Amdusias module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1055\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.0.5...7.4.0.6",
-    "DownloadCount": 2387344
+    "DownloadCount": 2387440
   },
   {
     "Author": "The Combat Reborn Team",
@@ -130,7 +130,7 @@
     "InternalName": "GatherbuddyReborn",
     "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 14,
     "Tags": [
       "Gathering",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.0.2/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.0.2",
     "Changelog": "## What's Changed\r\n* Collectable Expansion by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/468\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.8.13...7.3.8.14",
-    "DownloadCount": 602859
+    "DownloadCount": 602979
   },
   {
     "Author": "The Combat Reborn Team",
