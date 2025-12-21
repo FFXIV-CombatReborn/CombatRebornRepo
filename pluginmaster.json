@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.8.20/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.8.20",
     "Changelog": "## What's Changed\r\n* Fixes for hotbar pulsing, teaching mode, and ability coloring on disable feature by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1103\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.0.3...7.4.0.4",
-    "DownloadCount": 1979445
+    "DownloadCount": 1979695
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Amdusias module by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1055\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.0.5...7.4.0.6",
-    "DownloadCount": 2388657
+    "DownloadCount": 2388739
   },
   {
     "Author": "The Combat Reborn Team",
@@ -73,7 +73,7 @@
     "InternalName": "ActionTimelineReborn",
     "Description": "Configurable timeline display of all the actions you use.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "TestingDalamudApiLevel": 0,
     "Tags": [
       "UI"
@@ -89,10 +89,10 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/ATR_Icon.png",
     "Punchline": "Show your actions in real-time.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.1.0/ActionTimelineReborn.zip",
-    "AssemblyVersion": "7.3.1.0",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.3.1.0/ActionTimelineReborn.zip",
-    "Changelog": "## What's Changed\r\n* Update OnCastHook Sigs by @ElliotZ in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/9\r\n\r\n## New Contributors\r\n* @ElliotZ made their first contribution in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/9\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.3.0.3...7.3.1.0",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.4.0.0/ActionTimelineReborn.zip",
+    "AssemblyVersion": "7.4.0.0",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.4.0.0/ActionTimelineReborn.zip",
+    "Changelog": "## What's Changed\r\n* Patch 7.4 update, API 14 update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/10\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.3.1.0...7.4.0.0",
     "DownloadCount": 19265
   },
   {
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.0.2/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.0.2",
     "Changelog": "## What's Changed\r\n* Collectable Expansion by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/468\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.8.13...7.3.8.14",
-    "DownloadCount": 603719
+    "DownloadCount": 603761
   },
   {
     "Author": "The Combat Reborn Team",
