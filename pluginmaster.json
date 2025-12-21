@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.8.20/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.8.20",
     "Changelog": "## What's Changed\r\n* Fixes for hotbar pulsing, teaching mode, and ability coloring on disable feature by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1103\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.0.3...7.4.0.4",
-    "DownloadCount": 1985481
+    "DownloadCount": 1985957
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* update Aurum Vale for 7.4 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1057\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.0.7...7.4.0.8",
-    "DownloadCount": 2396982
+    "DownloadCount": 2397660
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.4.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.4.0.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Patch 7.4 update, API 14 update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/10\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.3.1.0...7.4.0.0",
-    "DownloadCount": 19830
+    "DownloadCount": 19854
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.0.2/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.0.2",
     "Changelog": "## What's Changed\r\n* Collectable Expansion by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/468\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.3.8.13...7.3.8.14",
-    "DownloadCount": 605358
+    "DownloadCount": 605475
   },
   {
     "Author": "The Combat Reborn Team",
