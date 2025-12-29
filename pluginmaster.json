@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.8.20/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.8.20",
     "Changelog": "## What's Changed\r\n* Prevent Freetarget setting working while RSR is not active by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1115\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.0.13...7.4.0.14",
-    "DownloadCount": 2048386
+    "DownloadCount": 2048509
   },
   {
     "Author": "The Combat Reborn Team",
@@ -59,13 +59,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
     "Punchline": "Don't fail at raid mechanics anymore",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.0.10/BossModReborn.zip",
-    "AssemblyVersion": "7.4.0.10",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.0.10/BossModReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.0.11/BossModReborn.zip",
+    "AssemblyVersion": "7.4.0.11",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.0.11/BossModReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
-    "Changelog": "## What's Changed\r\n* fix Lozatl for 7.4 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1062\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.0.9...7.4.0.10",
-    "DownloadCount": 2424883
+    "Changelog": "## What's Changed\r\n* fix Valigarmanda avalanche, merge vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1064\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.0.10...7.4.0.11",
+    "DownloadCount": 2424966
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.4.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.4.0.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Patch 7.4 update, API 14 update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/10\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.3.1.0...7.4.0.0",
-    "DownloadCount": 20718
+    "DownloadCount": 20719
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.4.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.4.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* 7.4 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/13\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.3.0.0...7.4.0.0",
-    "DownloadCount": 36763
+    "DownloadCount": 36769
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.0.3/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.0.3",
     "Changelog": "## What's Changed\r\n* Elli lib integration by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/489\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.0.6...7.4.0.7",
-    "DownloadCount": 653063
+    "DownloadCount": 653108
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,7 +186,7 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Deprecate Supermarket Sweep by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 20721
+    "DownloadCount": 20722
   },
   {
     "Author": "The Combat Reborn Team",
@@ -217,7 +217,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Systems Update by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.3.1.1...7.3.1.2",
-    "DownloadCount": 7367
+    "DownloadCount": 7368
   },
   {
     "Author": "The Combat Reborn Team",
@@ -251,6 +251,6 @@
     "DownloadLinkTesting": "https://github.com/Party-Finder-Reborn/party-finder-plugin/releases/download/0.0.0.2/PartyFinderReborn.zip",
     "TestingAssemblyVersion": "0.0.0.2",
     "Changelog": "**Full Changelog**: https://github.com/Party-Finder-Reborn/party-finder-plugin/compare/7.3.0.0...7.3.0.1",
-    "DownloadCount": 3578
+    "DownloadCount": 3579
   }
 ]
