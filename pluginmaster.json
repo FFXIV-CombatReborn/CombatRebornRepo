@@ -29,10 +29,10 @@
     "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.17/RotationSolver.zip",
     "AssemblyVersion": "7.4.0.17",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.17/RotationSolver.zip",
-    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.8.20/RotationSolver.zip",
-    "TestingAssemblyVersion": "7.3.8.20",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.18/latest.zip",
+    "TestingAssemblyVersion": "7.4.0.18",
     "Changelog": "## What's Changed\r\n* SCH hotfix by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1119\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.0.16...7.4.0.17",
-    "DownloadCount": 2059864
+    "DownloadCount": 2059919
   },
   {
     "Author": "The Combat Reborn Team",
