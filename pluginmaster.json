@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.18/latest.zip",
     "TestingAssemblyVersion": "7.4.0.18",
     "Changelog": "## What's Changed\r\n* Sourcegen update for savage, updated AST card priority default, updated core components by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1130\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.0.26...7.4.0.27",
-    "DownloadCount": 2116473
+    "DownloadCount": 2116680
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* M9N attempt by @HerStolenLight in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1070\r\n* remove usings by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1071\r\n* merge fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1072\r\n\r\n## New Contributors\r\n* @HerStolenLight made their first contribution in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1070\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.0.13...7.4.0.14",
-    "DownloadCount": 2449524
+    "DownloadCount": 2449944
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.4.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.4.0.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Patch 7.4 update, API 14 update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/10\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.3.1.0...7.4.0.0",
-    "DownloadCount": 21332
+    "DownloadCount": 21334
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.4.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.4.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* 7.4 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/13\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.3.0.0...7.4.0.0",
-    "DownloadCount": 38655
+    "DownloadCount": 38665
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.0.3/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.0.3",
     "Changelog": "## What's Changed\r\n* Mitigate possible lag in Diadem tracking by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/501\r\n* Fish timer by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/502\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.0.11...7.4.0.12",
-    "DownloadCount": 711862
+    "DownloadCount": 711974
   },
   {
     "Author": "The Combat Reborn Team",
@@ -186,7 +186,7 @@
     "AssemblyVersion": "7.2.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.2.0.1/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Deprecate Supermarket Sweep by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.0...7.2.0.1",
-    "DownloadCount": 20952
+    "DownloadCount": 20953
   },
   {
     "Author": "The Combat Reborn Team",
@@ -217,7 +217,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Systems Update by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.3.1.1...7.3.1.2",
-    "DownloadCount": 7709
+    "DownloadCount": 7710
   },
   {
     "Author": "The Combat Reborn Team",
@@ -251,6 +251,6 @@
     "DownloadLinkTesting": "https://github.com/Party-Finder-Reborn/party-finder-plugin/releases/download/0.0.0.2/PartyFinderReborn.zip",
     "TestingAssemblyVersion": "0.0.0.2",
     "Changelog": "**Full Changelog**: https://github.com/Party-Finder-Reborn/party-finder-plugin/compare/7.3.0.0...7.3.0.1",
-    "DownloadCount": 3809
+    "DownloadCount": 3810
   }
 ]
