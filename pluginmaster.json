@@ -26,13 +26,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.28/latest.zip",
-    "AssemblyVersion": "7.4.0.28",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.28/latest.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.29/latest.zip",
+    "AssemblyVersion": "7.4.0.29",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.29/latest.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.18/latest.zip",
     "TestingAssemblyVersion": "7.4.0.18",
-    "Changelog": "## What's Changed\r\n* M9S and M10S special targeting behaviour, RDM update for manafication by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1131\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.0.27...7.4.0.28",
-    "DownloadCount": 2122328
+    "Changelog": "## What's Changed\r\n* More refined RDM burst and temporarily disabling a specifc target behaviour from M9S by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1132\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.0.28...7.4.0.29",
+    "DownloadCount": 2122380
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* fix duplicate AOEs and use donutsegment for coil by @gynorhino in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1073\r\n* merge fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1074\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.0.14...7.4.0.15",
-    "DownloadCount": 2458892
+    "DownloadCount": 2458948
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.0.3/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.0.3",
     "Changelog": "## What's Changed\r\n* Add node offsets for Skybuilders' miner quest items by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/505\r\n* Don't use skills on undesired Diadem items by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/506\r\n* Diadem Weather by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/507\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.0.12...7.4.0.13",
-    "DownloadCount": 716790
+    "DownloadCount": 716873
   },
   {
     "Author": "The Combat Reborn Team",
