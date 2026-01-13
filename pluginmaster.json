@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.33/latest.zip",
     "TestingAssemblyVersion": "7.4.0.33",
     "Changelog": "## What's Changed\r\n* Further improvements to Heavyweight Savage performance by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1135\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.0.31...7.4.0.32",
-    "DownloadCount": 2145662
+    "DownloadCount": 2145824
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* M09S WIP initial by @gynorhino in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1081\r\n* M10N Ready for review by @Adzcriz in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1080\r\n* pre-increment by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1082\r\n\r\n## New Contributors\r\n* @Adzcriz made their first contribution in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1080\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.0.16...7.4.0.17",
-    "DownloadCount": 2478092
+    "DownloadCount": 2478800
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.4.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.4.0.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Patch 7.4 update, API 14 update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/10\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.3.1.0...7.4.0.0",
-    "DownloadCount": 21677
+    "DownloadCount": 21680
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.4.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.4.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* 7.4 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/13\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.3.0.0...7.4.0.0",
-    "DownloadCount": 39396
+    "DownloadCount": 39398
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.0.3/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.0.3",
     "Changelog": "## What's Changed\r\n* Diadem Weather by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/510\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.0.13...7.4.0.14",
-    "DownloadCount": 738060
+    "DownloadCount": 738136
   },
   {
     "Author": "The Combat Reborn Team",
