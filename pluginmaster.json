@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.33/latest.zip",
     "TestingAssemblyVersion": "7.4.0.33",
     "Changelog": "## What's Changed\r\n* Centralize PvP Guard logic, add config, improve perf by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1150\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.0.42...7.4.0.43",
-    "DownloadCount": 2203112
+    "DownloadCount": 2203119
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.4.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.4.0.1/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Fix for all actions being considered an oGCD by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.4.0.0...7.4.0.1",
-    "DownloadCount": 22999
+    "DownloadCount": 23000
   },
   {
     "Author": "The Combat Reborn Team",
