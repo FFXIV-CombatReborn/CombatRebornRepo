@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "Switched to Dalamud stable for 7.41 **Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.1.0...7.4.1.1",
-    "DownloadCount": 2224249
+    "DownloadCount": 2224284
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* M12N clear some AOE on phase end, M09S blast beat radius by @gynorhino in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1108\r\n* merge vbm, mark m10s as constributed by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1109\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.1.1...7.4.1.2",
-    "DownloadCount": 2571429
+    "DownloadCount": 2571796
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.0.3/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.0.3",
     "Changelog": "## What's Changed\r\n* Restore Anti-Pandora protection by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/519\r\n* Use mount action availability check instead of mount roulette by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/515\r\n* Remove wait for materia extraction confirmation dialog by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/513\r\n* feat: Add scrip reserve option for collectable purchases by @Luna-Salamanca in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/512\r\n* Teleporting to Upcoming Nodes + Umbral and ActiveItemList Rework by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/517\r\n* Enable Diadem Umbral fish support by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/522\r\n* Collect overcap by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/523\r\n\r\n## New Contributors\r\n* @Luna-Salamanca made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/512\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.0.14...7.4.0.15",
-    "DownloadCount": 764920
+    "DownloadCount": 764934
   },
   {
     "Author": "The Combat Reborn Team",
