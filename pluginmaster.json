@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "Switched to Dalamud stable for 7.41 **Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.1.0...7.4.1.1",
-    "DownloadCount": 2225710
+    "DownloadCount": 2225713
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* M12N clear some AOE on phase end, M09S blast beat radius by @gynorhino in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1108\r\n* merge vbm, mark m10s as constributed by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1109\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.1.1...7.4.1.2",
-    "DownloadCount": 2580735
+    "DownloadCount": 2580738
   },
   {
     "Author": "The Combat Reborn Team",
