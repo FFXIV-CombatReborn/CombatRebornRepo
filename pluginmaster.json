@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "Switched to Dalamud stable for 7.41 **Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.1.0...7.4.1.1",
-    "DownloadCount": 2225835
+    "DownloadCount": 2225847
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.4.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.4.0.1/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Fix for all actions being considered an oGCD by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.4.0.0...7.4.0.1",
-    "DownloadCount": 23385
+    "DownloadCount": 23386
   },
   {
     "Author": "The Combat Reborn Team",
