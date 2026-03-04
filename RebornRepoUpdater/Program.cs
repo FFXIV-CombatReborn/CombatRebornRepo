@@ -19,7 +19,7 @@ class Program
         new KnownRepo("GatherBuddyReborn", "GatherbuddyReborn"),
         new KnownRepo("RebornToolbox", "RebornToolbox"),
         new KnownRepo("ZodiacBuddyReborn", "ZodiacBuddyReborn"),
-        new KnownRepo("party-finder-plugin", "PartyFinderReborn", "Party-Finder-Reborn")
+        new KnownRepo("party-finder-plugin", "PartyFinderReborn", "Party-Finder-Reborn"),
         new KnownRepo("Understudy")
     ];
 
