@@ -4,3 +4,4 @@ FFXIV-CombatReborn/ActionTimelineReborn
 FFXIV-CombatReborn/EasyZoomReborn
 FFXIV-CombatReborn/GatherBuddyReborn
 FFXIV-CombatReborn/RebornToolbox
+aventurescence/Understudy
