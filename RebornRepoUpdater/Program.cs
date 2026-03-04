@@ -20,7 +20,7 @@ class Program
         new KnownRepo("RebornToolbox", "RebornToolbox"),
         new KnownRepo("ZodiacBuddyReborn", "ZodiacBuddyReborn"),
         new KnownRepo("party-finder-plugin", "PartyFinderReborn", "Party-Finder-Reborn"),
-        new KnownRepo("Understudy")
+        new KnownRepo("Understudy", "Understudy")
     ];
 
     static async Task Main(string[] args)
