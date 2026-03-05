@@ -1,5 +1,6 @@
 ﻿using System.Net;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using Octokit;
 using RebornRepoUpdater.Models;
 using RebornRepoUpdater.Models.Dalamud;
@@ -92,7 +93,29 @@ class Program
         }
 
         Console.WriteLine($"Found {updatedManifests.Count} manifests from both remote and local sources");
-        var manifestsJson = JsonConvert.SerializeObject(updatedManifests, Formatting.Indented);
+
+        // Convert to JSON token so we can sanitize version strings without needing to change the manifest model types.
+        var token = JToken.FromObject(updatedManifests);
+
+        // Helper to trim leading 'v'/'V' from string properties if present.
+        foreach (var obj in token.Children().OfType<JObject>())
+        {
+            void TrimProp(string prop)
+            {
+                if (obj.TryGetValue(prop, out var val) && val.Type == JTokenType.String)
+                {
+                    var s = val.Value<string>()!;
+                    if (!string.IsNullOrEmpty(s))
+                        obj[prop] = s.TrimStart('v', 'V');
+                }
+            }
+
+            // Common property names that may contain versions — add more if your manifest uses other names.
+            TrimProp("AssemblyVersion");
+            TrimProp("Version");
+        }
+
+        var manifestsJson = token.ToString(Formatting.Indented);
         await File.WriteAllTextAsync(filePath, manifestsJson);
     }
 }
