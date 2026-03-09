@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Hotifx for old code causing actions to stop with Passage of Arms and Collective Unconscious by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1178\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.2...7.4.5.3",
-    "DownloadCount": 2304720
+    "DownloadCount": 2304809
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Ignore Smart Ability Targeting and manual action queue setting when Rotation Sovler Reborn is enabled by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1121\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.1...7.4.5.2",
-    "DownloadCount": 2652534
+    "DownloadCount": 2652870
   },
   {
     "Author": "The Combat Reborn Team",
@@ -93,7 +93,7 @@
     "AssemblyVersion": "7.4.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.4.0.1/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Fix for all actions being considered an oGCD by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.4.0.0...7.4.0.1",
-    "DownloadCount": 24020
+    "DownloadCount": 24022
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.4.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.4.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* 7.4 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/13\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.3.0.0...7.4.0.0",
-    "DownloadCount": 41670
+    "DownloadCount": 41672
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.0.3/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.0.3",
     "Changelog": "## What's Changed\r\n* Fix navigation to zero vector by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/555\r\n* New node locations data by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/556\r\n* Fix fallback list item overcap and retainer inventory check by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/559\r\n* Fix Oddly Delicate items not appearing in the Auto-Gather list by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/562\r\n* Fix duplicate items in config preset check and remove redundant code by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/563\r\n* Fix auto-gather lists order reset on load by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/565\r\n* 7.4 fish data by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/566\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.1.2...7.4.5.0",
-    "DownloadCount": 808825
+    "DownloadCount": 808910
   },
   {
     "Author": "The Combat Reborn Team",
@@ -282,6 +282,6 @@
     "AssemblyVersion": "1.0.0.6",
     "DownloadLinkUpdate": "https://github.com/aventurescence/Understudy/releases/download/v1.0.0.6/latest.zip",
     "Changelog": "### Merge pull request #7 from aventurescence/stat-calcs\r\n\r\n\r\n### feat: Add ChangelogWindow and UI enhancements\r\n\r\n### Details\r\n- Created ChangelogWindow to display release notes\r\n- Added image assets for header banner and avatar\r\n- Refactored related UI components for dashboard and settings\r\n- Adjusted layout and routing for the plugin window\r\n\r\n### feat: Add commit template and update release workflow\r\n\r\n### Details\r\n- Created .gitmessage template\r\n- Updated release.yml to include commit bodies in changelog\r\n\r\n### refactor: merge standalone configuration window into main dashboard settings view\r\n\r\n\r\n### fix: add missing settings fields to main dashboard Settings view\r\n\r\n\r\n### feat: implement upgrade priority calculator and UI component\r\n\r\n#### ✨ New Features\r\n- Added `UpgradePriorityCalculator` to compute and rank optimal gear upgrades based on estimated damage gains, ffxiv formulas (level 100 stats), and job modifiers.\r\n- Created `UpgradePriority` UI component to cleanly display the suggested unowned BiS upgrades, their acquisition source, and estimated % damage gain right within the character loadout card.\r\n\r\n#### 🔧 Integration\r\n- Registered `UpgradePriorityCalculator` into the dependency injection within `Plugin.cs` to make it accessible to UI components.\r\n\r\n### feat: auto-update loadout on job change + fix Etro 429 rate limit\r\n\r\n- CharacterTracker: persistent framework.Update watcher fires JobChanged\r\n  event when player's ClassJob.RowId changes; exposes CurrentJobId\r\n- CharacterDetail: subscribes to JobChanged to auto-re-snapshot gear\r\n  (only if job already tracked) and sets scroll-to flag for that card\r\n- LoadoutCard: accepts activeJobId param, renders accent highlight on\r\n  the card matching the player's current job\r\n- EtroBrowseManager: SemaphoreSlim(2,2) caps concurrent Etro requests;\r\n  in-flight HashSet prevents duplicate fetches; food map uses Task\r\n  deduplication to avoid concurrent calls for the same endpoint\n\n---\n*Assembly version: 1.0.0.6*\n\n\n## What's Changed\n* Enhance loadout management and upgrade prioritization features by @aventurescence in https://github.com/aventurescence/Understudy/pull/7\n\n\n**Full Changelog**: https://github.com/aventurescence/Understudy/compare/v1.0.0.5...v1.0.0.6",
-    "DownloadCount": 119
+    "DownloadCount": 121
   }
 ]
