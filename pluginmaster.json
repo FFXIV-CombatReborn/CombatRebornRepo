@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* New BeirutaSCH and movement update for BeirutaRDM/PCT/AST by @BeirutaNa1na in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1180\r\n* Fix for variant raise logic on non-healers, added toast message to cube copy, etc by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1181\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.3...7.4.5.4",
-    "DownloadCount": 2309496
+    "DownloadCount": 2309497
   },
   {
     "Author": "The Combat Reborn Team",
