@@ -32,7 +32,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* New BeirutaSCH and movement update for BeirutaRDM/PCT/AST by @BeirutaNa1na in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1180\r\n* Fix for variant raise logic on non-healers, added toast message to cube copy, etc by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1181\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.3...7.4.5.4",
-    "DownloadCount": 2309425
+    "DownloadCount": 2309479
   },
   {
     "Author": "The Combat Reborn Team",
@@ -65,7 +65,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
     "TestingAssemblyVersion": "1.0.2.1",
     "Changelog": "## What's Changed\r\n* Ignore Smart Ability Targeting and manual action queue setting when Rotation Sovler Reborn is enabled by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1121\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.1...7.4.5.2",
-    "DownloadCount": 2656198
+    "DownloadCount": 2656240
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,7 +122,7 @@
     "AssemblyVersion": "7.4.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.4.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* 7.4 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/13\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.3.0.0...7.4.0.0",
-    "DownloadCount": 41698
+    "DownloadCount": 41700
   },
   {
     "Author": "The Combat Reborn Team",
@@ -160,7 +160,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.0.3/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.0.3",
     "Changelog": "## What's Changed\r\n* Fix navigation to zero vector by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/555\r\n* New node locations data by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/556\r\n* Fix fallback list item overcap and retainer inventory check by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/559\r\n* Fix Oddly Delicate items not appearing in the Auto-Gather list by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/562\r\n* Fix duplicate items in config preset check and remove redundant code by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/563\r\n* Fix auto-gather lists order reset on load by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/565\r\n* 7.4 fish data by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/566\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.1.2...7.4.5.0",
-    "DownloadCount": 810259
+    "DownloadCount": 810278
   },
   {
     "Author": "The Combat Reborn Team",
