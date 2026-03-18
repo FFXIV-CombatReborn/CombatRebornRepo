@@ -1,5 +1,4 @@
-﻿using System.Net;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Octokit;
 using RebornRepoUpdater.Models;
@@ -9,7 +8,7 @@ namespace RebornRepoUpdater;
 
 class Program
 {
-    public static GitHubClient Client = new GitHubClient(new ProductHeaderValue("CombatRebornRepoUpdater"));
+    public static GitHubClient Client = new(new ProductHeaderValue("CombatRebornRepoUpdater"));
 
     public static List<KnownRepo> KnownRepos =
     [
@@ -61,13 +60,21 @@ class Program
         }
 
         var manifestJson = File.ReadAllText(filePath);
-        var manifests = JsonConvert.DeserializeObject<List<PluginManifest>>(manifestJson) ?? new List<PluginManifest>();
+        var manifests = JsonConvert.DeserializeObject<List<PluginManifest>>(manifestJson) ?? [];
         var updatedManifests = new List<PluginManifest>();
 
         foreach (var repo in KnownRepos)
         {
             Console.WriteLine($"Processing {repo.ProjectName}");
-            var localManifest = manifests.FirstOrDefault(m => m.InternalName == repo.InternalName);
+            PluginManifest? localManifest = null;
+            foreach (var m in manifests)
+            {
+                if (m.InternalName == repo.InternalName)
+                {
+                    localManifest = m;
+                    break;
+                }
+            }
 
             try
             {
@@ -99,7 +106,8 @@ class Program
         var token = JToken.FromObject(updatedManifests);
 
         // Helper to trim leading 'v'/'V' from string properties if present.
-        foreach (var obj in token.Children().OfType<JObject>())
+        foreach (var child in token.Children())
+        if (child is JObject obj)
         {
             void TrimProp(string prop)
             {

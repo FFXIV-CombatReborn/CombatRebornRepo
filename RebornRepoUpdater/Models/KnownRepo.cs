@@ -1,17 +1,17 @@
-﻿using System.Text;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 using Octokit;
 using RebornRepoUpdater.Models.Dalamud;
 
 namespace RebornRepoUpdater.Models;
 
-public class KnownRepo
+public class KnownRepo(string projectName, string internalName, string organizationName = "FFXIV-CombatReborn",
+	string manifestFilePath = "")
 {
-    public string ProjectName { get; set; }
-    public string OrganizationName { get; set; }
-    public string ManifestFilePath { get; set; }
-    public string InternalName { get; set; }
-    public PluginManifest? Manifest { get; private set; } = null;
+	public string ProjectName { get; set; } = projectName;
+	public string OrganizationName { get; set; } = organizationName;
+	public string ManifestFilePath { get; set; } = string.IsNullOrWhiteSpace(manifestFilePath) ? $"manifest.json" : manifestFilePath;
+	public string InternalName { get; set; } = internalName;
+	public PluginManifest? Manifest { get; private set; } = null;
 
     public async Task Update(GitHubClient client)
     {
@@ -21,7 +21,7 @@ public class KnownRepo
 
         var jsonContent =
             await client.Repository.Content.GetAllContents(OrganizationName, ProjectName, ManifestFilePath);
-        var json = jsonContent.First().Content;
+        var json = jsonContent[0].Content;
         var manifest = JsonConvert.DeserializeObject<PluginManifest>(json);
         Manifest = manifest;
 
@@ -31,15 +31,30 @@ public class KnownRepo
 
     private async Task GetReleaseInfo(GitHubClient client)
     {
+        if (Manifest == null)
+            return;
+
         Console.WriteLine($"Getting releases for {ProjectName}...");
 
         await EnsureRateLimitAsync(client);
 
         var releases = await client.Repository.Release.GetAll(OrganizationName, ProjectName);
-        var releasesOrderedByDate = releases.OrderByDescending(r => r.PublishedAt);
+        var releaseList = new List<Release>(releases);
+        releaseList.Sort((a, b) => DateTimeOffset.Compare(
+            b.PublishedAt ?? DateTimeOffset.MinValue,
+            a.PublishedAt ?? DateTimeOffset.MinValue));
 
-        var latestRelease = releasesOrderedByDate.FirstOrDefault(r => !r.Prerelease); // Latest stable release
-        var latestTestingRelease = releasesOrderedByDate.FirstOrDefault(r => r.Prerelease); // Latest prerelease
+        Release? latestRelease = null;
+        foreach (var r in releaseList)
+        {
+            if (!r.Prerelease) { latestRelease = r; break; }
+        }
+
+        Release? latestTestingRelease = null;
+        foreach (var r in releaseList)
+        {
+            if (r.Prerelease) { latestTestingRelease = r; break; }
+        }
 
         try
         {
@@ -47,9 +62,18 @@ public class KnownRepo
             {
                 Console.WriteLine($"Latest stable release: {latestRelease.Name}");
                 Manifest.AssemblyVersion = latestRelease.TagName;
-                var downloadLink = latestRelease.Assets.First(a => a.Name.EndsWith(".zip")).BrowserDownloadUrl;
-                Manifest.DownloadLinkInstall = downloadLink;
-                Manifest.DownloadLinkUpdate = downloadLink;
+                ReleaseAsset? stableZip = null;
+                foreach (var a in latestRelease.Assets)
+                {
+                    if (a.Name.EndsWith(".zip")) { stableZip = a; break; }
+                }
+                
+                if (stableZip != null)
+                {
+                    var downloadLink = stableZip.BrowserDownloadUrl;
+                    Manifest.DownloadLinkInstall = downloadLink;
+                    Manifest.DownloadLinkUpdate = downloadLink;
+                }
 
                 Manifest.Changelog = latestRelease.Body; // Release notes or changelog
             }
@@ -68,9 +92,18 @@ public class KnownRepo
             if (latestTestingRelease != null)
             {
                 Console.WriteLine($"Latest testing release: {latestTestingRelease.Name}");
-                Manifest.TestingAssemblyVersion = latestTestingRelease.TagName;
-                var downloadLinkTesting = latestTestingRelease.Assets.First(a => a.Name.EndsWith(".zip")).BrowserDownloadUrl;
-                Manifest.DownloadLinkTesting = downloadLinkTesting;
+				Manifest.TestingAssemblyVersion = latestTestingRelease.TagName;
+                ReleaseAsset? testingZip = null;
+                foreach (var a in latestTestingRelease.Assets)
+                {
+                    if (a.Name.EndsWith(".zip")) { testingZip = a; break; }
+                }
+                
+                if (testingZip != null)
+                {
+                    var downloadLinkTesting = testingZip.BrowserDownloadUrl;
+                    Manifest.DownloadLinkTesting = downloadLinkTesting;
+                }
             }
             else
             {
@@ -82,11 +115,11 @@ public class KnownRepo
             throw new Exception($"Failed to get testing releases for {ProjectName}", ex);
         }
 
-        Manifest.SetDownloadCount(releasesOrderedByDate);
+		Manifest.SetDownloadCount(releaseList);
         Console.WriteLine($"Download count: {Manifest.DownloadCount}");
     }
 
-    private async Task EnsureRateLimitAsync(GitHubClient client)
+    private static async Task EnsureRateLimitAsync(GitHubClient client)
     {
         var apiInfo = await client.RateLimit.GetRateLimits();
         var rateLimit = apiInfo?.Rate;
@@ -112,16 +145,5 @@ public class KnownRepo
             Console.WriteLine($"Rate limit reached. Waiting for {waitTime.TotalSeconds:N0} seconds...");
             await Task.Delay(waitTime);
         }
-    }
-
-
-
-    public KnownRepo(string projectName, string internalName, string organizationName = "FFXIV-CombatReborn",
-        string manifestFilePath = "")
-    {
-        ProjectName = projectName;
-        OrganizationName = organizationName;
-        InternalName = internalName;
-        ManifestFilePath = string.IsNullOrWhiteSpace(manifestFilePath) ? $"manifest.json" : manifestFilePath;
     }
 }
