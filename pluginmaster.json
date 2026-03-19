@@ -33,7 +33,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Fix for status check for positionals by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1185\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.6...7.4.5.7",
-    "DownloadCount": 2320884
+    "DownloadCount": 2320891
   },
   {
     "Author": "The Combat Reborn Team",
@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.10/BossModReborn.zip",
     "TestingAssemblyVersion": "7.4.5.10",
     "Changelog": "## What's Changed\r\n* category cleanup by @gynorhino in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1128\r\n* Cleanup and fix build output duplication by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1129\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.8...7.4.5.9",
-    "DownloadCount": 2672320
+    "DownloadCount": 2672342
   },
   {
     "Author": "The Combat Reborn Team",
@@ -165,7 +165,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.3/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.3",
     "Changelog": "## What's Changed\r\n* Fix navigation to zero vector by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/555\r\n* New node locations data by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/556\r\n* Fix fallback list item overcap and retainer inventory check by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/559\r\n* Fix Oddly Delicate items not appearing in the Auto-Gather list by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/562\r\n* Fix duplicate items in config preset check and remove redundant code by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/563\r\n* Fix auto-gather lists order reset on load by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/565\r\n* 7.4 fish data by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/566\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.1.2...7.4.5.0",
-    "DownloadCount": 814721
+    "DownloadCount": 814748
   },
   {
     "Author": "The Combat Reborn Team",
@@ -259,7 +259,7 @@
     "AssemblyVersion": "7.4.5.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.4.5.3/latest.zip",
     "Changelog": "## What's Changed\r\n* Fix buttons to require API key entered, text cleanup by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.4.5.2...7.4.5.3",
-    "DownloadCount": 149
+    "DownloadCount": 150
   },
   {
     "Author": "Churin",
