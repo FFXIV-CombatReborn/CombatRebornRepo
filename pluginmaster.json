@@ -27,13 +27,13 @@
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.5.7/latest.zip",
-    "AssemblyVersion": "7.4.5.7",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.5.7/latest.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.5.8/latest.zip",
+    "AssemblyVersion": "7.4.5.8",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.5.8/latest.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
-    "Changelog": "## What's Changed\r\n* Fix for status check for positionals by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1185\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.6...7.4.5.7",
-    "DownloadCount": 2321281
+    "Changelog": "## What's Changed\r\n* Fixes to fillter rotation for BLM PvP by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1186\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.7...7.4.5.8",
+    "DownloadCount": 2321285
   },
   {
     "Author": "The Combat Reborn Team",
@@ -64,10 +64,9 @@
     "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.9/BossModReborn.zip",
     "AssemblyVersion": "7.4.5.9",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.9/BossModReborn.zip",
-    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.10/BossModReborn.zip",
-    "TestingAssemblyVersion": "7.4.5.10",
+    "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* category cleanup by @gynorhino in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1128\r\n* Cleanup and fix build output duplication by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1129\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.8...7.4.5.9",
-    "DownloadCount": 2673615
+    "DownloadCount": 2673627
   },
   {
     "Author": "The Combat Reborn Team",
@@ -162,10 +161,10 @@
     "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.0/GatherbuddyReborn.zip",
     "AssemblyVersion": "7.4.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.0/GatherbuddyReborn.zip",
-    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.3/GatherbuddyReborn.zip",
-    "TestingAssemblyVersion": "7.4.5.3",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.4/GatherbuddyReborn.zip",
+    "TestingAssemblyVersion": "7.4.5.4",
     "Changelog": "## What's Changed\r\n* Fix navigation to zero vector by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/555\r\n* New node locations data by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/556\r\n* Fix fallback list item overcap and retainer inventory check by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/559\r\n* Fix Oddly Delicate items not appearing in the Auto-Gather list by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/562\r\n* Fix duplicate items in config preset check and remove redundant code by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/563\r\n* Fix auto-gather lists order reset on load by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/565\r\n* 7.4 fish data by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/566\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.1.2...7.4.5.0",
-    "DownloadCount": 815509
+    "DownloadCount": 815514
   },
   {
     "Author": "The Combat Reborn Team",
@@ -259,7 +258,7 @@
     "AssemblyVersion": "7.4.5.5",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.4.5.5/latest.zip",
     "Changelog": "## What's Changed\r\n* Added local precache system for faster CID resolving by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.4.5.3...7.4.5.5",
-    "DownloadCount": 224
+    "DownloadCount": 227
   },
   {
     "Author": "Churin",
