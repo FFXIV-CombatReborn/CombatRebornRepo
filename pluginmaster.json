@@ -255,10 +255,10 @@
     "Punchline": "Shows a member-info overlay alongside party finder listings.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.4.5.6/latest.zip",
-    "AssemblyVersion": "7.4.5.6",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.4.5.6/latest.zip",
-    "Changelog": "## What's Changed\r\n* Better caching and enabled a party finder listing option by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/7\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.4.5.5...7.4.5.6",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.4.5.7/latest.zip",
+    "AssemblyVersion": "7.4.5.7",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.4.5.7/latest.zip",
+    "Changelog": "## What's Changed\r\n* Hotfix for caching system by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.4.5.6...7.4.5.7",
     "DownloadCount": 240
   },
   {
