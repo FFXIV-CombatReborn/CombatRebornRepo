@@ -33,7 +33,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Fixes to fillter rotation for BLM PvP by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1186\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.7...7.4.5.8",
-    "DownloadCount": 2321285
+    "DownloadCount": 2321286
   },
   {
     "Author": "The Combat Reborn Team",
@@ -64,9 +64,10 @@
     "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.9/BossModReborn.zip",
     "AssemblyVersion": "7.4.5.9",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.9/BossModReborn.zip",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* category cleanup by @gynorhino in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1128\r\n* Cleanup and fix build output duplication by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1129\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.8...7.4.5.9",
-    "DownloadCount": 2673627
+    "DownloadCount": 2673628
   },
   {
     "Author": "The Combat Reborn Team",
