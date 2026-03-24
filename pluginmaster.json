@@ -27,13 +27,13 @@
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.5.16/latest.zip",
-    "AssemblyVersion": "7.4.5.16",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.5.16/latest.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.5.17/latest.zip",
+    "AssemblyVersion": "7.4.5.17",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.5.17/latest.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
-    "Changelog": "## What's Changed\r\n* Update BeirutaSGE.cs by @BeirutaNa1na in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1196\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.15...7.4.5.16",
-    "DownloadCount": 2305868
+    "Changelog": "## What's Changed\r\n* update for 7.45 hotfix 2 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1197\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.16...7.4.5.17",
+    "DownloadCount": 2305880
   },
   {
     "Author": "The Combat Reborn Team",
@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* Module: Pari of Plenty Criterion  by @Equilius in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1131\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.13...7.4.5.14",
-    "DownloadCount": 2679680
+    "DownloadCount": 2679683
   },
   {
     "Author": "The Combat Reborn Team",
@@ -192,7 +192,7 @@
     "AssemblyVersion": "7.4.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.4.5.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Upgrade to Dalamud API 14 / .NET 10 + Auto-exit by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/15\r\n\r\n## New Contributors\r\n* @Shiori-Zephyr made their first contribution in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/15\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.1...7.4.5.0",
-    "DownloadCount": 21289
+    "DownloadCount": 21290
   },
   {
     "Author": "The Combat Reborn Team",
