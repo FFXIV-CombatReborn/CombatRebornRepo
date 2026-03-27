@@ -33,7 +33,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* BeirutaNIN by @BeirutaNa1na in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1198\r\n* Added explicit isfriendly = false parameter to Pneuma by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1199\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.17...7.4.5.18",
-    "DownloadCount": 2311585
+    "DownloadCount": 2312004
   },
   {
     "Author": "The Combat Reborn Team",
@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* Fix incorrect check for RSR in manual action queue, added PR github action to check building by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1132\r\n* Module: Pari of Plenty Criterion Module by @Equilius in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1133\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.14...7.4.5.15",
-    "DownloadCount": 2686285
+    "DownloadCount": 2686377
   },
   {
     "Author": "The Combat Reborn Team",
@@ -126,7 +126,7 @@
     "AssemblyVersion": "7.4.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.4.5.0/EasyZoomReborn.zip",
     "Changelog": "Updated for patch 7.45\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.4.0.0...7.4.5.0",
-    "DownloadCount": 42997
+    "DownloadCount": 43006
   },
   {
     "Author": "The Combat Reborn Team",
@@ -165,7 +165,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.8/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.8",
     "Changelog": "## What's Changed\r\n* Fix navigation to zero vector by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/555\r\n* New node locations data by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/556\r\n* Fix fallback list item overcap and retainer inventory check by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/559\r\n* Fix Oddly Delicate items not appearing in the Auto-Gather list by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/562\r\n* Fix duplicate items in config preset check and remove redundant code by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/563\r\n* Fix auto-gather lists order reset on load by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/565\r\n* 7.4 fish data by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/566\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.1.2...7.4.5.0",
-    "DownloadCount": 822035
+    "DownloadCount": 822196
   },
   {
     "Author": "The Combat Reborn Team",
@@ -192,7 +192,7 @@
     "AssemblyVersion": "7.4.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.4.5.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Upgrade to Dalamud API 14 / .NET 10 + Auto-exit by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/15\r\n\r\n## New Contributors\r\n* @Shiori-Zephyr made their first contribution in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/15\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.1...7.4.5.0",
-    "DownloadCount": 21500
+    "DownloadCount": 21501
   },
   {
     "Author": "The Combat Reborn Team",
@@ -224,7 +224,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Update to 7.45 and latest version of dalamud, fixed leaking hooks, and did some basic cleanup and optimizations by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/6\r\n\r\n## New Contributors\r\n* @LTS-FFXIV made their first contribution in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/6\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.3.1.2...7.4.5.0",
-    "DownloadCount": 8596
+    "DownloadCount": 8597
   },
   {
     "Author": "The Combat Reborn Team",
@@ -259,7 +259,7 @@
     "AssemblyVersion": "7.4.5.7",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.4.5.7/latest.zip",
     "Changelog": "## What's Changed\r\n* Hotfix for caching system by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.4.5.6...7.4.5.7",
-    "DownloadCount": 519
+    "DownloadCount": 522
   },
   {
     "Author": "Churin",
