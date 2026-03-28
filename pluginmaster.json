@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* Fix incorrect check for RSR in manual action queue, added PR github action to check building by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1132\r\n* Module: Pari of Plenty Criterion Module by @Equilius in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1133\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.14...7.4.5.15",
-    "DownloadCount": 2688154
+    "DownloadCount": 2688168
   },
   {
     "Author": "The Combat Reborn Team",
@@ -165,7 +165,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.8/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.8",
     "Changelog": "## What's Changed\r\n* Fix navigation to zero vector by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/555\r\n* New node locations data by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/556\r\n* Fix fallback list item overcap and retainer inventory check by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/559\r\n* Fix Oddly Delicate items not appearing in the Auto-Gather list by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/562\r\n* Fix duplicate items in config preset check and remove redundant code by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/563\r\n* Fix auto-gather lists order reset on load by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/565\r\n* 7.4 fish data by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/566\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.1.2...7.4.5.0",
-    "DownloadCount": 824141
+    "DownloadCount": 824143
   },
   {
     "Author": "The Combat Reborn Team",
@@ -259,7 +259,42 @@
     "AssemblyVersion": "7.4.5.7",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.4.5.7/latest.zip",
     "Changelog": "## What's Changed\r\n* Hotfix for caching system by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.4.5.6...7.4.5.7",
-    "DownloadCount": 601
+    "DownloadCount": 603
+  },
+  {
+    "Author": "The Combat Reborn Team",
+    "Name": "No Silly Reborn",
+    "InternalName": "NoSillyReborn",
+    "Description": "No Silly Reborn intercepts your action inputs during combat and replaces incorrect actions with the correct ones based on your current job state.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
+    "Tags": [
+      "combat",
+      "overlay",
+      "rotation",
+      "auto",
+      "pve",
+      "pvp",
+      "high end"
+    ],
+    "CategoryTags": [
+      "jobs"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/NSR_Icon.png",
+    "Punchline": "For those who click their own buttons, but sometimes click the wrong ones.",
+    "RepoUrl": "https://github.com/FFXIV-CombatReborn/NoSillyReborn",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.4.5.0/latest.zip",
+    "AssemblyVersion": "7.4.5.0",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.4.5.0/latest.zip",
+    "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/commits/7.4.5.0",
+    "DownloadCount": 0
   },
   {
     "Author": "Churin",
