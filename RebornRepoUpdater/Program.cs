@@ -20,6 +20,7 @@ class Program
         new KnownRepo("RebornToolbox", "RebornToolbox"),
         new KnownRepo("ZodiacBuddyReborn", "ZodiacBuddyReborn"),
         new KnownRepo("PassportCheckerReborn", "PassportCheckerReborn"),
+        new KnownRepo("NoSillyReborn", "NoSillyReborn"),
         //new KnownRepo("party-finder-plugin", "PartyFinderReborn", "Party-Finder-Reborn"),
         new KnownRepo("Understudy", "Understudy", "aventurescence")
     ];
