@@ -5,4 +5,5 @@ FFXIV-CombatReborn/EasyZoomReborn
 FFXIV-CombatReborn/GatherBuddyReborn
 FFXIV-CombatReborn/RebornToolbox
 FFXIV-CombatReborn/PassportCheckerReborn
+FFXIV-CombatReborn/NoSillyReborn
 aventurescence/Understudy
