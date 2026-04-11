@@ -33,7 +33,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Rotation Updates by @BeirutaNa1na in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1216\r\n* Change ActionCheck condition for SamuraiRotation by @KouGithub2022 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1217\r\n\r\n## New Contributors\r\n* @KouGithub2022 made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1217\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.28...7.4.5.29",
-    "DownloadCount": 2363015
+    "DownloadCount": 2363114
   },
   {
     "Author": "The Combat Reborn Team",
@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* Expanded IPC support to support upcoming RSR update, added state hints to M10S and M12SP2 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1135\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.16...7.4.5.17",
-    "DownloadCount": 2716654
+    "DownloadCount": 2716678
   },
   {
     "Author": "The Combat Reborn Team",
@@ -96,7 +96,7 @@
     "AssemblyVersion": "7.4.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.4.5.0/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Update for patch 7.45 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/12\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.4.0.1...7.4.5.0",
-    "DownloadCount": 21047
+    "DownloadCount": 21048
   },
   {
     "Author": "The Combat Reborn Team",
@@ -165,7 +165,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.14/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.14",
     "Changelog": "## What's Changed\r\n* Fix navigation to zero vector by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/555\r\n* New node locations data by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/556\r\n* Fix fallback list item overcap and retainer inventory check by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/559\r\n* Fix Oddly Delicate items not appearing in the Auto-Gather list by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/562\r\n* Fix duplicate items in config preset check and remove redundant code by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/563\r\n* Fix auto-gather lists order reset on load by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/565\r\n* 7.4 fish data by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/566\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.1.2...7.4.5.0",
-    "DownloadCount": 842337
+    "DownloadCount": 842358
   },
   {
     "Author": "The Combat Reborn Team",
@@ -192,7 +192,7 @@
     "AssemblyVersion": "7.4.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.4.5.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Upgrade to Dalamud API 14 / .NET 10 + Auto-exit by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/15\r\n\r\n## New Contributors\r\n* @Shiori-Zephyr made their first contribution in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/15\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.1...7.4.5.0",
-    "DownloadCount": 22292
+    "DownloadCount": 22293
   },
   {
     "Author": "The Combat Reborn Team",
@@ -224,7 +224,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Update to 7.45 and latest version of dalamud, fixed leaking hooks, and did some basic cleanup and optimizations by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/6\r\n\r\n## New Contributors\r\n* @LTS-FFXIV made their first contribution in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/6\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.3.1.2...7.4.5.0",
-    "DownloadCount": 9158
+    "DownloadCount": 9160
   },
   {
     "Author": "The Combat Reborn Team",
@@ -259,7 +259,7 @@
     "AssemblyVersion": "7.4.5.8",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.4.5.8/latest.zip",
     "Changelog": "## What's Changed\r\n* General cleanup and removal of dummy code by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/9\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.4.5.7...7.4.5.8",
-    "DownloadCount": 1813
+    "DownloadCount": 1817
   },
   {
     "Author": "The Combat Reborn Team",
@@ -294,7 +294,7 @@
     "AssemblyVersion": "7.4.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.4.5.0/latest.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/commits/7.4.5.0",
-    "DownloadCount": 431
+    "DownloadCount": 433
   },
   {
     "Author": "Churin",
@@ -326,6 +326,6 @@
     "AssemblyVersion": "1.0.0.6",
     "DownloadLinkUpdate": "https://github.com/aventurescence/Understudy/releases/download/v1.0.0.6/latest.zip",
     "Changelog": "### Merge pull request #7 from aventurescence/stat-calcs\r\n\r\n\r\n### feat: Add ChangelogWindow and UI enhancements\r\n\r\n### Details\r\n- Created ChangelogWindow to display release notes\r\n- Added image assets for header banner and avatar\r\n- Refactored related UI components for dashboard and settings\r\n- Adjusted layout and routing for the plugin window\r\n\r\n### feat: Add commit template and update release workflow\r\n\r\n### Details\r\n- Created .gitmessage template\r\n- Updated release.yml to include commit bodies in changelog\r\n\r\n### refactor: merge standalone configuration window into main dashboard settings view\r\n\r\n\r\n### fix: add missing settings fields to main dashboard Settings view\r\n\r\n\r\n### feat: implement upgrade priority calculator and UI component\r\n\r\n#### ✨ New Features\r\n- Added `UpgradePriorityCalculator` to compute and rank optimal gear upgrades based on estimated damage gains, ffxiv formulas (level 100 stats), and job modifiers.\r\n- Created `UpgradePriority` UI component to cleanly display the suggested unowned BiS upgrades, their acquisition source, and estimated % damage gain right within the character loadout card.\r\n\r\n#### 🔧 Integration\r\n- Registered `UpgradePriorityCalculator` into the dependency injection within `Plugin.cs` to make it accessible to UI components.\r\n\r\n### feat: auto-update loadout on job change + fix Etro 429 rate limit\r\n\r\n- CharacterTracker: persistent framework.Update watcher fires JobChanged\r\n  event when player's ClassJob.RowId changes; exposes CurrentJobId\r\n- CharacterDetail: subscribes to JobChanged to auto-re-snapshot gear\r\n  (only if job already tracked) and sets scroll-to flag for that card\r\n- LoadoutCard: accepts activeJobId param, renders accent highlight on\r\n  the card matching the player's current job\r\n- EtroBrowseManager: SemaphoreSlim(2,2) caps concurrent Etro requests;\r\n  in-flight HashSet prevents duplicate fetches; food map uses Task\r\n  deduplication to avoid concurrent calls for the same endpoint\n\n---\n*Assembly version: 1.0.0.6*\n\n\n## What's Changed\n* Enhance loadout management and upgrade prioritization features by @aventurescence in https://github.com/aventurescence/Understudy/pull/7\n\n\n**Full Changelog**: https://github.com/aventurescence/Understudy/compare/v1.0.0.5...v1.0.0.6",
-    "DownloadCount": 275
+    "DownloadCount": 276
   }
 ]
