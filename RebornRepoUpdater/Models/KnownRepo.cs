@@ -13,21 +13,21 @@ public class KnownRepo(string projectName, string internalName, string organizat
 	public string InternalName { get; set; } = internalName;
 	public PluginManifest? Manifest { get; private set; } = null;
 
-    public async Task Update(GitHubClient client)
-    {
-        Console.WriteLine($"Getting current manifest for {ProjectName}...");
+	public async Task Update(GitHubClient client)
+	{
+		Console.WriteLine($"Getting current manifest for {ProjectName}...");
 
-        await EnsureRateLimitAsync(client);
+		await EnsureRateLimitAsync(client);
 
-        var jsonContent =
-            await client.Repository.Content.GetAllContents(OrganizationName, ProjectName, ManifestFilePath);
-        var json = jsonContent[0].Content;
-        var manifest = JsonConvert.DeserializeObject<PluginManifest>(json);
-        Manifest = manifest;
+		var jsonContent =
+			await client.Repository.Content.GetAllContents(OrganizationName, ProjectName, ManifestFilePath);
+		var json = jsonContent[0].Content;
+		var manifest = JsonConvert.DeserializeObject<PluginManifest>(json);
+		Manifest = manifest;
 
-        if (Manifest != null)
-            await GetReleaseInfo(client);
-    }
+		if (Manifest != null)
+			await GetReleaseInfo(client);
+	}
 
 	private async Task GetReleaseInfo(GitHubClient client)
 	{
@@ -38,13 +38,32 @@ public class KnownRepo(string projectName, string internalName, string organizat
 
 		await EnsureRateLimitAsync(client);
 
-		var releases = await client.Repository.Release.GetAll(OrganizationName, ProjectName, new ApiOptions { PageSize = 100, PageCount = int.MaxValue });
-		var releaseList = new List<Release>(releases);
+		var releaseList = new List<Release>();
+		const int maxGetAllAttempts = 3;
+		for (int attempt = 1; attempt <= maxGetAllAttempts; attempt++)
+		{
+			try
+			{
+				var releases = await client.Repository.Release.GetAll(OrganizationName, ProjectName, new ApiOptions { PageSize = 100, PageCount = int.MaxValue });
+				releaseList = [.. releases];
+				if (releaseList.Count > 0)
+					break;
+
+				Console.WriteLine($"GetAll returned empty for {ProjectName} (attempt {attempt}/{maxGetAllAttempts})...");
+			}
+			catch (Exception ex)
+			{
+				Console.WriteLine($"GetAll attempt {attempt}/{maxGetAllAttempts} failed for {ProjectName}: {ex.Message}");
+			}
+
+			if (attempt < maxGetAllAttempts)
+				await EnsureRateLimitAsync(client);
+		}
 
 		if (releaseList.Count == 0)
 		{
-			// Fall back to GetLatest() to attempt to retrieve at least the latest stable release
-			Console.WriteLine($"GetAll returned empty for {ProjectName}, attempting GetLatest fallback...");
+			// Fall back to GetLatest() after all GetAll attempts are exhausted
+			Console.WriteLine($"GetAll returned empty for {ProjectName} after {maxGetAllAttempts} attempts, attempting GetLatest fallback...");
 			try
 			{
 				await EnsureRateLimitAsync(client);
@@ -146,28 +165,28 @@ public class KnownRepo(string projectName, string internalName, string organizat
 		}
 
 		Manifest.SetDownloadCount(releaseList);
-        Console.WriteLine($"Download count: {Manifest.DownloadCount}");
-    }
+		Console.WriteLine($"Download count: {Manifest.DownloadCount}");
+	}
 
-    private static async Task EnsureRateLimitAsync(GitHubClient client)
-    {
-        var apiInfo = await client.RateLimit.GetRateLimits();
-        var rateLimit = apiInfo?.Rate;
+	private static async Task EnsureRateLimitAsync(GitHubClient client)
+	{
+		var apiInfo = await client.RateLimit.GetRateLimits();
+		var rateLimit = apiInfo?.Rate;
 
-        if (rateLimit == null)
-        {
-            Console.WriteLine("No rate limit information available. Proceeding with API call.");
-            return;
-        }
+		if (rateLimit == null)
+		{
+			Console.WriteLine("No rate limit information available. Proceeding with API call.");
+			return;
+		}
 
-        var remaining = rateLimit.Remaining;
-        var resetTime = rateLimit.Reset;
+		var remaining = rateLimit.Remaining;
+		var resetTime = rateLimit.Reset;
 
-        if (remaining > 0)
-        {
-            Console.WriteLine($"Rate Limit OK: {remaining} requests remaining.");
-            return;
-        }
+		if (remaining > 0)
+		{
+			Console.WriteLine($"Rate Limit OK: {remaining} requests remaining.");
+			return;
+		}
 
 		var waitTime = resetTime - DateTimeOffset.UtcNow;
 		if (waitTime.TotalSeconds > 0)
@@ -175,5 +194,5 @@ public class KnownRepo(string projectName, string internalName, string organizat
 			Console.WriteLine($"Rate limit reached. Waiting for {waitTime.TotalSeconds:N0} seconds...");
 			await Task.Delay(TimeSpan.FromMilliseconds(Math.Max(0, waitTime.TotalMilliseconds)));
 		}
-    }
+	}
 }
