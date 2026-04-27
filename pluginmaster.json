@@ -30,10 +30,8 @@
     "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.5.35/latest.zip",
     "AssemblyVersion": "7.4.5.35",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.5.35/latest.zip",
-    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
-    "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Signifigant improvements to PvP, and fixes for BLU rotation by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1226\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.34...7.4.5.35",
-    "DownloadCount": 2421426
+    "DownloadCount": 105563
   },
   {
     "Author": "The Combat Reborn Team",
@@ -68,35 +66,6 @@
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.17...7.4.5.18",
     "DownloadCount": 2736152
-  },
-  {
-    "Author": "The Combat Reborn Team",
-    "Name": "ActionTimeline Reborn",
-    "InternalName": "ActionTimelineReborn",
-    "Description": "Configurable timeline display of all the actions you use.",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "TestingDalamudApiLevel": 0,
-    "Tags": [
-      "UI"
-    ],
-    "CategoryTags": [
-      "UI"
-    ],
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IsTestingExclusive": false,
-    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/ATR_Icon.png",
-    "Punchline": "Show your actions in real-time.",
-    "RepoUrl": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.4.5.0/ActionTimelineReborn.zip",
-    "AssemblyVersion": "7.4.5.0",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.4.5.0/ActionTimelineReborn.zip",
-    "Changelog": "## What's Changed\r\n* Update for patch 7.45 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/12\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.4.0.1...7.4.5.0",
-    "DownloadCount": 25216
   },
   {
     "Author": "The Combat Reborn Team",
@@ -224,7 +193,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Update to 7.45 and latest version of dalamud, fixed leaking hooks, and did some basic cleanup and optimizations by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/6\r\n\r\n## New Contributors\r\n* @LTS-FFXIV made their first contribution in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/6\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.3.1.2...7.4.5.0",
-    "DownloadCount": 9750
+    "DownloadCount": 9753
   },
   {
     "Author": "The Combat Reborn Team",
