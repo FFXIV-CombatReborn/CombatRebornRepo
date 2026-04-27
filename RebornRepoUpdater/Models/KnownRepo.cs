@@ -29,17 +29,34 @@ public class KnownRepo(string projectName, string internalName, string organizat
             await GetReleaseInfo(client);
     }
 
-    private async Task GetReleaseInfo(GitHubClient client)
-    {
-        if (Manifest == null)
-            return;
+	private async Task GetReleaseInfo(GitHubClient client)
+	{
+		if (Manifest == null)
+			return;
 
-        Console.WriteLine($"Getting releases for {ProjectName}...");
+		Console.WriteLine($"Getting releases for {ProjectName}...");
 
-        await EnsureRateLimitAsync(client);
+		await EnsureRateLimitAsync(client);
 
-		var releases = await client.Repository.Release.GetAll(OrganizationName, ProjectName);
+		var releases = await client.Repository.Release.GetAll(OrganizationName, ProjectName, new ApiOptions { PageSize = 100, PageCount = 1 });
 		var releaseList = new List<Release>(releases);
+
+		if (releaseList.Count == 0)
+		{
+			// Fall back to GetLatest() to attempt to retrieve at least the latest stable release
+			Console.WriteLine($"GetAll returned empty for {ProjectName}, attempting GetLatest fallback...");
+			try
+			{
+				await EnsureRateLimitAsync(client);
+				var latest = await client.Repository.Release.GetLatest(OrganizationName, ProjectName);
+				if (latest != null)
+					releaseList.Add(latest);
+			}
+			catch (Exception ex)
+			{
+				Console.WriteLine($"GetLatest also failed for {ProjectName}: {ex.Message}");
+			}
+		}
 
 		if (releaseList.Count == 0)
 			throw new Exception($"GitHub returned an empty release list for {ProjectName}. Skipping update to avoid overwriting existing data.");
