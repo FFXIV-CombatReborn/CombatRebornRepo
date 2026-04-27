@@ -30,8 +30,10 @@
     "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.5.35/latest.zip",
     "AssemblyVersion": "7.4.5.35",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.5.35/latest.zip",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
+    "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Signifigant improvements to PvP, and fixes for BLU rotation by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1226\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.34...7.4.5.35",
-    "DownloadCount": 106127
+    "DownloadCount": 292836
   },
   {
     "Author": "The Combat Reborn Team",
@@ -62,10 +64,8 @@
     "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.18/latest.zip",
     "AssemblyVersion": "7.4.5.18",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.18/latest.zip",
-    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
-    "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.17...7.4.5.18",
-    "DownloadCount": 191863
+    "DownloadCount": 16103
   },
   {
     "Author": "The Combat Reborn Team",
@@ -188,7 +188,7 @@
     "AssemblyVersion": "7.4.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.4.5.0/RebornToolbox.zip",
     "Changelog": "## What's Changed\r\n* Upgrade to Dalamud API 14 / .NET 10 + Auto-exit by @Shiori-Zephyr in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/15\r\n\r\n## New Contributors\r\n* @Shiori-Zephyr made their first contribution in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/15\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.2.0.1...7.4.5.0",
-    "DownloadCount": 22820
+    "DownloadCount": 1739
   },
   {
     "Author": "The Combat Reborn Team",
@@ -253,7 +253,7 @@
     "AssemblyVersion": "7.4.5.8",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.4.5.8/latest.zip",
     "Changelog": "## What's Changed\r\n* General cleanup and removal of dummy code by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/9\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.4.5.7...7.4.5.8",
-    "DownloadCount": 1804
+    "DownloadCount": 1805
   },
   {
     "Author": "The Combat Reborn Team",
@@ -288,7 +288,7 @@
     "AssemblyVersion": "7.4.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.4.5.0/latest.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/commits/7.4.5.0",
-    "DownloadCount": 725
+    "DownloadCount": 726
   },
   {
     "Author": "Churin",
