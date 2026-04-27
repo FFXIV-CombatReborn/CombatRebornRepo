@@ -65,6 +65,8 @@ public class PluginManifest
 
     public void SetDownloadCount(IEnumerable<Release> releases)
     {
-        DownloadCount = releases.Sum(r => r.Assets.Sum(a => a.DownloadCount));
+        var newCount = releases.Sum(r => r.Assets.Sum(a => a.DownloadCount));
+        if (newCount > DownloadCount)
+            DownloadCount = newCount;
     }
 }

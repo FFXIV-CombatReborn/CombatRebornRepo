@@ -9,7 +9,7 @@ public class KnownRepo(string projectName, string internalName, string organizat
 {
 	public string ProjectName { get; set; } = projectName;
 	public string OrganizationName { get; set; } = organizationName;
-	public string ManifestFilePath { get; set; } = string.IsNullOrWhiteSpace(manifestFilePath) ? $"manifest.json" : manifestFilePath;
+	public string ManifestFilePath { get; set; } = string.IsNullOrWhiteSpace(manifestFilePath) ? "manifest.json" : manifestFilePath;
 	public string InternalName { get; set; } = internalName;
 	public PluginManifest? Manifest { get; private set; } = null;
 
@@ -38,7 +38,7 @@ public class KnownRepo(string projectName, string internalName, string organizat
 
 		await EnsureRateLimitAsync(client);
 
-		var releases = await client.Repository.Release.GetAll(OrganizationName, ProjectName, new ApiOptions { PageSize = 100, PageCount = 1 });
+		var releases = await client.Repository.Release.GetAll(OrganizationName, ProjectName);
 		var releaseList = new List<Release>(releases);
 
 		if (releaseList.Count == 0)
@@ -169,11 +169,11 @@ public class KnownRepo(string projectName, string internalName, string organizat
             return;
         }
 
-        var waitTime = resetTime - DateTimeOffset.UtcNow;
-        if (waitTime.TotalSeconds > 0)
-        {
-            Console.WriteLine($"Rate limit reached. Waiting for {waitTime.TotalSeconds:N0} seconds...");
-            await Task.Delay(waitTime);
-        }
+		var waitTime = resetTime - DateTimeOffset.UtcNow;
+		if (waitTime.TotalSeconds > 0)
+		{
+			Console.WriteLine($"Rate limit reached. Waiting for {waitTime.TotalSeconds:N0} seconds...");
+			await Task.Delay(TimeSpan.FromMilliseconds(Math.Max(0, waitTime.TotalMilliseconds)));
+		}
     }
 }
