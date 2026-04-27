@@ -38,7 +38,7 @@ public class KnownRepo(string projectName, string internalName, string organizat
 
 		await EnsureRateLimitAsync(client);
 
-		var releases = await client.Repository.Release.GetAll(OrganizationName, ProjectName);
+		var releases = await client.Repository.Release.GetAll(OrganizationName, ProjectName, new ApiOptions { PageSize = 100, PageCount = int.MaxValue });
 		var releaseList = new List<Release>(releases);
 
 		if (releaseList.Count == 0)
