@@ -5,8 +5,8 @@
     "InternalName": "RotationSolver",
     "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "TestingDalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
     "Tags": [
       "combat",
       "rotation",
@@ -27,13 +27,13 @@
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.5.35/latest.zip",
-    "AssemblyVersion": "7.4.5.35",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.5.35/latest.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.0.1/latest.zip",
+    "AssemblyVersion": "7.5.0.1",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.0.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
-    "Changelog": "## What's Changed\r\n* Signifigant improvements to PvP, and fixes for BLU rotation by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1226\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.34...7.4.5.35",
-    "DownloadCount": 2424302
+    "Changelog": "## What's Changed\r\n* Update for patch 7.5 and API 15 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1227\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.35...7.5.0.1",
+    "DownloadCount": 2424304
   },
   {
     "Author": "The Combat Reborn Team",
@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* API 15 updates -- also a sig update by @HerStolenLight in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1137\r\n* Patch7.5 update by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1138\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.18...7.5.0.0",
-    "DownloadCount": 2737889
+    "DownloadCount": 2738849
   },
   {
     "Author": "The Combat Reborn Team",
@@ -96,7 +96,7 @@
     "AssemblyVersion": "7.5.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.0.1/ActionTimelineReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 25343
+    "DownloadCount": 25427
   },
   {
     "Author": "The Combat Reborn Team",
@@ -126,7 +126,7 @@
     "AssemblyVersion": "7.5.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.0/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Patch 7.5 and API 15 update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 45288
+    "DownloadCount": 45549
   },
   {
     "Author": "The Combat Reborn Team",
@@ -165,7 +165,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Fix navigation to zero vector by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/555\r\n* New node locations data by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/556\r\n* Fix fallback list item overcap and retainer inventory check by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/559\r\n* Fix Oddly Delicate items not appearing in the Auto-Gather list by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/562\r\n* Fix duplicate items in config preset check and remove redundant code by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/563\r\n* Fix auto-gather lists order reset on load by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/565\r\n* 7.4 fish data by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/566\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.1.2...7.4.5.0",
-    "DownloadCount": 854408
+    "DownloadCount": 854410
   },
   {
     "Author": "The Combat Reborn Team",
@@ -224,7 +224,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Update for Patch 7.5 and Dalamud API 15 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/7\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 9936
+    "DownloadCount": 10082
   },
   {
     "Author": "The Combat Reborn Team",
@@ -232,8 +232,8 @@
     "InternalName": "PassportCheckerReborn",
     "Description": "Passport Checker Reborn is an open-source alternative to the PFFinder plugin.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "TestingDalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
     "Tags": [
       "party finder",
       "overlay",
@@ -255,10 +255,10 @@
     "Punchline": "Shows a member-info overlay alongside party finder listings.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.4.5.8/latest.zip",
-    "AssemblyVersion": "7.4.5.8",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.4.5.8/latest.zip",
-    "Changelog": "## What's Changed\r\n* General cleanup and removal of dummy code by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/9\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.4.5.7...7.4.5.8",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.0.0/latest.zip",
+    "AssemblyVersion": "7.5.0.0",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.0.0/latest.zip",
+    "Changelog": "## What's Changed\r\n* Patch 7.5 and API 15 update, better UI responsiveness and clarity for resolved names vs private players by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/10\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.4.5.8...7.5.0.0",
     "DownloadCount": 2490
   },
   {
@@ -267,8 +267,8 @@
     "InternalName": "NoSillyReborn",
     "Description": "No Silly Reborn intercepts your action inputs during combat and replaces incorrect actions with the correct ones based on your current job state.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "TestingDalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
     "Tags": [
       "combat",
       "overlay",
@@ -290,10 +290,10 @@
     "Punchline": "For those who click their own buttons, but sometimes click the wrong ones.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/NoSillyReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.4.5.0/latest.zip",
-    "AssemblyVersion": "7.4.5.0",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.4.5.0/latest.zip",
-    "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/commits/7.4.5.0",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.0.0/latest.zip",
+    "AssemblyVersion": "7.5.0.0",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.0.0/latest.zip",
+    "Changelog": "## What's Changed\r\n* Patch 7.5 and API 15 update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/2\r\n\r\n## New Contributors\r\n* @LTS-FFXIV made their first contribution in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/2\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.4.5.0...7.5.0.0",
     "DownloadCount": 731
   },
   {
