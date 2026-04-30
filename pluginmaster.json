@@ -33,7 +33,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Disable Interrupt logic until Dalamud is fixed, MNK PvP fixes, BLM PvP fixes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1230\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.0.2...7.5.0.3",
-    "DownloadCount": 2428348
+    "DownloadCount": 2428465
   },
   {
     "Author": "The Combat Reborn Team",
@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* API 15 updates -- also a sig update by @HerStolenLight in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1137\r\n* Patch7.5 update by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1138\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.18...7.5.0.0",
-    "DownloadCount": 2741572
+    "DownloadCount": 2741620
   },
   {
     "Author": "The Combat Reborn Team",
@@ -96,7 +96,7 @@
     "AssemblyVersion": "7.5.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.0.1/ActionTimelineReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 25662
+    "DownloadCount": 25665
   },
   {
     "Author": "The Combat Reborn Team",
@@ -122,11 +122,11 @@
     "Punchline": "Easy zoom distance unlock and fov control. /ez opens the EasyZoomReborn configuration window.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.1/EasyZoomReborn.zip",
-    "AssemblyVersion": "7.5.0.1",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.1/EasyZoomReborn.zip",
-    "Changelog": "## What's Changed\r\n* Fix controller zoom speed after 7.5 camera vfunc shift by @Ayumudayo in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/15\r\n\r\n## New Contributors\r\n* @Ayumudayo made their first contribution in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/15\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 46703
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.2/EasyZoomReborn.zip",
+    "AssemblyVersion": "7.5.0.2",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.2/EasyZoomReborn.zip",
+    "Changelog": "## What's Changed\r\n* Fix sig mismatches by @Ayumudayo in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/16\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.1...7.5.0.2",
+    "DownloadCount": 46721
   },
   {
     "Author": "The Combat Reborn Team",
@@ -224,7 +224,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Update for Patch 7.5 and Dalamud API 15 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/7\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 10454
+    "DownloadCount": 10465
   },
   {
     "Author": "The Combat Reborn Team",
@@ -259,7 +259,7 @@
     "AssemblyVersion": "7.5.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.0.1/latest.zip",
     "Changelog": "## What's Changed\r\n* Fix for partyfinder listing undercount by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/11\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 3246
+    "DownloadCount": 3259
   },
   {
     "Author": "The Combat Reborn Team",
