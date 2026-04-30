@@ -33,7 +33,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Fixed summoner job gauges, again again. by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1231\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.0.4...7.5.0.5",
-    "DownloadCount": 2430853
+    "DownloadCount": 2430941
   },
   {
     "Author": "The Combat Reborn Team",
@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* Upgrade action-gh-release to version 3 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1139\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.0.0...7.5.0.2",
-    "DownloadCount": 2743173
+    "DownloadCount": 2743298
   },
   {
     "Author": "The Combat Reborn Team",
@@ -126,7 +126,7 @@
     "AssemblyVersion": "7.5.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.2/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Fix sig mismatches by @Ayumudayo in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/16\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.1...7.5.0.2",
-    "DownloadCount": 47434
+    "DownloadCount": 47460
   },
   {
     "Author": "The Combat Reborn Team",
@@ -259,7 +259,7 @@
     "AssemblyVersion": "7.5.0.4",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.0.4/latest.zip",
     "Changelog": "## What's Changed\r\n* Fix PFWindow not closing fully when close party finder listing by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/13\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.0.2...7.5.0.4",
-    "DownloadCount": 3654
+    "DownloadCount": 3671
   },
   {
     "Author": "The Combat Reborn Team",
