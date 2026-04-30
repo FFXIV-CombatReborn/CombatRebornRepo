@@ -61,12 +61,8 @@
     "Punchline": "Don't fail at raid mechanics anymore",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.18/latest.zip",
-    "AssemblyVersion": "7.4.5.18",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.18/latest.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
-    "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.4.5.17...7.4.5.18",
     "DownloadCount": 2736664
   },
   {
@@ -75,7 +71,7 @@
     "InternalName": "ActionTimelineReborn",
     "Description": "Configurable timeline display of all the actions you use.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 0,
     "Tags": [
       "UI"
@@ -92,10 +88,10 @@
     "Punchline": "Show your actions in real-time.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.4.5.0/ActionTimelineReborn.zip",
-    "AssemblyVersion": "7.4.5.0",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.4.5.0/ActionTimelineReborn.zip",
-    "Changelog": "## What's Changed\r\n* Update for patch 7.45 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/12\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.4.0.1...7.4.5.0",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.0.0/ActionTimelineReborn.zip",
+    "AssemblyVersion": "7.5.0.0",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.0.0/ActionTimelineReborn.zip",
+    "Changelog": "## What's Changed\r\n* Update for Patch 7.5 and Dalamud API15 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/13\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.4.5.0...7.5.0.0",
     "DownloadCount": 25224
   },
   {
