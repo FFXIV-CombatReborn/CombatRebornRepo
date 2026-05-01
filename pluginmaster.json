@@ -27,13 +27,13 @@
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.0.6/latest.zip",
-    "AssemblyVersion": "7.5.0.6",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.0.6/latest.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.0.7/latest.zip",
+    "AssemblyVersion": "7.5.0.7",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.0.7/latest.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
-    "Changelog": "## What's Changed\r\n* Improvements to IPC support for Autoduty by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1232\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.0.5...7.5.0.6",
-    "DownloadCount": 2434644
+    "Changelog": "## What's Changed\r\n* ECommons/Lumina fixes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1233\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.0.6...7.5.0.7",
+    "DownloadCount": 2435484
   },
   {
     "Author": "The Combat Reborn Team",
@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* Sigfix from upstream by @HerStolenLight in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1141\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.0.3...7.5.0.4",
-    "DownloadCount": 2746813
+    "DownloadCount": 2748664
   },
   {
     "Author": "The Combat Reborn Team",
@@ -96,7 +96,7 @@
     "AssemblyVersion": "7.5.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.0.1/ActionTimelineReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 25819
+    "DownloadCount": 25851
   },
   {
     "Author": "The Combat Reborn Team",
@@ -126,7 +126,7 @@
     "AssemblyVersion": "7.5.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.2/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Fix sig mismatches by @Ayumudayo in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/16\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.1...7.5.0.2",
-    "DownloadCount": 48027
+    "DownloadCount": 48197
   },
   {
     "Author": "The Combat Reborn Team",
@@ -224,7 +224,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Update for Patch 7.5 and Dalamud API 15 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/7\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 10732
+    "DownloadCount": 10766
   },
   {
     "Author": "The Combat Reborn Team",
@@ -255,11 +255,11 @@
     "Punchline": "Shows a member-info overlay alongside party finder listings.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.0.4/latest.zip",
-    "AssemblyVersion": "7.5.0.4",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.0.4/latest.zip",
-    "Changelog": "## What's Changed\r\n* Fix PFWindow not closing fully when close party finder listing by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/13\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.0.2...7.5.0.4",
-    "DownloadCount": 4320
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.0.5/latest.zip",
+    "AssemblyVersion": "7.5.0.5",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.0.5/latest.zip",
+    "Changelog": "## What's Changed\r\n* Ecommons and Dalamud bump by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.0.4...7.5.0.5",
+    "DownloadCount": 4424
   },
   {
     "Author": "The Combat Reborn Team",
@@ -294,7 +294,7 @@
     "AssemblyVersion": "7.5.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.0.0/latest.zip",
     "Changelog": "## What's Changed\r\n* Patch 7.5 and API 15 update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/2\r\n\r\n## New Contributors\r\n* @LTS-FFXIV made their first contribution in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/2\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 979
+    "DownloadCount": 990
   },
   {
     "Author": "Churin",
