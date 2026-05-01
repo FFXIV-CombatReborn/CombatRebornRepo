@@ -33,7 +33,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* ECommons/Lumina fixes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1233\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.0.6...7.5.0.7",
-    "DownloadCount": 2437343
+    "DownloadCount": 2438079
   },
   {
     "Author": "The Combat Reborn Team",
@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* Sigfix from upstream by @HerStolenLight in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1141\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.0.3...7.5.0.4",
-    "DownloadCount": 2749807
+    "DownloadCount": 2750475
   },
   {
     "Author": "The Combat Reborn Team",
@@ -96,7 +96,7 @@
     "AssemblyVersion": "7.5.0.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.0.1/ActionTimelineReborn.zip",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 25879
+    "DownloadCount": 25897
   },
   {
     "Author": "The Combat Reborn Team",
@@ -126,7 +126,7 @@
     "AssemblyVersion": "7.5.0.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.2/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Fix sig mismatches by @Ayumudayo in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/16\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.1...7.5.0.2",
-    "DownloadCount": 48340
+    "DownloadCount": 48427
   },
   {
     "Author": "The Combat Reborn Team",
@@ -134,8 +134,8 @@
     "InternalName": "GatherbuddyReborn",
     "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "TestingDalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
     "Tags": [
       "Gathering",
       "Fishing",
@@ -159,13 +159,13 @@
     "Punchline": "Simplify Gathering and Fishing to the extreme.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.0/GatherbuddyReborn.zip",
-    "AssemblyVersion": "7.4.5.0",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.0/GatherbuddyReborn.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.0.0/GatherbuddyReborn.zip",
+    "AssemblyVersion": "7.5.0.0",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.0.0/GatherbuddyReborn.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
-    "Changelog": "## What's Changed\r\n* Fix navigation to zero vector by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/555\r\n* New node locations data by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/556\r\n* Fix fallback list item overcap and retainer inventory check by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/559\r\n* Fix Oddly Delicate items not appearing in the Auto-Gather list by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/562\r\n* Fix duplicate items in config preset check and remove redundant code by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/563\r\n* Fix auto-gather lists order reset on load by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/565\r\n* 7.4 fish data by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/566\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.1.2...7.4.5.0",
-    "DownloadCount": 854417
+    "Changelog": "## What's Changed\r\n* 7.5 update by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/601\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.4.5.17...7.5.0.0",
+    "DownloadCount": 854421
   },
   {
     "Author": "The Combat Reborn Team",
@@ -224,7 +224,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Update for Patch 7.5 and Dalamud API 15 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/7\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 10795
+    "DownloadCount": 10811
   },
   {
     "Author": "The Combat Reborn Team",
@@ -259,7 +259,7 @@
     "AssemblyVersion": "7.5.0.5",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.0.5/latest.zip",
     "Changelog": "## What's Changed\r\n* Ecommons and Dalamud bump by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/14\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.0.4...7.5.0.5",
-    "DownloadCount": 4793
+    "DownloadCount": 4915
   },
   {
     "Author": "The Combat Reborn Team",
@@ -294,7 +294,7 @@
     "AssemblyVersion": "7.5.0.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.0.0/latest.zip",
     "Changelog": "## What's Changed\r\n* Patch 7.5 and API 15 update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/2\r\n\r\n## New Contributors\r\n* @LTS-FFXIV made their first contribution in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/2\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.4.5.0...7.5.0.0",
-    "DownloadCount": 997
+    "DownloadCount": 1001
   },
   {
     "Author": "Churin",
