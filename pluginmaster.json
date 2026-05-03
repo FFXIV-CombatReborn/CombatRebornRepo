@@ -33,7 +33,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Refactor status display to use ImGui tables by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1244\r\n* :bug: Fixed a bug in ChurinDNC step hold logic. by @aventurescence in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1245\r\n* Fix manifest and Dancer status checks by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1246\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.0.17...7.5.0.18",
-    "DownloadCount": 2474976
+    "DownloadCount": 2474977
   },
   {
     "Author": "The Combat Reborn Team",
