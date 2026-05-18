@@ -13,7 +13,7 @@ public class KnownRepo(string projectName, string internalName, string organizat
 	public string InternalName { get; set; } = internalName;
 	public PluginManifest? Manifest { get; private set; } = null;
 
-	public async Task Update(GitHubClient client)
+	public async Task Update(GitHubClient client, PluginManifest? localManifest = null)
 	{
 		Console.WriteLine($"Getting current manifest for {ProjectName}...");
 
@@ -26,13 +26,21 @@ public class KnownRepo(string projectName, string internalName, string organizat
 		Manifest = manifest;
 
 		if (Manifest != null)
-			await GetReleaseInfo(client);
+			await GetReleaseInfo(client, localManifest);
 	}
 
-	private async Task GetReleaseInfo(GitHubClient client)
+	private async Task GetReleaseInfo(GitHubClient client, PluginManifest? localManifest = null)
 	{
 		if (Manifest == null)
 			return;
+
+		// Store local values to restore if needed
+		string? localAssemblyVersion = localManifest?.AssemblyVersion;
+		string? localDownloadLinkInstall = localManifest?.DownloadLinkInstall;
+		string? localDownloadLinkUpdate = localManifest?.DownloadLinkUpdate;
+		string? localChangelog = localManifest?.Changelog;
+		string? localTestingAssemblyVersion = localManifest?.TestingAssemblyVersion;
+		string? localDownloadLinkTesting = localManifest?.DownloadLinkTesting;
 
 		Console.WriteLine($"Getting releases for {ProjectName}...");
 
@@ -111,6 +119,16 @@ public class KnownRepo(string projectName, string internalName, string organizat
 				if (stableZip == null)
 				{
 					Console.WriteLine($"WARNING: No zip asset found for stable release {latestRelease.Name}. Skipping stable release update to preserve existing data.");
+
+					// Restore local values to prevent breaking the repository
+					if (localManifest != null)
+					{
+						Manifest.AssemblyVersion = localAssemblyVersion;
+						Manifest.DownloadLinkInstall = localDownloadLinkInstall;
+						Manifest.DownloadLinkUpdate = localDownloadLinkUpdate;
+						Manifest.Changelog = localChangelog;
+						Console.WriteLine($"Restored local stable release data for {ProjectName}");
+					}
 				}
 				else
 				{
@@ -146,6 +164,14 @@ public class KnownRepo(string projectName, string internalName, string organizat
 				if (testingZip == null)
 				{
 					Console.WriteLine($"WARNING: No zip asset found for testing release {latestTestingRelease.Name}. Skipping testing release update to preserve existing data.");
+
+					// Restore local values to prevent breaking the repository
+					if (localManifest != null)
+					{
+						Manifest.TestingAssemblyVersion = localTestingAssemblyVersion;
+						Manifest.DownloadLinkTesting = localDownloadLinkTesting;
+						Console.WriteLine($"Restored local testing release data for {ProjectName}");
+					}
 				}
 				else
 				{

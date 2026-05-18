@@ -80,7 +80,7 @@ class Program
 
 			try
 			{
-				await repo.Update(Client);
+				await repo.Update(Client, localManifest);
 
 				if (repo.Manifest == null)
 					throw new Exception("Manifest was still null after updating.");
