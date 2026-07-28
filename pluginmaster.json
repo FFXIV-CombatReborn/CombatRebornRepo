@@ -33,7 +33,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Update for 7.55, hotfix to enable South Horn phantom jobs in North Horn by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1320\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.5.0...7.5.5.1",
-    "DownloadCount": 2847040
+    "DownloadCount": 2847074
   },
   {
     "Author": "The Combat Reborn Team",
@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* North Horn Fates start by @Equilius in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1257\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.1.37...7.5.5.0",
-    "DownloadCount": 3268543
+    "DownloadCount": 3268585
   },
   {
     "Author": "The Combat Reborn Team",
@@ -165,7 +165,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Aether bags by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/656\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.1.0...7.5.1.1",
-    "DownloadCount": 1017149
+    "DownloadCount": 1017155
   },
   {
     "Author": "The Combat Reborn Team",
@@ -259,7 +259,7 @@
     "AssemblyVersion": "7.5.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.5.0/latest.zip",
     "Changelog": "## What's Changed\r\n* Update for patch 7.55 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/26\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.1.4...7.5.5.0",
-    "DownloadCount": 34086
+    "DownloadCount": 34100
   },
   {
     "Author": "The Combat Reborn Team",
