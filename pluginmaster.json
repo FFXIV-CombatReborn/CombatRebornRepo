@@ -27,13 +27,13 @@
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.5.11/latest.zip",
-    "AssemblyVersion": "7.5.5.11",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.5.11/latest.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.5.12/latest.zip",
+    "AssemblyVersion": "7.5.5.12",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.5.12/latest.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
-    "Changelog": "## What's Changed\r\n* Fix for Phantom Summoner level checks by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1331\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.5.10...7.5.5.11",
-    "DownloadCount": 2886824
+    "Changelog": "## What's Changed\r\n* Guard against invalid actor state for status checks and catch exceptions by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1332\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.5.11...7.5.5.12",
+    "DownloadCount": 2886825
   },
   {
     "Author": "The Combat Reborn Team",
@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.5.10...7.5.5.11",
-    "DownloadCount": 3311715
+    "DownloadCount": 3311722
   },
   {
     "Author": "The Combat Reborn Team",
@@ -224,7 +224,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/releases/download/7.2.5.3/ZodiacBuddyReborn.zip",
     "TestingAssemblyVersion": "7.2.5.3",
     "Changelog": "## What's Changed\r\n* Add pr test and bump ecommons by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/pull/8\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn/compare/7.5.0.0...7.5.0.1",
-    "DownloadCount": 17516
+    "DownloadCount": 17518
   },
   {
     "Author": "The Combat Reborn Team",
@@ -259,7 +259,7 @@
     "AssemblyVersion": "7.5.5.0",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.5.0/latest.zip",
     "Changelog": "## What's Changed\r\n* Update for patch 7.55 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/26\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.1.4...7.5.5.0",
-    "DownloadCount": 36636
+    "DownloadCount": 36638
   },
   {
     "Author": "The Combat Reborn Team",
