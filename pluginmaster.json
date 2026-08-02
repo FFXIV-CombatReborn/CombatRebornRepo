@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* OC North Horn some improvements to AI logic by @Equilius in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1269\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.5.17...7.5.5.18",
-    "DownloadCount": 3336244
+    "DownloadCount": 3336245
   },
   {
     "Author": "The Combat Reborn Team",
