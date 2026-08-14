@@ -33,7 +33,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Added option for Dark Knight opener action and refined Phantom Samurai action target logic by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1350\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.5.29...7.5.5.30",
-    "DownloadCount": 3010802
+    "DownloadCount": 3010934
   },
   {
     "Author": "The Combat Reborn Team",
@@ -61,13 +61,13 @@
     "Punchline": "Don't fail at raid mechanics anymore",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.5.42/latest.zip",
-    "AssemblyVersion": "7.5.5.42",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.5.42/latest.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.5.43/latest.zip",
+    "AssemblyVersion": "7.5.5.43",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.5.43/latest.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
-    "Changelog": "## What's Changed\r\n* OC North Horn CE clean up by @Equilius in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1300\r\n* zombie dragon + arachne WIP, pot fates, maturity change by @gynorhino in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1301\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.5.41...7.5.5.42",
-    "DownloadCount": 3450123
+    "Changelog": "## What's Changed\r\n* CE arachne cone predict touchup by @gynorhino in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1304\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.5.42...7.5.5.43",
+    "DownloadCount": 3450175
   },
   {
     "Author": "The Combat Reborn Team",
@@ -96,7 +96,7 @@
     "AssemblyVersion": "7.5.5.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.5.1/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Move texture loading to the main thread, ran code cleanup by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/19\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.5.0...7.5.5.1",
-    "DownloadCount": 35965
+    "DownloadCount": 35966
   },
   {
     "Author": "The Combat Reborn Team",
@@ -165,7 +165,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Raph/upstream by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/657\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.1.1...7.5.5.0",
-    "DownloadCount": 1044701
+    "DownloadCount": 1044718
   },
   {
     "Author": "The Combat Reborn Team",
