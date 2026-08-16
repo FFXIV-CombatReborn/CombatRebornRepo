@@ -33,7 +33,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Guard AutoOn logic by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1353\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.5.31...7.5.5.32",
-    "DownloadCount": 3028723
+    "DownloadCount": 3028798
   },
   {
     "Author": "The Combat Reborn Team",
@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.4.5.11/latest.zip",
     "TestingAssemblyVersion": "7.4.5.11",
     "Changelog": "## What's Changed\r\n* Update pharosb4 arena slightly. by @wen-ff in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1311\r\n* rewrite boss 1 circle AOE, fix boss 4 predict by @gynorhino in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1312\r\n* Moved cancel cast logic out of actionmanager to main plugin executehints, added debugging, and properly reset timer on shouldcancel by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1313\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.5.46...7.5.5.47",
-    "DownloadCount": 3472568
+    "DownloadCount": 3472831
   },
   {
     "Author": "The Combat Reborn Team",
@@ -165,7 +165,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Raph/upstream by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/657\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.1.1...7.5.5.0",
-    "DownloadCount": 1045696
+    "DownloadCount": 1045697
   },
   {
     "Author": "The Combat Reborn Team",
@@ -259,7 +259,7 @@
     "AssemblyVersion": "7.5.5.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.5.1/latest.zip",
     "Changelog": "## What's Changed\r\n* Correctly resolve weird player names by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/27\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.5.0...7.5.5.1",
-    "DownloadCount": 41453
+    "DownloadCount": 41454
   },
   {
     "Author": "The Combat Reborn Team",
