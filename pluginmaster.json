@@ -33,7 +33,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Add DRN territory ID by @ixovar in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1413\r\n\r\n## New Contributors\r\n* @ixovar made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1413\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.7.12...7.5.7.13",
-    "DownloadCount": 3482795
+    "DownloadCount": 3483061
   },
   {
     "Author": "The Combat Reborn Team",
@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.7.3/latest.zip",
     "TestingAssemblyVersion": "7.5.7.3",
     "Changelog": "## What's Changed\r\n* feat: shinryu's domain (unreal) module by @Le-Vagabond-gh in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1388\r\n\r\n## New Contributors\r\n* @Le-Vagabond-gh made their first contribution in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1388\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.7.1...7.5.7.2",
-    "DownloadCount": 3937806
+    "DownloadCount": 3937855
   },
   {
     "Author": "The Combat Reborn Team",
@@ -96,7 +96,7 @@
     "AssemblyVersion": "7.5.7.4",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.7.4/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* UI feedback thing by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/25\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.7.3...7.5.7.4",
-    "DownloadCount": 42540
+    "DownloadCount": 42546
   },
   {
     "Author": "The Combat Reborn Team",
@@ -126,7 +126,7 @@
     "AssemblyVersion": "7.5.0.3",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.5.0.3/EasyZoomReborn.zip",
     "Changelog": "## What's Changed\r\n* Added pr buildtest by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/17\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.5.0.2...7.5.0.3",
-    "DownloadCount": 63325
+    "DownloadCount": 63326
   },
   {
     "Author": "The Combat Reborn Team",
@@ -165,7 +165,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.4.5.17",
     "Changelog": "## What's Changed\r\n* Autogig fix by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/670\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.6.0...7.5.6.1",
-    "DownloadCount": 1137457
+    "DownloadCount": 1137481
   },
   {
     "Author": "The Combat Reborn Team",
@@ -259,7 +259,7 @@
     "AssemblyVersion": "7.5.7.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.7.1/latest.zip",
     "Changelog": "## What's Changed\r\n* Restructured so its not a nightmare to maintain, nuget bump, misc fixes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/35\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.7.0...7.5.7.1",
-    "DownloadCount": 66045
+    "DownloadCount": 66076
   },
   {
     "Author": "The Combat Reborn Team",
