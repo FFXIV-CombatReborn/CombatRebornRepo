@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.7.4/latest.zip",
     "TestingAssemblyVersion": "7.5.7.4",
     "Changelog": "## What's Changed\r\n* Fix DSR Wrath divebomb marker using stale Charibert by @emiripoint in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1403\r\n* Update UI to match RBM standard and some clean up and touch ups for some EW modules by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1404\r\n\r\n## New Contributors\r\n* @emiripoint made their first contribution in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1403\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.8.7...7.5.8.8",
-    "DownloadCount": 4017619
+    "DownloadCount": 4017627
   },
   {
     "Author": "The Combat Reborn Team",
