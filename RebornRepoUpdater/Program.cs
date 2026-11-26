@@ -21,7 +21,7 @@ class Program
 		new KnownRepo("ZodiacBuddyReborn", "ZodiacBuddyReborn"),
 		new KnownRepo("PassportCheckerReborn", "PassportCheckerReborn"),
 		new KnownRepo("NoSillyReborn", "NoSillyReborn"),
-        //new KnownRepo("party-finder-plugin", "PartyFinderReborn", "Party-Finder-Reborn"),
+        new KnownRepo("HuntBuddyReborn", "HuntBuddyReborn"),
         new KnownRepo("Understudy", "Understudy", "aventurescence")
 	];
 
