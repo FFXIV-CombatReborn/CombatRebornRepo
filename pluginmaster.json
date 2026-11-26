@@ -33,7 +33,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Fix for ground targeting actions by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1432\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.8.10...7.5.8.11",
-    "DownloadCount": 3615675
+    "DownloadCount": 3615787
   },
   {
     "Author": "The Combat Reborn Team",
@@ -67,7 +67,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.5.7.4/latest.zip",
     "TestingAssemblyVersion": "7.5.7.4",
     "Changelog": "## What's Changed\r\n* Fix duplicate party members when switching Duty Recorder viewpoints by @emiripoint in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1407\r\n* SHB cleanup pass, added missing stuff from upstream by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1408\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.5.8.10...7.5.8.11",
-    "DownloadCount": 4042833
+    "DownloadCount": 4043005
   },
   {
     "Author": "The Combat Reborn Team",
@@ -96,7 +96,7 @@
     "AssemblyVersion": "7.5.8.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.5.8.2/ActionTimelineReborn.zip",
     "Changelog": "## What's Changed\r\n* Updates to RBM standard by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/27\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.5.8.1...7.5.8.2",
-    "DownloadCount": 46105
+    "DownloadCount": 46109
   },
   {
     "Author": "The Combat Reborn Team",
@@ -165,7 +165,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.8.2/GatherbuddyReborn.zip",
     "TestingAssemblyVersion": "7.5.8.2",
     "Changelog": "## What's Changed\r\n* Fix ability to rename auto gather and crafting lists by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/682\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.8.6...7.5.8.7",
-    "DownloadCount": 1179468
+    "DownloadCount": 1179923
   },
   {
     "Author": "The Combat Reborn Team",
@@ -259,7 +259,7 @@
     "AssemblyVersion": "7.5.8.2",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.8.2/latest.zip",
     "Changelog": "## What's Changed\r\n* Updates to RBM standard by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/38\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.8.1...7.5.8.2",
-    "DownloadCount": 78212
+    "DownloadCount": 78223
   },
   {
     "Author": "The Combat Reborn Team",
@@ -286,14 +286,14 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IsTestingExclusive": false,
-    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/NSR_Icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/refs/heads/main/IconAssets/NSR_Icon.png",
     "Punchline": "For those who click their own buttons, but sometimes click the wrong ones.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/NoSillyReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.5.0/latest.zip",
-    "AssemblyVersion": "7.5.5.0",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.5.0/latest.zip",
-    "Changelog": "## What's Changed\r\n* Update for 7.55 by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.5.0.2...7.5.5.0",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.8.1/latest.zip",
+    "AssemblyVersion": "7.5.8.1",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/NoSillyReborn/releases/download/7.5.8.1/latest.zip",
+    "Changelog": "## What's Changed\r\n* Reborn UI, rework, and Evercold prep by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/NoSillyReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/NoSillyReborn/compare/7.5.5.0...7.5.8.1",
     "DownloadCount": 8144
   },
   {
@@ -324,7 +324,7 @@
     "AssemblyVersion": "7.5.8.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/HuntBuddyReborn/releases/download/7.5.8.1/latest.zip",
     "Changelog": "## What's Changed\r\n* Reborn'd by @LTS-FFXIV in https://github.com/LTS-FFXIV/HuntBuddyReborn/pull/1\r\n\r\n## New Contributors\r\n* @LTS-FFXIV made their first contribution in https://github.com/LTS-FFXIV/HuntBuddyReborn/pull/1\r\n\r\n**Full Changelog**: https://github.com/LTS-FFXIV/HuntBuddyReborn/commits/7.5.8.1",
-    "DownloadCount": 2
+    "DownloadCount": 7
   },
   {
     "Author": "Churin",
